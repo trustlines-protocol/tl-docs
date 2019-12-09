@@ -1,0 +1,58 @@
+<!-- Sidebar -->
+<div id="sidebar">
+  <div class="inner">
+
+    <!-- Search -->
+    <section id="search" class="alt">
+      <form method="post" action="#">
+        <input type="text" name="query" id="query" placeholder="Search" />
+      </form>
+    </section>
+
+    <!-- Menu -->
+    <nav id="menu">
+      <header class="major">
+        <h2>Menu</h2>
+      </header>
+      <ul>
+        <li><a href="{{ '' | absolute_url }}">Home</a></li>
+        <ul class="nav">
+          <li><a href="#">Guides</a>
+            <ul>
+              <li class="side_sub"><a href="{{ 'docs/network/external_comms_guide.html' | absolute_url }}">External Communications Guide</a></li>
+              <li><a href="{{ 'docs/brand_guidelines.html' | absolute_url }}">Brand Guidelines</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav">
+          <li><a href="#">Legal</a>
+            <ul>
+              <li><a href="{{ 'docs/foundation/trademarks.html' | absolute_url }}">Trademarks</a></li>
+            </ul>
+          </li>
+        </ul>
+        <li><a href="{{ 'elements.html' | absolute_url }}">Site elements</a></li>
+      </ul>
+    </nav>
+
+    <!-- Section -->
+    <section>
+      <header class="major">
+        <h2>Get in touch</h2>
+      </header>
+      <p>If you need help or just want to chat with other community members, join our community channels.</p>
+      <ul class="contact">
+        <li><img class="side_icon" src="{{ 'assets/images/twitter.svg' | absolute_url }}" /><a href="https://twitter.com/TrustlinesFound" target="_blank">Trustlines Foundation on Twitter</a></li>
+        <li><img class="side_icon" src="{{ 'assets/images/reddit.svg' | absolute_url }}" /><a href="https://www.reddit.com/r/Trustlines/" target="_blank">Trustlines on Reddit</a></li>
+        <li><img class="side_icon" src="{{ 'assets/images/telegram.svg' | absolute_url }}" /><a href="https://t.me/trustlines_network" target="_blank">Trustlines Network Telegram</a></li>
+        <li><img class="side_icon" src="{{ 'assets/images/gitter.svg' | absolute_url }}" /><a href="https://gitter.im/trustlines/community" target="_blank">Trustlines Technical Chat on Gitter</a></li>
+      </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+      <p class="copyright">&copy; Trustlines Foundation. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+    </footer>
+
+  </div>
+</div>

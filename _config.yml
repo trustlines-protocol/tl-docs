@@ -3,7 +3,7 @@ title: Trustlines
 subtitle: Docs
 email: youremailaddress@gmail.com
 description: Documentation for Trustlines
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "tl-docs" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
 street_address: 1234 Somewhere Road
 city: Nashville

@@ -4032,3 +4032,7 @@ section h2 {
 .main hr {
   margin: 0.5em 0 1em 0!important;
 }
+
+#menu ul a.external_menu {
+  color: #F07878;
+}

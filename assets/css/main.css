@@ -2255,7 +2255,7 @@ header.major> :last-child {
 }
 
 header.main> :last-child {
-  margin: 0 0 1em 0;
+  margin: -1em 0 1em 0;
 }
 
 /* Form */
@@ -4008,4 +4008,20 @@ ul .nav {
 
 .contact a {
   border-bottom: dotted 1px #F07878;
+}
+
+.brand_guidelines_img {
+  max-width: 95%;
+}
+
+.brand_guidelines_link {
+  border-bottom: none;
+}
+
+section ul {
+  padding-left: 2em;
+}
+
+section h2 {
+  margin-top: 1em;
 }

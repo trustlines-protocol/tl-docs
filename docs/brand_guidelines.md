@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Brand Guidelines
-subtitle: v1.1
+subtitle: Version 1.1
 ---
+
+_Last updated: September 2019_
+
+_Download as PDF: <a href="../assets/pdf/TL-Brand-Guidelines-V1.1.pdf" target="_blank">TL-Brand-Guidelines-V1.1.pdf</a>_
 
 ### Table of Contents
 

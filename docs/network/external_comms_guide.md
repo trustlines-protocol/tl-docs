@@ -1,4 +1,9 @@
-General information
+---
+layout: page
+title: Communications Guide for the community
+---
+
+## General information
 --------------------------------------------------------------------------------------------------------------------------------
 
 ### Background

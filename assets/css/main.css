@@ -4010,12 +4010,15 @@ ul .nav {
   border-bottom: dotted 1px #F07878;
 }
 
-.brand_guidelines_img {
-  max-width: 95%;
-}
-
 .brand_guidelines_link {
   border-bottom: none;
+}
+
+section p a .brand_guidelines_img {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 95%;
 }
 
 section ul {
@@ -4024,4 +4027,8 @@ section ul {
 
 section h2 {
   margin-top: 1em;
+}
+
+.main hr {
+  margin: 0.5em 0 1em 0!important;
 }

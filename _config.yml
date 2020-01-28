@@ -1,16 +1,14 @@
 # Site settings
 title: Trustlines
 subtitle: Docs
-email: youremailaddress@gmail.com
+email: contact@trustlines.foundation
 description: Documentation for Trustlines
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Städtle 38
+city: Vaduz
+zip_code: 9490
+country: Liechtenstein
 
 # Social settings
 500px_url:

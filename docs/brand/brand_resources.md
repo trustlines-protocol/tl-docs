@@ -17,6 +17,11 @@ title: Brand Resources
 -   2.2 [Gradient](#gradient-1)
 -   2.3 [Grayscales](#grayscales-1)
 
+#### 2. [Trustlines Protocol](#trustlines-protocol)
+
+-   2.1 [Blue](#blue-2)
+-   2.2 [Gradient](#gradient-2)
+-   2.3 [Grayscales](#grayscales-2)
 
 ___
 

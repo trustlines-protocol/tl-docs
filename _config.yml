@@ -3,7 +3,7 @@ title: Trustlines
 subtitle: Docs
 email: contact@trustlines.foundation
 description: Documentation for Trustlines
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
 street_address: Städtle 38
 city: Vaduz

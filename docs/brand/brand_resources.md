@@ -295,8 +295,8 @@ build up consistent gradients.
 		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_5.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-black_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_8.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_8.svg">SVG</a>]</p>
 	</div>
 </div>
 

@@ -2,22 +2,38 @@
 title: Trustlines
 subtitle: Docs
 email: contact@trustlines.foundation
-description: Documentation for Trustlines
+description: Non-technical Documentation for Trustlines Network
 baseurl: "" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
 street_address: Städtle 38
 city: Vaduz
 zip_code: 9490
 country: Liechtenstein
+tagline: Trustlines Docs
+url: https://docs.trustlines.network/
+twitter:
+  username: TrustlinesFound
+logo: /assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_14.png
 
 # Social settings
 500px_url:
 github_url: https://github.com/trustlines-protocol
 twitter_url: https://twitter.com/TrustlinesFound
 reddit_url: https://reddit.com/r/Trustlines
+social:
+  links:
+    - https://twitter.com/TrustlinesFound
+    - https://reddit.com/r/Trustlines
+    - https://github.com/trustlines-protocol
+    - https://trustlines.network/
+    - https://blog.trustlines.network/
+    - https://forum.trustlines.network/
+    - https://dev.trustlines.network/
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
 
 kramdown:
  input: GFM

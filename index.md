@@ -12,14 +12,14 @@ layout: default
 			<span class="icon fa-sitemap"></span>
 			<div class="content">
 				<h3>Trustlines Foundation</h3>
-				<p>The <a href="https://www.trustlines.foundation/" target="_blank">Trustlines Foundation</a> is supporting research, development, deployment, governance and adoption of the Trustlines Protocol, with a focus on acting in a supporting role within the Trustlines Network.</p>
+				<p>The <a href="https://trustlines.foundation/" target="_blank">Trustlines Foundation</a> is supporting research, development, deployment, governance and adoption of the Trustlines Protocol, with a focus on acting in a supporting role within the Trustlines Network.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-code"></span>
 			<div class="content">
 				<h3>Protocol Developers</h3>
-				<p>The Trustlines Network is an open-source project with multiple contributors. If you want to contribute to the protocol, check out the <a href="(https://dev.trustlines.network/" target="_blank">documentation</a> and <a href="https://github.com/trustlines-protocol" target="_blank">GitHub</a> to get started.</p>
+				<p>The Trustlines Network is an open-source project with multiple contributors. If you want to contribute to the protocol, check out the <a href="https://dev.trustlines.network/" target="_blank">developer documentation</a> and <a href="https://github.com/trustlines-protocol" target="_blank">GitHub</a> to get started.</p>
 			</div>
 		</article>
 		<article>
@@ -47,7 +47,7 @@ layout: default
 			<span class="icon fa-laptop"></span>
 			<div class="content">
 				<h3>App Developers‍</h3>
-				<p>App developers can use the Trustlines infrastructure out of the box as a base layer to build their apps on top of the Trustlines Protocol. Please see our <a href="(https://dev.trustlines.network/" target="_blank">documentation</a> for further details.</p>
+				<p>App developers can use the Trustlines infrastructure out of the box as a base layer to build their apps on top of the Trustlines Protocol. Please see our <a href="https://dev.trustlines.network/" target="_blank">developer documentation</a> for further details.</p>
 			</div>
 		</article>
 		<article>

@@ -15,7 +15,7 @@ The quickstart script is a means for validators to easily set up the (required) 
 
 The quickstart script is available at [https://quickstart.tlbc.trustlines.foundation](https://quickstart.tlbc.trustlines.foundation/), and can be run in one line by using `bash <(curl -L quickstart.tlbc.trustlines.foundation)`.
 
-You can find detailed information about the quickstart script and the services validators are required to run in [this blog post.](https://medium.com/trustlines-foundation/t-x-launching-the-trustlines-blockchain-ffeb82b6989b)
+You can find detailed information about the quickstart script and the services validators are required to run in [this blog post.](https://blog.trustlines.network/t-x-launching-the-trustlines-blockchain)
 
 Make sure to set your nodes up on time before for the launch of the chain on 21st of November at 12:00PM CET. We recommend starting with the installation of the node asap in order to have enough buffer to resolve potential issues and ensure that the nodes are properly set up. The validator nodes will automatically start producing blocks once the start date is reached.
 

@@ -7,7 +7,7 @@ categories: [Trustlines Blockchain]
 
 Hey Trustlines enthusiasts!
 
-Below you find an update on the recent launch of the Trustlines Blockchain, an analysis of inactive validators and a heads-up for the upcoming first proposed hard fork. We recommend all inactive validators to [set up their nodes](https://www.reddit.com/r/Trustlines/comments/dwclk6/trustlines_blockchain_set_up_your_validator_nodes/) before the end of the grace period to ensure not being forked out.
+Below you find an update on the recent launch of the Trustlines Blockchain, an analysis of inactive validators and a heads-up for the upcoming first proposed hard fork. We recommend all inactive validators to [set up their nodes](../14/set-up-your-validator-nodes-for-the-tlbc-launch-on-nov-21) before the end of the grace period to ensure not being forked out.
 
 <!--more-->
 
@@ -37,7 +37,7 @@ If we include the validators that did not produce a single block, we have the fo
 
 ## Upcoming 1st hard fork proposal and end of "grace period"
 
-As outlined in the [Trustlines Blockchain launch blog post](https://medium.com/trustlines-foundation/t-x-launching-the-trustlines-blockchain-ffeb82b6989b), the Trustlines Foundation will propose a first hard fork after a "grace period" of two weeks post blockchain launch, which will switch validator handling from a list to a contract and will remove inactive validators.
+As outlined in the [Trustlines Blockchain launch blog post](https://blog.trustlines.network/t-x-launching-the-trustlines-blockchain), the Trustlines Foundation will propose a first hard fork after a "grace period" of two weeks post blockchain launch, which will switch validator handling from a list to a contract and will remove inactive validators.
 
 This means that at the end of the grace period on the 5th of December, and unless they become stable until then, the above listed validators should be removed from the validator set due to inactivity.
 

@@ -2,7 +2,7 @@
 layout: posts
 title:  "Status update and the first proposed hard fork"
 excerpt_separator: <!--more-->
-categories: [blockchain]
+categories: [Trustlines Blockchain]
 ---
 
 Hello, Trustlines community!
@@ -13,7 +13,7 @@ The time has come for the validators to make a choice on the hard fork that the 
 
 <!--more-->
 
-[Earlier](https://www.reddit.com/r/Trustlines/comments/e1i7u4/trustlines_blockchain_reminder_to_inactive/), we reminded all the Trustlines Blockchain validators who got a slot in [the auction](https://medium.com/trustlines-foundation/trustlines-validator-spotlight-deep-dive-on-rewards-economics-and-opportunities-for-validators-ec75f81088a6) to come online by the 5th of December. This heads-up was because the Trustlines Foundation [proposed](https://medium.com/trustlines-foundation/t-x-launching-the-trustlines-blockchain-ffeb82b6989b) a hard fork. The fork would switch validator handling from a list to a contract and remove inactive validators. Getting removed from the validator set would mean that removed validators are unable to earn block rewards. Still, their stake would not get slashed, but remain locked until the end of the validation period.
+[Earlier](../../11/25/reminder-to-inactive-validators-launch-recap-upcoming-1st-hard-fork-proposal), we reminded all the Trustlines Blockchain validators who got a slot in [the auction](https://blog.trustlines.network/trustlines-validator-spotlight-deep-dive-on-rewards-economics-and-opportunities-for-validators) to come online by the 5th of December. This heads-up was because the Trustlines Foundation [proposed](https://blog.trustlines.network/t-x-launching-the-trustlines-blockchain) a hard fork. The fork would switch validator handling from a list to a contract and remove inactive validators. Getting removed from the validator set would mean that removed validators are unable to earn block rewards. Still, their stake would not get slashed, but remain locked until the end of the validation period.
 
 If the community, specifically the validators, chooses to accept the proposed hard fork, it will happen next week at block height 307703. This block should be produced approximately on Thursday the 12th of December 2019 at 11:45 AM CET, which gives the Validators about one week from the end of the grace period to update their nodes. The validator contract that would handle the active validator set on the Trustlines Blockchain can be found at address [0xf129765e99ec542bc49c81a9ef6c5fff10529322](https://explore.tlbc.trustlines.foundation/address/0xf129765e99ec542bc49c81a9ef6c5fff10529322/transactions) on the Trustlines Blockchain.
 

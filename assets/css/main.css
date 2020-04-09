@@ -2077,7 +2077,6 @@ a {
   -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-  border-bottom: dotted 1px;
   color: #F07878;
   text-decoration: none;
 }
@@ -2085,6 +2084,7 @@ a {
 a:hover {
   border-bottom-color: #F07878;
   color: #F05A55 !important;
+  border-bottom: solid 1px;
 }
 
 a:hover strong {
@@ -4098,4 +4098,10 @@ p.brand_images_hori {
   background-color: #dcdce1;
   border-radius: 2px;
   padding: 5px;
+}
+
+p.presentation_images {
+  margin: 0;
+  display: block;
+  margin-bottom: 1em;
 }

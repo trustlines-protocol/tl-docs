@@ -1224,6 +1224,13 @@ body {
   .\-1u\28small\29 {
     margin-left: 8.33333%;
   }
+
+  .trademark_guidelines_img {
+    max-width: 480px;
+    max-height: 850px;
+    display: block;
+    margin-right: auto;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -1437,6 +1444,13 @@ body {
   .\-1u\28xsmall\29 {
     margin-left: 8.33333%;
   }
+
+  .trademark_guidelines_img {
+    max-width: 380px;
+    max-height: 650px;
+    display: block;
+    margin-right: auto;
+  }
 }
 
 @media screen and (max-width: 360px) {
@@ -1649,6 +1663,13 @@ body {
 
   .\-1u\28xxsmall\29 {
     margin-left: 8.33333%;
+  }
+
+  .trademark_guidelines_img {
+    max-width: 300px;
+    max-height: 450px;
+    display: block;
+    margin-right: auto;
   }
 }
 
@@ -2923,7 +2944,7 @@ table td {
 }
 
 table th {
-  color: #323232;
+  color: #fafafa;
   font-size: 0.9em;
   font-weight: 600;
   padding: 0 0.75em 0.75em 0.75em;
@@ -4167,4 +4188,10 @@ p.presentation_images {
   margin: 0;
   display: block;
   margin-bottom: 1em;
+}
+
+.trademark_guidelines_img {
+  height: 75em;
+  display: block;
+  margin: auto;
 }

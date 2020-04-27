@@ -2210,7 +2210,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 3em;
   margin: 0 0 0.5em 0;
   line-height: 1.3;
 }
@@ -2273,8 +2273,8 @@ sup {
 blockquote {
   border-left: solid 3px rgba(210, 215, 217, 0.75);
   font-style: italic;
-  margin: 0 0 2em 0;
-  padding: 0.5em 0 0.5em 2em;
+  margin: 0 0 1.5em 1em;
+  padding: 0.5em 0 0.5em 1em;
 }
 
 code {
@@ -4194,4 +4194,8 @@ p.presentation_images {
   height: 75em;
   display: block;
   margin: auto;
+}
+
+blockquote p {
+  margin: 0;
 }

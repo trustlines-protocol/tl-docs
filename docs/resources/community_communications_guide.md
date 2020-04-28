@@ -6,27 +6,27 @@ subtitle: Version 1.0
 
 ## Table of Contents
 
-#### 1. [General information](#1-general-information)
+#### 1. [General information](#1-general-information-1)
 
 > This section will give you info on the background of Trustlines. You can also find an introduction to the different parts of the ecosystem as well as on some entities participating in the ecosystem.
 
-#### 2. [Resources](https://docs.google.com/document/d/1CKaBO48nfsMGOM2YjFKfxJ1QqAUqhcnaji12ZRRDhcs/edit#heading=h.un58rnx6ql9m)
+#### 2. [Resources](#2-resources-1)
 
 > Further reading to dive deeper into learning about Trustlines. Also included are resources for visual representations of Trustlines and other forms of media that you can use.
 
-#### 3. [Arranging an event](https://docs.google.com/document/d/1CKaBO48nfsMGOM2YjFKfxJ1QqAUqhcnaji12ZRRDhcs/edit#heading=h.p8nhgwe337p2)
+#### 3. [Arranging an event](#3-arranging-an-event-1)
 
 > Who should you contact, what kind of help can you get for organizing an event involving Trustlines and how to best engage your visitors
 
-#### 4. [Use cases of the Trustlines Protocol](https://docs.google.com/document/d/1CKaBO48nfsMGOM2YjFKfxJ1QqAUqhcnaji12ZRRDhcs/edit#heading=h.7buh6tvzg2nm)
+#### 4. [Use cases of the Trustlines Protocol](#4-use-cases-of-the-trustlines-protocol-1)
 
 > Examples of some use cases for Trustlines.
 
-#### 5. [Trademarks and licensing](https://docs.google.com/document/d/1CKaBO48nfsMGOM2YjFKfxJ1QqAUqhcnaji12ZRRDhcs/edit#heading=h.3lv1649knqf9)
+#### 5. [Trademarks and licensing](#5-trademarks-and-licensing-1)
 
 > Information about the Trustlines trademarks and how you can use them.
 
-#### 6. [Official communication channels](https://docs.google.com/document/d/1CKaBO48nfsMGOM2YjFKfxJ1QqAUqhcnaji12ZRRDhcs/edit#heading=h.qtkcdb6g8gf2)
+#### 6. [Communication and Trustlines Network Channels](#6-communication-and-trustlines-network-channels-1)
 
 ___
 

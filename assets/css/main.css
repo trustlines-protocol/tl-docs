@@ -2342,7 +2342,7 @@ header p {
 header.major> :last-child {
   border-bottom: solid 3px #F05A55;
   display: inline-block;
-  margin: 0 0 2em 0;
+  margin: 0 0 1em 0;
   padding: 0 0.75em 0.5em 0;
 }
 
@@ -3624,15 +3624,15 @@ button:disabled,
 }
 
 #sidebar>.inner {
-  padding: 2.22222em 2.22222em 2.44444em 2.22222em;
+  padding: 2.22222em 1.5em 2.44444em 1.5em;
   position: relative;
   width: 26em;
 }
 
 #sidebar>.inner>* {
   border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-  margin: 0 0 3.5em 0;
-  padding: 0 0 3.5em 0;
+  margin: 0 0 1.5em 0;
+  padding: 0 0 1.5em 0;
 }
 
 #sidebar>.inner>*> :last-child {
@@ -3961,12 +3961,16 @@ button:disabled,
 
 /* Footer */
 #footer .copyright {
-  color: #E1E1E1;
-  font-size: 0.9em;
+  color: #c6c4c4;
+  font-size: 0.6em;
 }
 
-#footer .copyright a {
-  color: inherit;
+#footer .copyright_link {
+  font-size: 0.7em;
+}
+
+#footer .copyright_link a {
+  color: #c6c4c4;
 }
 
 /* Menu */
@@ -3987,7 +3991,7 @@ button:disabled,
 
 #menu ul a, #menu ul span {
   border-bottom: 0;
-  color: #fafafa;
+  color: #fff;
   cursor: pointer;
   display: block;
   font-size: 0.9em;
@@ -4126,7 +4130,7 @@ section h2 {
 }
 
 #menu ul a.external_menu {
-  color: #F05A55;
+  color: #fafafa;
 }
 
 .\36 u img {
@@ -4198,4 +4202,30 @@ p.presentation_images {
 
 blockquote p {
   margin: 0;
+}
+
+.nav li>ul>li {
+  text-transform: none;
+}
+
+#menu li>ul a {
+  color: #fafafa;
+}
+
+#menu li>ul>li>ul a {
+  color: #e6e6e6;
+}
+
+.nav li>ul>li>ul {
+  border: 1px solid #666;
+}
+
+.nav li>ul>li>ul>li {
+  text-transform: none;
+  color: #000;
+  border-radius: 2px;
+}
+
+#sidebar section p {
+  font-size: 14px;
 }

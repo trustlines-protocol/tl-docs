@@ -4229,3 +4229,7 @@ blockquote p {
 #sidebar section p {
   font-size: 14px;
 }
+
+a.comms_guide_res_table strong {
+  color: #fff;
+}

@@ -104,8 +104,8 @@ Examples of capitalizing brand names would be Trustlines **N**etwork, Trustlines
 
 | |
 |:-:|:-:|
-| [**Brand Guidelines**](../brand/brand_guidelines) | [**Presentation Slides**](presentations/presentation_slides) |
-| [**Brand Resources**](../brand/brand_resources) | [**Trademark Guidelines**](../foundation/trademarks) |
+| <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
+| <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
 
 ## 3. Arranging an event
 
@@ -166,50 +166,26 @@ You can read more about this in the [People Powered Money on the Trustlines Prot
 
 ## 6. Communication and Trustlines Network Channels
 
-#### Trustlines Foundation at Twitter
+####  [Trustlines Foundation at Twitter](https://twitter.com/TrustlinesFound)
 
-- <https://twitter.com/TrustlinesFound>
+#### [Trustlines Blog](https://blog.trustlines.network/)
 
-#### Trustlines Blog
+#### [Trustlines Forum](https://forum.trustlines.network/)
 
-- <https://blog.trustlines.network/>
+#### [Trustlines Foundation YouTube channel](https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA)
 
-#### Trustlines Forum
+#### [Trustlines App at Twitter](https://twitter.com/trustlines_app)
 
-- <https://forum.trustlines.network/>
+#### [Trustlines Network Community Telegram group](https://t.me/trustlines_network)
 
-#### Trustlines Foundation YouTube channel
+#### [Trustlines Technical Chat at Gitter](https://gitter.im/trustlines/community)
 
-- <https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA>
+#### [Trustlines Validator Twitter account](https://twitter.com/tl_validator)
 
-#### Trustlines App at Twitter
+#### [Trustlines Subreddit](https://www.reddit.com/r/Trustlines)
 
-- <https://twitter.com/trustlines_app>
+#### [Trustlines Network Website](https://trustlines.network/)
 
-#### Trustlines Network Community Telegram group
+#### [Trustlines Foundation Website](https://trustlines.foundation)
 
-- <https://t.me/trustlines_network>
-
-#### Trustlines Technical Chat at Gitter
-
-- <https://gitter.im/trustlines/community>
-
-#### Trustlines Validator Twitter account
-
-- <https://twitter.com/tl_validator>
-
-#### Trustlines Subreddit
-
-- [https://www.reddit.com/r/Trustlines](https://www.reddit.com/r/Trustlines)
-
-#### Trustlines Network Website
-
-- [https://trustlines.network](https://trustlines.network/)
-
-#### Trustlines Foundation Website
-
-- <https://trustlines.foundation>
-
-#### Trustlines App Website
-
-- <https://trustlines.app>
+#### [Trustlines App Website](https://trustlines.app)

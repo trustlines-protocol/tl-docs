@@ -4233,3 +4233,12 @@ blockquote p {
 a.comms_guide_res_table strong {
   color: #fff;
 }
+
+.app_guide_headerimg {
+  max-width: 50%;
+}
+
+.app_guide_img {
+  max-width: 40%;
+  margin-bottom: 1em;
+}

@@ -22,7 +22,7 @@ The Trustlines App is your key to using a form of money based on the idea of __m
 
 If you formalize these natural, informal agreements between trusted friends on a digital database, it becomes possible to "ripple" transactions through your network of connected friends-of-friends. That's the brilliant thing about using Trustlines: it turns trusted relationships into a payments network that looks and acts like "real" money.
 
-## Create a Trustline with a Friend
+## Create a trustline with a friend
 
 The first thing you must do upon downloading the Trustlines App is to create a trustline with a trusted peer. (The app is not useful without at least one trustline!)
 

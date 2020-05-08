@@ -4245,3 +4245,14 @@ a.comms_guide_res_table strong {
   max-width: 40%;
   margin-bottom: 1em;
 }
+
+#BackToTop {
+  bottom: 2.5vh;
+  right: 1.5vw;
+  font-size: 9px;
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  z-index: 999;
+  border-radius: 50%;
+}

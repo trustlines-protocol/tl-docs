@@ -137,8 +137,8 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/Network/PNG/TN-Logos-DarkGray_1_22.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/TN-Logos-DarkGray_1_22.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/TN-Logo-DarkGray_1_22.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
 		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-dark-grey.png"/></p>
@@ -161,8 +161,8 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/TN-Logos-LightGray_1_18.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/TN-Logos-LightGray_1_18.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/TN-Logo-LightGray_1_18.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-light-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
 		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-light-grey.png"/></p>

@@ -4152,8 +4152,8 @@ section h2 {
 
 p.brand_images {
   margin: 0;
-  height: 200px;
-  width: 200px;
+  height: 325px;
+  width: 400px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -4168,8 +4168,8 @@ p.brand_images {
 
 p.brand_images_hori {
   margin: 0;
-  height: 100px;
-  width: 200px;
+  height: 200px;
+  width: 400px;
   display: block;
   margin-left: auto;
   margin-right: auto;

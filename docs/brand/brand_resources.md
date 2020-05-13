@@ -8,20 +8,17 @@ title: Brand Resources
 #### 1. [Trustlines Network](#trustlines-network)
 
 -   1.1 [Grapefruit](#grapefruit)
--   1.2 [Gradient](#gradient)
--   1.3 [Grayscales](#grayscales)
+-   1.2 [Grayscales](#grayscales)
 
 #### 2. [Trustlines Foundation](#trustlines-foundation)
 
 -   2.1 [Blue](#blue)
--   2.2 [Gradient](#gradient-1)
--   2.3 [Grayscales](#grayscales-1)
+-   2.2 [Grayscales](#grayscales-1)
 
 #### 2. [Trustlines Protocol](#trustlines-protocol)
 
 -   2.1 [Blue](#blue-1)
--   2.2 [Gradient](#gradient-2)
--   2.3 [Grayscales](#grayscales-2)
+-   2.2 [Grayscales](#grayscales-2)
 
 ___
 
@@ -37,55 +34,23 @@ website should be 80% grapefruit tones).
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/grapefruit/TN-Logo-Grapefruit_1_1.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-red.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-red.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-center-red.svg">SVG</a>]</p>
 	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/grapefruit/TN-Logo-Grapefruit_1_4.svg">SVG</a>]</p>
+	<div class="6u 12u$(medium)">
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-red.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-red.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/svg/trustlines-mark-logo-red.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/grapefruit/TN-Logo-Grapefruit_1_2.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Network/svg/trustlines-network-logo-red.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/grapefruit/TN-Logo-Grapefruit_1_3.svg">SVG</a>]</p>
-	</div>
-</div>
-
-### Gradient
-
-Treat gradients carefully. When applying them,
-use linear mode at 45 degrees and make sure
-grapefruit tones are significantly dominant,
-as in these examples.
-
-See the [Brand Guidelines](brand_guidelines.html#32-gradients) for more details on how to
-build up consistent gradients.
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_13.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_13.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gradient/TN-Logo-Gradient_1_13.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_16.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_16.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gradient/TN-Logo-Gradient_1_16.svg">SVG</a>]</p>
-	</div>
-</div>
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_14.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_14.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gradient/TN-Logo-Gradient_1_14.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_15.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gradient/TN-Logo-Gradient_1_15.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gradient/TN-Logo-Gradient_1_15.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-red.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-red.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-name-logo-red.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -113,23 +78,23 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/network/png/black/TN-Logo-Black_1_5.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/black/TN-Logo-Black_1_5.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/black/TN-Logo-Black_1_5.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-center-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/network/png/black/TN-Logo-Black_1_8.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/black/TN-Logo-Black_1_8.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/black/TN-Logo-Black_1_8.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/svg/trustlines-mark-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/network/png/black/TN-Logo-Black_1_6.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/black/TN-Logo-Black_1_6.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/black/TN-Logo-Black_1_6.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/network/png/black/TN-Logo-Black_1_7.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/black/TN-Logo-Black_1_7.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/black/TN-Logo-Black_1_7.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-name-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -137,23 +102,23 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/white/TN-Logo-White_1_9.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/white/TN-Logo-White_1_9.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/white/TN-Logo-White_1_9.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-center-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/white/TN-Logo-White_1_12.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/white/TN-Logo-White_1_12.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/white/TN-Logo-White_1_12.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/svg/trustlines-mark-logo-white.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/white/TN-Logo-White_1_10.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/white/TN-Logo-White_1_10.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/white/TN-Logo-White_1_10.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/white/TN-Logo-White_1_11.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/white/TN-Logo-White_1_11.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/white/TN-Logo-White_1_11.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-name-logo-white.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -161,23 +126,23 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_21.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_21.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-dark/TN-Logo-DarkGray_1_21.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-center-dark-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_24.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_24.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-dark/TN-Logo-DarkGray_1_24.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/svg/trustlines-mark-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_22.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_22.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-dark/TN-Logo-DarkGray_1_22.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/Network/PNG/TN-Logos-DarkGray_1_22.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/TN-Logos-DarkGray_1_22.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/TN-Logo-DarkGray_1_22.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_23.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-dark/TN-Logos-DarkGray_1_23.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-dark/TN-Logo-DarkGray_1_23.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-name-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -185,23 +150,23 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_17.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_17.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-light/TN-Logo-LightGray_1_17.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-logo-center-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-logo-center-light-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_20.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_20.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-light/TN-Logo-LightGray_1_20.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/svg/trustlines-mark-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_18.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_18.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-light/TN-Logo-LightGray_1_18.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/TN-Logos-LightGray_1_18.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/TN-Logos-LightGray_1_18.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/TN-Logo-LightGray_1_18.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_19.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/network/png/gray-light/TN-Logos-LightGray_1_19.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/gray-light/TN-Logo-LightGray_1_19.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Network/PNG/trustlines-network-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/network/svg/trustlines-network-name-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -234,54 +199,23 @@ integrating them as part of one united system.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/blue/TF-Logo-Blue_1_1.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-center-blue.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/blue/TF-Logo-Blue_1_4.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/General/PNG/trustlines-mark-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/General/PNG/trustlines-mark-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/General/SVG/trustlines-mark-logo-blue.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/blue/TF-Logo-Blue_1_2.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-blue.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/blue/TF-Logo-Blue_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/blue/TF-Logo-Blue_1_3.svg">SVG</a>]</p>
-	</div>
-</div>
-
-### Gradient
-
-To create gradients for the Trustlines Foundation,
-simply substitute the grapefruit hexadecimal
-codes with those from the sky blue palette.
-
-See the [Brand Guidelines](brand_guidelines.html#63-gradients) for more details on how to
-build up consistent gradients.
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gradient/TF-Logo-Gradient_1_13.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gradient/TF-Logo-Gradient_1_16.svg">SVG</a>]</p>
-	</div>
-</div>
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gradient/TF-Logo-Gradient_1_14.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gradient/TF-Logo-Gradient_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gradient/TF-Logo-Gradient_1_15.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-blue.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -291,23 +225,23 @@ build up consistent gradients.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-Black_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_5.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-center-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_8.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images//brand/General/PNG/trustlines-mark-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/General/PNG/trustlines-mark-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/General/SVG/trustlines-mark-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-Black_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_6.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/foundation/png/black/TF-Logo-Black_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/black/TF-Logo-Black_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/black/TF-Logo-Black_1_7.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -315,23 +249,23 @@ build up consistent gradients.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/white/TF-Logo-White_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/white/TF-Logo-White_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/white/TF-Logos-White_9.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-center-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/white/TF-Logo-White_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/white/TF-Logo-White_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/white/TF-Logos-White_12.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/General/PNG/trustlines-mark-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/General/PNG/trustlines-mark-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/General/SVG/trustlines-mark-logo-white.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/white/TF-Logo-White_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/white/TF-Logo-White_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/white/TF-Logos-White_10.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/white/TF-Logo-White_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/white/TF-Logo-White_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/white/TF-Logos-White_11.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-white.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -339,23 +273,23 @@ build up consistent gradients.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-dark/TF-Logos-DarkGray_21.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_gd"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-center-dark-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_gd"><img src="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-dark/TF-Logos-DarkGray_24.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_gd"><img src="../../assets/images//brand/General/PNG/trustlines-mark-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/General/PNG/trustlines-mark-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/General/SVG/trustlines-mark-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-dark/TF-Logos-DarkGray_22.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-dark/TF-Logo-DarkGray_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-dark/TF-Logos-DarkGray_23.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_gd"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -363,23 +297,23 @@ build up consistent gradients.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-light/TF-Logos-LightGray_17.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-center-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-center-light-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-light/TF-Logos-LightGray_20.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images//brand/General/PNG/trustlines-mark-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/General/PNG/trustlines-mark-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/General/SVG/trustlines-mark-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-light/TF-Logos-LightGray_18.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-logo-light-grey.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/foundation/png/gray-light/TF-Logo-LightGray_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/foundation/svg/gray-light/TF-Logos-LightGray_19.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -391,50 +325,23 @@ ___
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/blue/TP-Logo-Blue_1.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-center-blue.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/blue/TP-Logo-Blue_4.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/blue/TP-Logo-Blue_2.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-blue.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/blue/TP-Logo-Blue_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/blue/TP-Logo-Blue_3.svg">SVG</a>]</p>
-	</div>
-</div>
-
-### Gradient
-
-Treat gradients carefully. When applying them,
-use linear mode at 45 degrees.
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/gradient/TP-Logo-Gradient_1.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/gradient/TP-Logo-Gradient_4.svg">SVG</a>]</p>
-	</div>
-</div>
-
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/gradient/TP-Logo-Gradient_2.svg">SVG</a>]</p>
-	</div>
-  <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/gradient/TP-Logo-Gradient_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/gradient/TP-Logo-Gradient_3.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-blue.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-blue.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-blue.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -462,23 +369,23 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/protocol/png/black/TP-Logo-Black_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/black/TP-Logo-Black_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/black/TP-Logo-Black_1.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-center-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/protocol/png/black/TP-Logo-Black_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/black/TP-Logo-Black_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/black/TP-Logo-Black_4.svg">SVG</a>]</p>
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-mark-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/protocol/png/black/TP-Logo-Black_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/black/TP-Logo-Black_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/black/TP-Logo-Black_2.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-black.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/protocol/png/black/TP-Logo-Black_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/black/TP-Logo-Black_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/black/TP-Logo-Black_3.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-black.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-black.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -486,22 +393,70 @@ and these values should never be altered.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/white/TP-Logo-White_1.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/white/TP-Logo-White_1.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/white/TP-Logo-White_1.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-center-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images"><img src="../../assets/images/brand/protocol/png/white/TP-Logo-White_4.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/white/TP-Logo-White_4.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/white/TP-Logos-RGB_4.svg">SVG</a>]</p>
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-mark-logo-white.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/white/TP-Logo-White_2.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/white/TP-Logo-White_2.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/white/TP-Logo-White_2.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-white.svg">SVG</a>]</p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images/brand/protocol/png/white/TP-Logo-White_3.png"/></p>
-		<p class="brand_links">Download: [<a href="../../assets/images/brand/protocol/png/white/TP-Logo-White_3.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/protocol/svg/white/TP-Logo-White_3.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-white.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-white.svg">SVG</a>]</p>
+	</div>
+</div>
+
+#### Gray - Dark
+
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-center-dark-grey.svg">SVG</a>]</p>
+	</div>
+  <div class="6u 12u$(medium)">
+		<p class="brand_images brand_images_black"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-mark-logo-dark-grey.svg">SVG</a>]</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-dark-grey.svg">SVG</a>]</p>
+	</div>
+  <div class="6u 12u$(medium)">
+		<p class="brand_images_hori brand_images_black"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-dark-grey.svg">SVG</a>]</p>
+	</div>
+</div>
+
+#### Gray - Light
+
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<p class="brand_images"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-center-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-center-light-grey.svg">SVG</a>]</p>
+	</div>
+  <div class="6u 12u$(medium)">
+		<p class="brand_images"><img src="../../assets/images/brand/General/PNG/trustlines-mark-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/General/PNG/trustlines-mark-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-mark-logo-light-grey.svg">SVG</a>]</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-logo-light-grey.svg">SVG</a>]</p>
+	</div>
+  <div class="6u 12u$(medium)">
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png"/></p>
+		<p class="brand_links">Download: [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>

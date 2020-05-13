@@ -51,7 +51,7 @@ Our trademarks include but are not limited to:
 -   our "Trustlines unicorn logo" design trademark:
 
 <div class="6u 12u$(medium)">
-  <p><img src="../../assets/images/brand/network/png/grapefruit/TN-Logo-Grapefruit_1_2.png"/></p>
+  <p><img src="../../assets/images/brand/network/png/trustlines-network-logo-red.png"/></p>
 </div>
 
 This list may be updated from time to time, especially as other trademarks are created or registered.

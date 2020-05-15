@@ -4246,6 +4246,16 @@ a.comms_guide_res_table strong {
   margin-bottom: 1em;
 }
 
+.vdw_img {
+  max-width: 60%;
+  margin-bottom: 1em;
+  max-height: 400px;
+}
+
+.vdw_a:hover {
+  border-bottom: none;
+}
+
 #BackToTop {
   bottom: 2.5vh;
   right: 1.5vw;

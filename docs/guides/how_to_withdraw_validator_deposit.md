@@ -21,7 +21,7 @@ You can find out the current **Unix timestamp** using a search engine of your ch
 
 <center><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit03.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit03.png"></a></center>
 
-## Verifying your address can withdraw from the contract
+## Verifying that your address can withdraw from the contract
 You will need to use the same address to withdraw that you used to bid.
 To verify your address, you can use the third field, `canWithdraw`.
 

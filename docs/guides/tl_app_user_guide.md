@@ -1,14 +1,14 @@
 ---
 layout: page
 title: User guide for Trustlines App
-subtitle: Version 1.0
+subtitle: Version 1.6
 ---
 
 _Note: The images in this guide are for educational purposes and might not represent all the latest changes in the app_
 
 ## Getting started with the Trustlines App
 
-<center><img class="app_guide_headerimg" src="../../assets/images/app_user_guide/tl_app_guide_header.png">
+<center><img class="app_guide_headerimg" src="../../assets/images/app_user_guide/tl_app_header.png">
 
 <p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p></center>
 
@@ -30,7 +30,7 @@ The first thing you must do upon downloading the Trustlines App is to create a t
 
 To add a contact, your friend must share their account address. You should both click on the "Contacts" item in the menu bar. In the upper right-hand corner of the screen is a "plus" sign for adding new contacts. Click this.
 
-<center><a href="../../assets/images/app_user_guide/v1.0/contacts.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/contacts.png"></a><a href="../../assets/images/app_user_guide/v1.0/add_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/add_contact.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/contacts.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/contacts.png"></a><a href="../../assets/images/app_user_guide/v1.6/add_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/add_contact.png"></a></center>
 
 Your friend should click "Show QR." You can scan this with your QR scanner (located in the upper right-hand corner of the screen).
 
@@ -42,7 +42,7 @@ You can edit your new contact's name. Make sure to label them with a name that y
 
 Now you'll need to enable a currency network. Pick something you are interested in using---purely as a "unit of account." Popular currency networks are USD, EUR, Hours, and Beer. You may also want to use your local currency.
 
-<center><a href="../../assets/images/app_user_guide/v1.0/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/currencies.png"></a><a href="../../assets/images/app_user_guide/v1.0/add_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/add_trustline.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/currencies.png"></a><a href="../../assets/images/app_user_guide/v1.6/add_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/add_trustline.png"></a></center>
 
 Now click on your contact's name. There will be an option to "Add trustline" for each enabled currency network (swipe left and right to find the one you want). Click the "plus" sign when you're ready to create your first trustline.
 
@@ -52,7 +52,7 @@ To create a trustline, first one party must create a proposal, and the other mus
 
 Each trustline consists of **two credit lines**. That is why there are two numbers to fill in: the left is the amount you would **lend**, and the right is the amount you can **borrow**. ("Borrow" can be thought of as your "spend limit" with this friend.) These two amounts can be set to whatever values you and your friend agree on. There is also an option to add interest to either of these credit lines. As a reasonable default, for real friends, we suggest you set both limits to the same value and use an interest rate of zero.
 
-<center><a href="../../assets/images/app_user_guide/v1.0/trustline_creation.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/trustline_creation.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/trustline_creation.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/trustline_creation.png"></a></center>
 
 Note that you are not actually lending or borrowing anything yet. You are simply agreeing on a credit limit between each other, similar to what happens when a bank issues a credit card.
 
@@ -62,7 +62,7 @@ It's best to **discuss this together** as you fill in the numbers. When you're r
 
 If you return now to the Overview screen, you'll see a big number at the top, with the word "Available" underneath, and "Send" and "Receive" buttons. This number is not your balance. Instead, it is your global credit limit: the sum of all the credit available on every trustline you have opened within a particular currency network. (It is similar to a credit limit on a credit card.)
 
-<center><a href="../../assets/images/app_user_guide/v1.0/overview.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/overview.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/overview.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/overview.png"></a></center>
 
 This number will go **down** whenever you make a payment using the Trustlines App because paying uses up available credit. It cannot go below zero.
 
@@ -78,7 +78,7 @@ To send a payment to someone you don't know yet, you can use your QR scanner to 
 
 If it's someone you plan to transact with again in the future, you can add them as a contact too (refer to step 1). If you already have them as a contact, you can hit "Send" directly from the Overview screen. (Make sure you swipe to select the right currency network before hitting "Send.")
 
-<center><a href="../../assets/images/app_user_guide/v1.0/send_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/send_payment.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/send_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/send_payment.png"></a></center>
 
 To send a payment to someone with whom you do not share a direct trustline, there needs to be enough capacity in the trustlines that connect you. You will be able to see whether or not the payment is possible when you fill out the details. There is a small text below the payment amount that will say "Max: ____." The payment will fail if it exceeds this max amount.
 
@@ -86,7 +86,7 @@ To send a payment to someone with whom you do not share a direct trustline, ther
 
 If you click on a contact's name, you will be able to view all the trustlines you have with them. Swipe left and right to view different currency networks. Each trustline will prominently display the available credit at the top. Below this are three numbers: "Lend up to," "Borrow up to," and "Balance."
 
-<center><a href="../../assets/images/app_user_guide/v1.0/trustline_view_eur.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/trustline_view_eur.png"></a><a href="../../assets/images/app_user_guide/v1.0/contact_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/contact_view.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/trustline_view_eur.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/trustline_view_eur.png"></a><a href="../../assets/images/app_user_guide/v1.6/contact_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/contact_view.png"></a></center>
 
 The lend and borrow amounts correspond to the two credit lines you and your friend agreed on when you first opened the trustline.
 
@@ -96,7 +96,7 @@ Your balance indicates the amount "owed". If it is negative, this is the amount 
 
 A good way to get started with using the Trustlines App is to use it for sending payments to your friends when splitting the bill at restaurants or for similar group activities. If you go out with your friends often, these payments will go back and forth for a long time, so Trustlines is a nice way to keep track of these little debts without anyone having to handle cash.
 
-<center><a href="../../assets/images/app_user_guide/v1.0/send_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/send_payment.png"></a><a href="../../assets/images/app_user_guide/v1.0/receive_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.0/receive_payment.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.6/send_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/send_payment.png"></a><a href="../../assets/images/app_user_guide/v1.6/receive_payment.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.6/receive_payment.png"></a></center>
 
 Here's how it could work: The person who pays the restaurant bill creates a general payment request for 10 euros. **Each friend** who owes her that portion of money can scan this QR code, and send her the suggested payment, using their available credit on Trustlines.
 

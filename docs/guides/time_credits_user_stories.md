@@ -1,8 +1,14 @@
-# Time Credits: User Stories
-
-
+---
+layout: page
+title: User Stories: Time Credits
+subtitle: Version 1.0
+---
 
 The following user stories are intended to illustrate possible ways to use Trustlines in a time credits system. This document is not comprehensive. It is meant to guide and inspire.
+
+<global image\>
+
+Caption: This diagram shows how different entities using time credits are naturally interconnected through Trustlines. A pink line represents a trustline between two individuals. A purple line represents a trustline between two organization accounts. Boxes represent communities in which each member has a trustline with the organization account. Characters with a round border are managers of an organization account. Anyone can ripple a transaction to anyone else in the network, as long as each connecting trustline has enough capacity.
 
 ## 1\. Decentralized Timebank
 

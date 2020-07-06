@@ -1,7 +1,10 @@
-# Time Credits on Trustlines
+---
+layout: page
+title: Time Credits on Trustlines
+subtitle: Version 1.0
+---
 
-
-Why use Trustlines for time credits
+##Why use Trustlines for time credits
 
 This article dives into the philosophy of time credits. It shows that emphasis on a circular economy makes the idea of time credits compatible with mutual credit. However, many time credit systems are limited by scalability problems due to their centralized nature. In contrast, Trustlines allows for a large-scale, **interoperable** network of time credits that prioritizes the self-governing nature of autonomous community work.
 

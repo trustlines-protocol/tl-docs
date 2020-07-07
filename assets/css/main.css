@@ -2176,7 +2176,6 @@ a:hover strong {
 }
 
 strong, b {
-  color: #F05A55;
   font-weight: 600;
 }
 
@@ -2272,7 +2271,6 @@ sup {
 
 blockquote {
   border-left: solid 3px rgba(210, 215, 217, 0.75);
-  font-style: italic;
   margin: 0 0 1.5em 1em;
   padding: 0.5em 0 0.5em 1em;
 }
@@ -2681,7 +2679,7 @@ ol li {
 
 ul {
   list-style: disc;
-  margin: 0 0 2em 0;
+  margin: 0 0 0.5em 0;
   padding-left: 1em;
 }
 
@@ -3710,7 +3708,7 @@ button:disabled,
     width: 24em;
     position: fixed;
     height: 100vh;
-    overflow-y: scroll;
+    overflow-y: hidden;
   }
 
   #sidebar>.inner>.alt {
@@ -4266,4 +4264,68 @@ a.comms_guide_res_table strong {
   position: fixed;
   z-index: 999;
   border-radius: 50%;
+}
+
+#main ul {
+  padding: 0.5em 0em 0em 1em;
+  margin-bottom: 2em;
+}
+
+#main ul li {
+  padding: 0.5em 0em 0em 0.5em;
+}
+
+#main blockquote ul {
+  margin-bottom: 0.5em;
+}
+
+#prev_next {
+  text-align: center;
+  margin: 2em 0em 2em 0em;
+  height: 200px;
+}
+
+a.prev_next {
+  border: solid 1px #fff;
+  border-radius: 50px;
+  padding: 1em 1.1em 1em 1.1em;
+  font-size: 22px;
+}
+
+a.prev_next_text {
+  margin-top: 2em;
+  font-size: 22px;
+}
+
+#prev_next div {
+  height: 75px;
+}
+
+.tc_img {
+  max-width: 99%;
+}
+
+center a:hover {
+  transition: none;
+  border-bottom: none;
+}
+
+.captioned_image {
+  max-width: 80%;
+  margin: auto;
+  display: block;
+  border: 1px solid #6C6C73;
+  margin-bottom: 2em;
+}
+
+.captioned_image section {
+  background-color: #ededed;
+  color: #12121F;
+  padding: 1em;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#table-of-contents {
+  font-weight: 500;
 }

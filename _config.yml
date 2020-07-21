@@ -46,6 +46,6 @@ highlighter: rouge
 # Sass
 sass:
   sass_dir: _sass
-  style: compressed
+
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -73,7 +73,7 @@ layout: default
 						{{ post.date | date: '%B %d, %Y'}}
 						<h3>{{ post.title }}</h3>
 						{{ post.excerpt }}
-							<a href="{{ post.url | absolute_url }}" class="button">More</a>
+							<a href="{{ post.url | absolute_url }}" class="button">Read more ⟶</a>
 				{% endfor %}
 			</ul>
 		</article>
@@ -84,7 +84,7 @@ layout: default
 						{{ post.date | date: '%B %d, %Y'}}
 						<h3>{{ post.title }}</h3>
 						{{ post.excerpt }}
-							<a href="{{ post.url | absolute_url }}" class="button">More</a>
+							<a href="{{ post.url | absolute_url }}" class="button">Read more ⟶</a>
 				{% endfor %}
 			</ul>
 		</article>
@@ -95,7 +95,7 @@ layout: default
 						{{ post.date | date: '%B %d, %Y'}}
 						<h3>{{ post.title }}</h3>
 						{{ post.excerpt }}
-							<a href="{{ post.url | absolute_url }}" class="button">More</a>
+							<a href="{{ post.url | absolute_url }}" class="button">Read more ⟶</a>
 				{% endfor %}
 			</ul>
 		</article>
@@ -106,7 +106,7 @@ layout: default
 						{{ post.date | date: '%B %d, %Y'}}
 						<h3>{{ post.title }}</h3>
 						{{ post.excerpt }}
-							<a href="{{ post.url | absolute_url }}" class="button">More</a>
+							<a href="{{ post.url | absolute_url }}" class="button">Read more ⟶</a>
 				{% endfor %}
 			</ul>
 		</article>

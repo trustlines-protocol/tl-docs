@@ -31,7 +31,6 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
 		color: _palette(accent);
 		text-decoration: none;
 
@@ -72,7 +71,7 @@
 	}
 
 	h1 {
-		font-size: 4em;
+		font-size: 3em;
 		margin: 0 0 (_size(element-margin) * 0.25) 0;
 		line-height: 1.3;
 	}

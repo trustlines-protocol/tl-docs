@@ -54,6 +54,14 @@
 					width: 100%;
 				}
 			}
+
+			h3 {
+				margin-top: 0.5em;
+			}
+
+			p {
+				color: rgb(132, 132, 132);
+			}
 		}
 
 		@include breakpoint(xlarge-to-max) {

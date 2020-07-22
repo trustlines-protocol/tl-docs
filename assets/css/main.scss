@@ -119,16 +119,17 @@
 
 
 #BackToTop {
-  bottom: 2.5vh;
+  bottom: 2vh;
   right: 1.5vw;
-  font-size: 9px;
-  height: 50px;
-  width: 50px;
+  font-size: 13px;
+  height: 30px;
+  width: 30px;
   position: fixed;
   z-index: 999;
   border-radius: 50%;
   border: 3px solid #FF7C4E;
   background-color: transparent;
+  line-height: 0;
 }
 
 

@@ -177,3 +177,9 @@
 	.align-right {
 		text-align: right;
 	}
+
+	section > ul li {
+		margin-left: 3em;
+		color: _palette(accent);
+		padding: 0;
+	}

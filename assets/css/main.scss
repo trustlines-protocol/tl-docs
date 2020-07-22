@@ -2935,7 +2935,7 @@ p.brand_images {
 
 p.brand_images_hori {
   margin: 0;
-  height: 200px;
+  height: 160px;
   width: 400px;
   display: block;
   margin-left: auto;
@@ -2944,9 +2944,9 @@ p.brand_images_hori {
   margin-bottom: auto;
 }
 
-.brand_images_black img {
+.brand_images_light img {
   box-shadow: 2px 2px 5px #828282;
-  background-color: #fafafa;
+  background-color: #12121F;
   border-radius: 2px;
   padding: 5px;
 }

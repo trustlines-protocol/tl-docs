@@ -8,7 +8,8 @@ The following user stories are intended to illustrate possible ways to use Trust
 
 <global image\>
 
-Caption: This diagram shows how different entities using time credits are naturally interconnected through Trustlines. A pink line represents a trustline between two individuals. A purple line represents a trustline between two organization accounts. Boxes represent communities in which each member has a trustline with the organization account. Characters with a round border are managers of an organization account. Anyone can ripple a transaction to anyone else in the network, as long as each connecting trustline has enough capacity.
+Caption: This diagram shows how different entities using time credits are naturally interconnected through Trustlines. A pink line represents a trustline between two individuals. A purple line represents a trustline between two organization accounts. Boxes represent communities in which each member has a trustline with the organization account. Characters with a round border are managers of an organization account. Anyone can ripple a transaction to anyone else in the network, as long as each connecting trustline has enough capacity.  
+
 
 ## 1\. Decentralized Timebank
 
@@ -32,6 +33,7 @@ Caption: The pink lines represent trustlines. Sam pays Dana for gardening classe
 
 Similarly, Andy is a babysitter and would like Dana's connections to be able to use his babysitting skills. In return, Andy can benefit from services provided by Dana's connections.
 
+
 ## 2\. Mutual Aid with a Neighborhood Timebank
 
 In the traditional scenario, a Berlin neighborhood may start a centralized timebank, to encourage neighbors to share skills, support their neighbors, and enrich the community.Trustlines allows centralized timebanks to form. These are inherently interoperable with people outside the timebank, as well as other timebanks.  
@@ -54,6 +56,7 @@ Andy is a babysitter and wants to get paid for this service in time credits. But
 
 Caption: Dana and Andy have a trustline. Both Dana and Beth have trustlines with Berlin Timebank. Beth pays Andy for babysitting. The payment ripples through the Berlin Timebank account and then through Dana.
 
+
 ## 3\. Volunteer Groups
 
 Time credits can also be used for more specific purposes. For example, the manager of an altruistic community group can use Trustlines to reward volunteers for their work. An added benefit of using Trustlines is they would be better able to estimate the total number of hours their volunteers plan to contribute over a set time period. They estimate this based on the received credit limits on their trustlines.Trustlines allows organizations that coordinate specific community services, like Emma's Foodsharing program in Berlin, to reward volunteers like Sam, by issuing time credits to them. Sam can spend earned credits with people and organizations that support Berlin Foodsharing. And Emma can share program statistics with her local government to demonstrate how important their work is.  
@@ -74,6 +77,7 @@ Now Sam has accumulated 20 credits. But guess what, this month Sam adopts a new 
 
 Now Sam is deep in diapers and really needs help. It's a good time to talk to Andy, who can help out with babysitting. Andy will be able to earn credits directly from Sam, and also spend them through Sam, because of Sam's accumulated credits with Berlin Foodsharing (see Scenario 6.3).
 
+
 ## 4\. Direct Giving through Volunteer Groups
 
 In a more advanced scenario, the manager of a community group could enable recipients of community services to pay volunteers directly. Using Trustlines helps the community group take a background role and act as a connector.Trustlines allows organizations that coordinate community services targeted towards helping vulnerable individuals, like Emma's Foodsharing program in Berlin, to act as a trusted intermediary in facilitating direct value transfers between service recipients like Fred and volunteers like Sam.  
@@ -89,6 +93,7 @@ Caption: Emma is manager of Berlin Foodsharing. Sam and Fred each have a trustli
 At the end of the month, Fred has a balance of negative four. To make sure Fred can keep paying next month, Emma keeps track of Fred's balance. At the end of the month, Berlin Foodsharing gifts four credits to Fred, which resets his balance to zero. (Gifting is the practice of giving something voluntarily without payment in return.) This ensures that Fred can pay for next month's deliveries.
 
 Note that some months, Berlin Foodsharing doesn't have to gift any credits to Fred. That's because Fred can earn credits as well. For an explanation, see Scenario 5.2\.
+
 
 ## 5\. Partnerships between Businesses and Community Groups
 
@@ -136,6 +141,7 @@ Caption: Emma is the manager of Berlin Foodsharing. Emma and Heidi open a trustl
 * Case B: Perhaps Heidi needs some help supporting the influx of new customers. Berlin Foodsharing can allow Heidi's Café to use the trustline to access their volunteer base. Suppose volunteers from Berlin Foodsharing have already redeemed a total of 50 credits with the cafe. Heidi can offer to pay five credits out of this balance, to Sam, who agrees to help out for five hours each month. These credits are rippled through Berlin Foodsharing.
 * Case C: But perhaps Berlin Foodsharing needs Sam, and all the other volunteers, to use the majority of their time for deliveries. Emma explains this to Heidi. To reflect this, Emma can choose to reduce their credit limit after receiving Heidi's 50 gifted credits. (This can be done even before redeeming the gifted credits.)
 
+
 ## 6\. Peer-to-Peer Transactions: The Network Effect
 
 As described in the Decentralized Timebank (Scenario 1), individual community members may choose to accept time credits from other individuals, outside the constraints of a registered business. Depending on how these individuals are connected to the rest of the community, they may be able to ripple their time credits through different groups in order to make a payment to another individual or supportive business accepting time credits.
@@ -174,6 +180,7 @@ Andy already has a trustline with Sam. Since Andy is receiving time credits from
 
 Caption: Andy and Sam have a trustline. Sam has paid Andy for babysitting. Berlin Foodsharing and Heidi's Café have a trustline. Andy pays for hot chocolate at Heidi's Café. The payment ripples through Sam, then through the Berlin Foodsharing account.
 
+
 ## 7\. Community Partnerships: The Network Effect
 
 Different community groups can open trustlines between each other as well, allowing payments to ripple through each one's members and network of partner businesses, and thus expanding the network of all members.
@@ -189,6 +196,7 @@ This connection enables members of both programs to spend and earn time credits 
 <image 10\>
 
 Caption: Dana is the manager of the Berlin Timebank. Ivan is the manager of the Paris Timebank. They open a trustline between the two timebanks. Côme pays for theatre tickets at Gigi's Theatre. The payment ripples through the Paris Timebank account and then the Berlin Timebank account. This is possible because Côme has a trustline with the Paris Timebank, and there is a trustline connecting the Berlin Timebank to Gigi's Theatre.
+
 
 ## 8\. Partner Businesses: Supporting Networks of Communities
 

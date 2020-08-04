@@ -1,9 +1,5 @@
 # Trustlines Docs
 
-![Trustlines Docs](assets/images/readme_header.png "Trustlines Docs")
-
-___
-
 ## Work In Progress
 
 ___

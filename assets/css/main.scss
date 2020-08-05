@@ -118,18 +118,19 @@
 @import 'layout/menu';
 
 
-#BackToTop {
+#back-to-top {
   bottom: 2vh;
   right: 1.5vw;
-  font-size: 13px;
-  height: 30px;
-  width: 30px;
+  font-size: 48px;
   position: fixed;
   z-index: 999;
-  border-radius: 50%;
-  border: 3px solid #FF7C4E;
+  border: none;
   background-color: transparent;
-  line-height: 0;
+
+  &:focus {
+    outline: none;
+  }
+
 }
 
 

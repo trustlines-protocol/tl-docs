@@ -12,7 +12,7 @@
 	button,
 	.button {
 		@include vendor('appearance', 'none');
-		@include vendor('transition', 'border-bottom #{_duration(transition)} ease-in-out');
+		@include vendor('transition', 'border-bottom #{_duration(transition)} ease');
 		color: _palette(accent) !important;
 		cursor: pointer;
 		display: inline-block;

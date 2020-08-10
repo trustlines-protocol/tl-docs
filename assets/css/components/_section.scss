@@ -12,6 +12,15 @@
 		}
 	}
 
+	section {
+		h2 {
+			margin-top: 2em;
+		}
+		h3 {
+			margin-top: 2.2em;
+		}
+	}	
+
 	header {
 		p {
 			font-family: _font(family-heading);
@@ -38,5 +47,9 @@
 	}
 
 	iframe {
+		margin: 2em auto;
+	}
+
+	center img {
 		margin: 2em auto;
 	}

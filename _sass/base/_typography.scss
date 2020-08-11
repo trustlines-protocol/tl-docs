@@ -54,6 +54,10 @@ strong, b {
 	font-weight: _font(weight-bold);
 }
 
+em, i {
+	font-style: italic;
+}
+
 p {
 	margin: 0 0 (_size(element-margin)*0.5) 0;
 }
@@ -148,7 +152,8 @@ sup {
 blockquote {
 	margin: 0 0 _size(element-margin) 0;
 	padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
-	// border-left: solid 3px _palette(accent);
+	border-left: solid 3px _palette(accent);
+	font-style: italic;
 }
 
 code {

@@ -196,3 +196,9 @@ hr {
 .align-right {
 	text-align: right;
 }
+
+center p a {
+	&:hover{
+		border-bottom: 2px solid _palette(accent);
+	}
+}

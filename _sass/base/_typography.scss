@@ -3,37 +3,38 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
-
 /* Type */
-
-body, input, select, textarea {
+body,
+input,
+select,
+textarea {
 	color: _palette(fg);
 	font-family: _font(family);
 	font-size: 13pt;
 	font-weight: _font(weight);
 	line-height: 1.6;
-
 	@include breakpoint(xlarge) {
 		font-size: 11pt;
 	}
-
 	@include breakpoint(large) {
 		font-size: 10pt;
 	}
-
 	@include breakpoint(xxsmall) {
 		font-size: 9pt;
 	}
 }
 
 a {
-	@include vendor('transition', (
-		'all #{_duration(transition)} ease',
-	));
+	@include vendor('transition', ('all #{_duration(transition)} ease',));
 	color: _palette(accent);
 	text-decoration: none;
 
-	h1, h2, h3, h4, h5, h6 {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
 		&:hover {
 			color: _palette(fg-light);
 		}
@@ -49,23 +50,28 @@ a {
 	}
 }
 
-strong, b {
+b,
+strong {
 	color: _palette(fg-bold);
 	font-weight: _font(weight-bold);
 }
 
-em, i {
+em,
+i {
 	font-style: italic;
 }
 
 p {
-	margin: 0 0 (_size(element-margin)*0.5) 0;
+	margin: 0 0 (_size(element-margin)*0.5);
 }
 
-h1, h2, h3, h4, h5, h6 {
-	@include vendor('transition', (
-		'all #{_duration(transition)} ease',
-	));
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@include vendor('transition', ('all #{_duration(transition)} ease',));
 	color: _palette(fg-bold);
 	font-family: _font(family-heading);
 	font-weight: _font(weight-heading);
@@ -109,22 +115,25 @@ h5 {
 h6 {
 	font-size: 0.7em;
 }
-
 @include breakpoint(xlarge) {
 	h1 {
 		font-size: 3.5em;
 	}
 }
-
 @include breakpoint(medium) {
-	h1, h2, h3, h4, h5, h6 {
-		letter-spacing: 0px;
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		letter-spacing: 0;
 	}
+
 	h1 {
 		font-size: 3.25em;
 	}
 }
-
 @include breakpoint(small) {
 	h1 {
 		font-size: 2em;
@@ -150,7 +159,7 @@ sup {
 }
 
 blockquote {
-	margin: 0 0 _size(element-margin) 0;
+	margin: 0 0 _size(element-margin);
 	padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	border-left: solid 3px _palette(accent);
 	font-style: italic;
@@ -170,7 +179,7 @@ pre {
 	-webkit-overflow-scrolling: touch;
 	font-family: monospace;
 	font-size: 0.9em;
-	margin: 0 0 _size(element-margin) 0;
+	margin: 0 0 _size(element-margin);
 
 	code {
 		display: block;
@@ -203,7 +212,7 @@ hr {
 }
 
 center p a {
-	&:hover{
+	&:hover {
 		border-bottom: 2px solid _palette(accent);
 	}
 }

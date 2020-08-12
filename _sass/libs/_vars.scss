@@ -14,27 +14,26 @@ $size: (
 	element-margin: 2em,
 	sidebar-width: 26em,
 	sidebar-width-alt: 24em,
-	gutter: 3em
+	gutter: 3em,
+	radius: 8px
 );
 // Font.
 $font: (
-	family: ('Work Sans'),
-	family-heading: ('Work Sans'),
-	family-fixed: ('Work Sans'),
+	family: ('Inter'),
 	weight: 400,
 	weight-bold: 600,
 	weight-heading: 600,
 	weight-heading-alt: 400,
-	kerning-heading: 0.075em
+	kerning-heading: 0.03em
 );
 // Palette.
 $palette: (
-	bg: #646464,
-	bg-alt: #323232,
-	fg: #fafafa,
-	fg-bold: #fafafa,
-	fg-light: #E1E1E1,
+	bg: #fbfbfb,
+	bg-alt: #ededed,
+	fg: #12121F,
+	fg-bold: #FF7C4E,
+	fg-light: #7657ED,
 	border: rgba(210,215,217,0.75),
-	border-bg: transparentize(#e6ebed, 0.75),
-	accent: #F07878
+	border-bg: transparentize(#bdbdbd, 0.75),
+	accent: #FF7C4E
 );

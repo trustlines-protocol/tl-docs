@@ -52,7 +52,6 @@
 		width: _size(sidebar-width);
 
 		> * {
-			border-bottom: solid 2px _palette(border);
 			margin: 0 0 (_size(element-margin) * 1.75) 0;
 			padding: 0 0 (_size(element-margin) * 1.75) 0;
 
@@ -195,17 +194,6 @@
 				margin-top: (-0.5em / 2);
 				font-size: 1.1rem;
 				z-index: 1;
-			}
-
-			&:after {
-				background: transparentize(lighten(_palette(fg), 35), 0.25);
-				border-radius: _size(border-radius);
-				content: '';
-				height: 3.5em;
-				left: 1em;
-				position: absolute;
-				top: 1em;
-				width: 5em;
 			}
 		}
 	}

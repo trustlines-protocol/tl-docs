@@ -144,23 +144,23 @@ ___
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-black.png"/></p>
-		<p class="brand_links">Black [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-black.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-black.png"/></p>
+		<p class="brand_links">Black [<a href="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Foundation/SVG/trustlines-foundation-name-logo-black.svg">SVG</a>]</p>
 	</div>
     <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png"/></p>
-		<p class="brand_links">Dark Grey [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-dark-grey.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png"/></p>
+		<p class="brand_links">Dark Grey [<a href="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Foundation/SVG/trustlines-foundation-name-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_light"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-white.png"/></p>
-		<p class="brand_links">White [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-white.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_light"><img src="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-white.png"/></p>
+		<p class="brand_links">White [<a href="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Foundation/SVG/trustlines-foundation-name-logo-white.svg">SVG</a>]</p>
 	</div>
     <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_light"><img src="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png"/></p>
-		<p class="brand_links">Light Grey [<a href="../../assets/images//brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Foundation/SVG/trustlines-foundation-name-logo-light-grey.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_light"><img src="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png"/></p>
+		<p class="brand_links">Light Grey [<a href="../../assets/images/brand/Foundation/PNG/trustlines-foundation-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Foundation/SVG/trustlines-foundation-name-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
@@ -192,23 +192,23 @@ ___
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-black.png"/></p>
-		<p class="brand_links">Black [<a href="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Protocol/SVG/trustlines-protocol-name-logo-black.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-black.png"/></p>
+		<p class="brand_links">Black [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-black.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-black.svg">SVG</a>]</p>
 	</div>
     <div class="6u 12u$(medium)">
-		<p class="brand_images_hori"><img src="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png"/></p>
-		<p class="brand_links">Dark Grey [<a href="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Protocol/SVG/trustlines-protocol-name-logo-dark-grey.svg">SVG</a>]</p>
+		<p class="brand_images_hori"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png"/></p>
+		<p class="brand_links">Dark Grey [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-dark-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-dark-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_light"><img src="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-white.png"/></p>
-		<p class="brand_links"> White [<a href="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Protocol/SVG/trustlines-protocol-name-logo-white.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_light"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-white.png"/></p>
+		<p class="brand_links"> White [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-white.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-white.svg">SVG</a>]</p>
 	</div>
     <div class="6u 12u$(medium)">
-		<p class="brand_images_hori brand_images_light"><img src="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png"/></p>
-		<p class="brand_links">Light Grey [<a href="../../assets/images//brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images//brand/Protocol/SVG/trustlines-protocol-name-logo-light-grey.svg">SVG</a>]</p>
+		<p class="brand_images_hori brand_images_light"><img src="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png"/></p>
+		<p class="brand_links">Light Grey [<a href="../../assets/images/brand/Protocol/PNG/trustlines-protocol-name-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/Protocol/SVG/trustlines-protocol-name-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
 

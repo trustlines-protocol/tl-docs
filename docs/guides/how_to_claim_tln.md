@@ -41,7 +41,7 @@ Enter your Ethereum address in the box and click on `Check eligibility` to confi
 
 After entering an eligible address, you can claim your tokens.
 
-_Note: The page will show "X TLN claimable out of original Y TLN" because the amount is decaying over time. The sooner you claim, the more you get.__
+_Note: The page will show "X TLN claimable out of original Y TLN" because the amount is decaying over time. The sooner you claim, the more you get._
 
 <center><a class="vdw_a" href="../../assets/images/tln_claim_guide/claim_mm03.png"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm03.png"></a></center>
 

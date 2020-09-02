@@ -28,7 +28,9 @@ You will be able to check the [Token transactions](https://etherscan.io/address/
 
 <center><a class="vdw_a" href="../../assets/images/tln_to_tlc/tln_to_tlc03.png"><img class="vdw_img" src="../../assets/images/tln_to_tlc/tln_to_tlc03.png"></a></center>
 
-The bridge contract will burn the TLN sent to it and signal the Trustlines Blockchain validators to reimburse the amount of TLC to your account. The address on TLBC that will receive the TLC is the same address you used on Ethereum to send the tokens.
+#### Where will I receive the TLC?
+
+The bridge contract will burn the TLN sent to it and signal the Trustlines Blockchain validators to reimburse the amount of TLC to your account. **The address on TLBC that will receive the TLC is the same address you used on Ethereum to send the tokens**.
 
 ### Getting the TLC on the Trustlines Blockchain
 

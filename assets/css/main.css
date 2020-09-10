@@ -6211,8 +6211,9 @@ center a:hover {
 
 #prev_next {
   text-align: center;
-  margin: 2em 0em 2em 0em;
   height: 200px;
+  display: inline-block;
+  width: 49%;
 }
 
 a.prev_next {
@@ -6229,4 +6230,10 @@ a.prev_next_text {
 
 #prev_next div {
   height: 75px;
+  padding: 0em 3em 0em 3em;
+}
+
+.card_img {
+  display: inline-block;
+  width: 40%;
 }

@@ -55,6 +55,13 @@ Because of the trust involved in creating an alternative economy, it is difficul
 
 These problems of scalability are easily avoided when using Trustlines. But Trustlines still preserves all the advantages of centralized systems. Similar centralized configurations can be created using Trustlines. For further details about the advantages of using Trustlines, please see _"[Top 7 reasons to use Trustlines for time credits](#top-7-reasons-to-use-trustlines-for-time-credits)"_. Otherwise, please continue to [Time Credits - User Stories](time_credits_user_stories) to help visualize different ways to use Trustlines for time credits.
 
+___
+
+<div id="prev_next">
+<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Bill splitting on Trustlines</a></div>
+</div>
 <div id="prev_next">
 <div><a href="time_credits_user_stories" class="prev_next_text">Next</a></div>
 <div><a href="time_credits_user_stories" class="icon fas fa-arrow-right prev_next"></a><br></div>

@@ -283,3 +283,16 @@ ___
 		<p class="brand_links">Light Grey [<a href="../../assets/images/brand/General/PNG/trustlines-logo-light-grey.png">PNG</a>]&nbsp;[<a href="../../assets/images/brand/General/SVG/trustlines-logo-light-grey.svg">SVG</a>]</p>
 	</div>
 </div>
+
+___
+
+<div id="prev_next">
+<div class="prev"><a href="brand_guidelines" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="brand_guidelines" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="brand_guidelines" class="prev_next_text">Brand Guidelines</a></div>
+</div>
+<div id="prev_next">
+<div><a href="../resources/presentations/presentation_slides" class="prev_next_text">Next</a></div>
+<div><a href="../resources/presentations/presentation_slides" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="../resources/presentations/presentation_slides" class="prev_next_text">Presentations</a></div>
+</div>

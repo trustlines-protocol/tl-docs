@@ -21,3 +21,14 @@ title: Trustlines Glossary
 | Trustlines Network Token (TLN) | TLN are ERC20 tokens on the Ethereum chain, which can be converted to TLC by sending them to the Trustlines Blockchain bridge. |
 | Bridge | A unidirectional bridge between the Ethereum blockchain and the Trustlines Blockchain operated by the Trustlines validators. It allows Trustlines Network Token holders to transfer these tokens to the Trustlines Blockchain in return for Trustlines Network Coins. |
 | Merkle drop | A smart contract deployed on the Ethereum blockchain that contains a list of addresses and claimable Trustlines Network Tokens per address in the form of a Merkle root. People can provide a Merkle proof to this contract and withdraw tokens they are entitled to. The Trustlines Foundation has a web service that allows people to either claim their tokens via a web3 integration (e.g., Metamask) or calculate the needed proof. |
+
+<div id="prev_next">
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
+</div>
+<div id="prev_next">
+<div><a href="../guides/tl_app_user_guide" class="prev_next_text">Next</a></div>
+<div><a href="../guides/tl_app_user_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="../guides/tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
+</div>

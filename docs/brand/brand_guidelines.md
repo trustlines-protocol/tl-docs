@@ -178,3 +178,16 @@ ___
 
 
 <a href="../../assets/images/brand/guidelines/38.png" class="brand_guidelines_link"><img src="../../assets/images/brand/guidelines/38.png" class="brand_guidelines_img" /></a>
+
+___
+
+<div id="prev_next">
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
+</div>
+<div id="prev_next">
+<div><a href="brand_resources" class="prev_next_text">Next</a></div>
+<div><a href="brand_resources" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="brand_resources" class="prev_next_text">Brand Resources</a></div>
+</div>

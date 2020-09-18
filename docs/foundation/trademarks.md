@@ -152,3 +152,16 @@ We may release new versions of our trademark guidelines or statements of permitt
 ## 10. Review and Remedies
 
 We reserve the right to review all uses of our trademarks by others and may conduct periodic spot checks of such use. Upon our request, you must provide a copy of any materials bearing our trademark. You must correct any deficiencies in the use of our trademarks. Refusal to correct such deficiencies may result in the revocation of permission to use our trademarks. Furthermore, any unauthorized or improper use of our trademarks may constitute trademark infringement, unfair competition, and/or copyright infringement in violation of applicable laws and regulations. We reserve the right to initiate legal action relating to any third party use of our trademarks that we, in our sole discretion, deem to be unlawful or improper, even if such use is not expressly prohibited in these guidelines. Nothing in our trademark guidelines is intended to waive or restrict any legal rights that we may have under applicable law, to grant any license, or to acquiesce in any infringing act.
+
+___
+
+<div id="prev_next">
+<div class="prev"><a href="../brand/brand_guidelines" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../brand/brand_guidelines" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../brand/brand_guidelines" class="prev_next_text">Brand Guidelines</a></div>
+</div>
+<div id="prev_next">
+<div><a href="../resources/community_communications_guide" class="prev_next_text">Next</a></div>
+<div><a href="../resources/community_communications_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="../resources/community_communications_guide" class="prev_next_text">Community Communications Guide</a></div>
+</div>

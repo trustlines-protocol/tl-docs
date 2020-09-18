@@ -109,3 +109,16 @@ The [Trustlines Forum](https://forum.trustlines.network/) has sections for [Supp
 ____
 
 _This content is created by Auxiliary GmbH and is provided as educational material for Trustlines App users._
+
+___
+
+<div id="prev_next">
+<div class="prev"><a href="../resources/glossary" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../resources/glossary" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../resources/glossary" class="prev_next_text">Glossary</a></div>
+</div>
+<div id="prev_next">
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Next</a></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
+</div>

@@ -54,3 +54,14 @@ A MetaMask notification will pop up where you need to confirm the transaction fo
 After the transaction has been confirmed, you will soon receive the TLN in your wallet.
 
 ___
+
+<div id="prev_next">
+<div class="prev"><a href="../guides/tl_app_user_guide" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../guides/tl_app_user_guide" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../guides/tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
+</div>
+<div id="prev_next">
+<div><a href="converting_tln_to_tlc" class="prev_next_text">Next</a></div>
+<div><a href="converting_tln_to_tlc" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="converting_tln_to_tlc" class="prev_next_text">Converting TLN to TLC</a></div>
+</div>

@@ -45,3 +45,16 @@ For the actual withdrawal, click on `Write` under `2. withdraw`. MetaMask will t
 <center><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit08.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit08.png"></a></center>
 
 Once this transaction is confirmed, you should receive your deposit back.
+
+___
+
+<div id="prev_next">
+<div class="prev"><a href="../guides/tl_app_user_guide" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="../guides/tl_app_user_guide" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="../guides/tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
+</div>
+<div id="prev_next">
+<div><a href="how_to_claim_tln" class="prev_next_text">Next</a></div>
+<div><a href="how_to_claim_tln" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="how_to_claim_tln" class="prev_next_text">How to claim TLN</a></div>
+</div>

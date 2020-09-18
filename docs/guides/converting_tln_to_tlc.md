@@ -41,3 +41,14 @@ It will take some time for the validators to confirm your transaction, even up t
 <center><a class="vdw_a" href="../../assets/images/tln_to_tlc/tln_to_tlc04.png"><img class="vdw_img" src="../../assets/images/tln_to_tlc/tln_to_tlc04.png"></a></center>
 
 ___
+
+<div id="prev_next">
+<div class="prev"><a href="how_to_claim_tln" class="prev_next_text">Previous</a></div>
+<div class="prev"><a href="how_to_claim_tln" class="icon fas fa-arrow-left prev_next"></a><br></div>
+<div class="prev"><a href="how_to_claim_tln" class="prev_next_text">How to claim TLN</a></div>
+</div>
+<div id="prev_next">
+<div><a href="tl_app_user_guide" class="prev_next_text">Next</a></div>
+<div><a href="tl_app_user_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
+</div>

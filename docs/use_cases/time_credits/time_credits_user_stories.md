@@ -320,3 +320,8 @@ After accumulating credits over this trustline, Kamal can choose to pay some cre
 <div><a href="time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
 <div><a href="time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
 </div>
+<div id="prev_next">
+<div><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Next</a></div>
+<div><a href="../bill_splitting/bill_splitting_on_trustlines" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Bill splitting on Trustlines</a></div>
+</div>

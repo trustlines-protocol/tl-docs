@@ -13,7 +13,7 @@
 
 			&:before {
 				@include vendor('transform', 'scaleX(-1)');
-				color: _palette(fg);
+				color: _palette(black);
 				content: '\f002';
 				cursor: default;
 				display: block;
@@ -43,7 +43,7 @@
 			'margin-left 0.5s ease',
 			'box-shadow 0.5s ease'
 		));
-		background-color: _palette(bg-alt);
+		background-color: _palette(white-alt);
 		font-size: 0.9em;
 		position: relative;
 		width: _size(sidebar-width);
@@ -73,7 +73,7 @@
 			}
 
 			> .alt {
-				background-color: darken(_palette(bg-alt), 2);
+				background-color: darken(_palette(grey), 2);
 				border-bottom: 0;
 				margin: ($pad * -1) 0 ($pad * 2) ($pad * -1);
 				padding: $pad;
@@ -110,6 +110,11 @@
 				top: 0;
 				width: inherit;
 			}
+
+			&:hover {
+				color: _palette(orange) !important;
+			}
+			
 		}
 
 		&.inactive {
@@ -199,7 +204,7 @@
 				width: 7.25em;
 
 				&:before {
-					color: _palette(fg);
+					color: _palette(black);
 					margin-left: (-0.125em / 2);
 					margin-top: (-0.5em / 2);
 					font-size: 1.1rem;

@@ -7,7 +7,7 @@
 /* Type */
 
 body, input, select, textarea {
-	color: _palette(fg);
+	color: _palette(black);
 	font-family: _font(family);
 	font-size: 13pt;
 	font-weight: _font(weight);
@@ -30,18 +30,17 @@ a {
 	@include vendor('transition', (
 		'all #{_duration(transition)} ease',
 	));
-	color: _palette(accent);
+	color: _palette(orange);
 	text-decoration: none;
 
 	h1, h2, h3, h4, h5, h6 {
 		&:hover {
-			color: _palette(fg-light);
+			color: _palette(purple);
 		}
 	}
 
 	&:hover {
-		border-bottom: 2px solid _palette(accent);
-		color: _palette(accent) !important;
+		color: _palette(purple);
 
 		strong {
 			color: inherit;
@@ -50,7 +49,7 @@ a {
 }
 
 strong, b {
-	color: _palette(fg-bold);
+	color: _palette(orange);
 	font-weight: _font(weight-bold);
 }
 
@@ -66,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 	@include vendor('transition', (
 		'all #{_duration(transition)} ease',
 	));
-	color: _palette(fg-bold);
+	color: _palette(orange);
 	font-family: _font(family-heading);
 	font-weight: _font(weight-medium);
 	line-height: 1.2;
@@ -77,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 		text-decoration: none;
 
 		&:hover {
-			color: _palette(fg);
+			color: _palette(purple);
 		}
 	}
 }
@@ -154,14 +153,14 @@ sup {
 blockquote {
 	margin: 0 0 _size(element-margin) 0;
 	padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
-	border-left: solid 3px _palette(accent);
+	border-left: solid 3px _palette(orange);
 	font-style: italic;
 }
 
 code {
-	background: _palette(border-bg);
+	background: _palette(grey-alt);
 	border-radius: _size(border-radius);
-	border: solid 1px _palette(border);
+	border: solid 1px _palette(grey);
 	font-family: monospace;
 	font-size: 0.9em;
 	margin: 0 0.25em;
@@ -184,7 +183,7 @@ pre {
 
 hr {
 	border: 0;
-	border-bottom: solid 1px _palette(border);
+	border-bottom: solid 1px _palette(grey);
 	margin: _size(element-margin) 0;
 
 	&.major {
@@ -206,6 +205,28 @@ hr {
 
 center p a {
 	&:hover{
-		border-bottom: 2px solid _palette(accent);
+		border-bottom: 2px solid _palette(orange);
+	}
+}
+
+.contact a {
+	color: _palette(black);
+	&:hover {
+		color: _palette(orange);
+	}
+}
+
+a.toggle {
+	&::before {
+		&:hover {
+			color: _palette(orange) !important;
+		}
+	}
+}
+
+#prev_next a {
+	color: _palette(orange);
+	&:hover {
+		color: _palette(orange);
 	}
 }

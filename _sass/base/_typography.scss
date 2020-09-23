@@ -74,10 +74,9 @@ h6 {
 	@include vendor('transition', ('all #{_duration(transition)} ease',));
 	color: _palette(fg-bold);
 	font-family: _font(family-heading);
-	font-weight: _font(weight-heading);
+	font-weight: _font(weight-medium);
 	line-height: 1.2;
 	margin: 0 0 (_size(element-margin) * 0.5) 0;
-	letter-spacing: -1px;
 
 	a {
 		color: inherit;
@@ -91,12 +90,15 @@ h6 {
 
 h1 {
 	font-size: 3em;
+	font-weight: _font(weight-bold);
 	margin: 0 0 (_size(element-margin) * 0.25) 0;
 	line-height: 1.2;
+	letter-spacing: -1px;
 }
 
 h2 {
 	font-size: 1.75em;
+	font-weight: _font(weight-bold);
 }
 
 h3 {

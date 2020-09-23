@@ -26,29 +26,44 @@
 				color: _palette(accent);
 			}
 
-			&.opener {
-				@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
-				@include icon;
-				-webkit-tap-highlight-color: rgba(255,255,255,0);
-				position: relative;
+	#menu {
+		ul {
+			@include vendor('user-select', 'none');
+			color: _palette(black);
+			font-family: _font(weight);
+			letter-spacing: _font(kerning-heading);
+			list-style: none;
+			margin-bottom: 0;
+			padding: 0;
 
-				&:before {
-					@include vendor('transition', ('color #{_duration(transition)} ease-in-out', 'transform #{_duration(transition)} ease-in-out'));
-					color: _palette(fg-light);
-					content: '\f078';
-					position: absolute;
-					right: 0;
+			a, span {
+				border-bottom: 0;
+				color: inherit;
+				cursor: pointer;
+				display: block;
+				font-size: 0.9em;
+
+				&:hover {
+					color: _palette(orange);
 				}
 
 				&:hover {
 					&:before {
-						color: _palette(accent);
+						@include vendor('transition', (
+							'color #{_duration(transition)} ease-in-out',
+							'transform #{_duration(transition)} ease-in-out'
+						));
+						color: _palette(purple);
+						content: '\f078';
+						position: absolute;
+						right: 0;
 					}
 				}
 
-				&.active {
-					& + ul {
-						display: block;
+					&:hover {
+						&:before {
+							color: _palette(orange);
+						}
 					}
 
 					&:before {
@@ -59,21 +74,26 @@
 		}
 	}
 
-	> ul {
-		> li {
-			border-top: solid 1px _palette(border);
-			margin: 0.5em 0 0;
-			padding: 0.5em 0 0;
+		> ul {
+			> li {
+				border-top: solid 1px _palette(grey);
+				margin: 0.5em 0 0 0;
+				padding: 0.5em 0 0 0;
 
-			> ul {
-				color: _palette(fg-light);
-				display: none;
-				margin: 0.5em 0 1.5em;
-				padding-left: 1em;
+				> ul {
+					color: _palette(purple);
+					display: none;
+					margin: 0.5em 0 1.5em 0;
+					padding-left: 1em;
 
-				a,
-				span {
-					font-size: 0.8em;
+					a, span {
+						font-size: 0.8em;
+					}
+
+					> li {
+						margin: 0.125em 0 0 0;
+						padding: 0.125em 0 0 0;
+					}
 				}
 
 				> li {

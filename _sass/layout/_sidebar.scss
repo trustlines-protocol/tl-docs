@@ -11,7 +11,7 @@
 
 		&:before {
 			@include vendor('transform', 'scaleX(-1)');
-			color: _palette(fg);
+			color: _palette(black);
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -34,10 +34,14 @@
 
 #sidebar {
 	$pad: 2em / 0.9;
+
 	@include vendor('flex-grow', '0');
 	@include vendor('flex-shrink', '0');
-	@include vendor('transition', ('margin-left 0.5s ease', 'box-shadow 0.5s ease'));
-	background-color: _palette(bg-alt);
+	@include vendor('transition', (
+		'margin-left 0.5s ease',
+		'box-shadow 0.5s ease'
+	));
+	background-color: _palette(white-alt);
 	font-size: 0.9em;
 	position: relative;
 	width: _size(sidebar-width);
@@ -48,8 +52,6 @@
 
 	> .inner {
 		@include padding($pad, $pad, (0, 0, $pad, 0));
-		position: relative;
-		width: _size(sidebar-width);
 
 		> * {
 			margin: 0 0 (_size(element-margin) * 1.75) 0;
@@ -118,6 +120,8 @@
 			width: _size(sidebar-width-alt);
 
 			> .alt {
+				background-color: darken(_palette(grey), 2);
+				border-bottom: 0;
 				margin: ($pad * -1) 0 ($pad * 2) ($pad * -1);
 				padding: $pad;
 				width: calc(100% + #{$pad * 2});
@@ -134,6 +138,11 @@
 			&:before {
 				font-size: 1.5rem;
 			}
+
+			&:hover {
+				color: _palette(orange) !important;
+			}
+			
 		}
 
 		&.inactive {
@@ -189,7 +198,7 @@
 			width: 7.25em;
 
 			&:before {
-				color: _palette(fg);
+				color: _palette(black);
 				margin-left: (-0.125em / 2);
 				margin-top: (-0.5em / 2);
 				font-size: 1.1rem;

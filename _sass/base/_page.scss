@@ -21,16 +21,16 @@ body {
 }
 
 body {
-	background: _palette(bg);
+	background: _palette(white);
+
 	// Prevents animation/transition "flicker".
 	// Automatically added/removed by js/main.js.
-	&.is-loading,
-	&.is-resizing {
-		*,
-		*:after,
-		*:before {
-			@include vendor('animation', 'none !important');
-			@include vendor('transition', 'none !important');
+		&.is-loading,
+		&.is-resizing {
+			*, *:before, *:after {
+				@include vendor('animation', 'none !important');
+				@include vendor('transition', 'none !important');
+			}
 		}
-	}
+
 }

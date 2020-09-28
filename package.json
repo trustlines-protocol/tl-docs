@@ -1,0 +1,12 @@
+{
+  "name": "tl-docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "start": "bundle exec jekyll serve",
+    "setup": "gem install bundle jekyll && bundle install && git pull",
+    "deploy": "git checkout gh-pages && git merge master && git push && git checkout master"
+  },
+  "dependencies": {}
+}

@@ -2,7 +2,7 @@
 layout: page
 title: Bill splitting on Trustlines
 subtitle: Version 1.0
-image: /assets/images/blog_headers/bill_splitting_using_trustlines.png
+image: https://docs.trustlines.network/assets/images/blog_headers/bill_splitting_using_trustlines.png
 ---
 
 Trustlines is an excellent way to keep track of debts without the need to handle cash. For example, it is useful when splitting the bill at restaurants or for similar group activities. If you go out with your friends often, these payments will go back and forth for a long time. Using Trustlines helps create a friendlier environment for recording debts between friends, reducing the frequency of needing to settle with cash or bank money. It can even make settling wholly unnecessary.

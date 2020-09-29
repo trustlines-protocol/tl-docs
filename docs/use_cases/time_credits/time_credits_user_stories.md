@@ -2,7 +2,7 @@
 layout: page
 title: Time Credits - User Stories
 subtitle: Version 1.0
-image: assets/images/blog_headers/Time_credits.png
+image: https://docs.trustlines.network/assets/images/blog_headers/Time_credits.png
 ---
 
 ## Table of Contents

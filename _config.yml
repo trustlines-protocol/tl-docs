@@ -17,7 +17,6 @@ twitter:
   card: summary
   creator: TrustlinesFound
 logo: /assets/images/brand/General/PNG/trustlines-mark-logo-red.png
-image: /assets/images/brand/General/PNG/trustlines-mark-logo-red.png
 
 defaults:
   - scope:

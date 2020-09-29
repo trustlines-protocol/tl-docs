@@ -2,7 +2,7 @@
 layout: page
 title: Time Credits on Trustlines
 subtitle: Version 1.0
-image: /assets/images/blog_headers/Time_credits.png
+image: assets/images/blog_headers/Time_credits.png
 ---
 
 ## Why use Trustlines for time credits

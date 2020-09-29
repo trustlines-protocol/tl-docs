@@ -40,3 +40,10 @@ This site is a work in progress and the documentation.
 - Run `bundle exec jekyll serve`
 - Open http://127.0.0.1:4000/ in your favourite browser
   - If you're running into a 404 Not found error, try setting `baseurl: ""` in the `_config.yml` file and run serve again.
+
+#### Available scripts
+
+- After cloning the repo, run `yarn setup` once to install gems
+- Use `yarn start` to run the Docs locally
+- Changes to `master` can be deployed with `yarn deploy`
+- If needed, html content can be built with `yarn build`

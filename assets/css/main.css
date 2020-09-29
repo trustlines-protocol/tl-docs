@@ -6237,3 +6237,7 @@ a.prev_next_text {
   display: inline-block;
   width: 40%;
 }
+
+.image.main img {
+  display: none;
+}

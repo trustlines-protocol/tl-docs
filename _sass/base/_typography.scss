@@ -224,9 +224,18 @@ a.toggle {
 	}
 }
 
-#prev_next a {
-	color: _palette(orange);
-	&:hover {
+#prev_next {
+	
+	a {
 		color: _palette(orange);
+		&:hover {
+			color: _palette(purple);
+		}
+	}
+}
+
+.prev_next {
+	&:hover {
+		border-color: _palette(purple);
 	}
 }

@@ -28,7 +28,7 @@ ul {
 		padding-left: 0;
 
 		li {
-			border-top: solid 1px _palette(border);
+			border-top: solid 1px _palette(grey);
 			padding: 0.5em 0;
 
 			&:first-child {
@@ -57,6 +57,10 @@ ul {
 				&:before {
 					font-size: 1.25em;
 				}
+
+				&:hover {
+					color: _palette(orange) !important;
+				}
 			}
 		}
 	}
@@ -67,13 +71,13 @@ ul {
 
 		li {
 			@include icon;
-			border-top: solid 1px _palette(border);
-			margin: 1.5em 0 0;
+			border-top: solid 1px _palette(grey);
+			margin: 1.5em 0 0 0;
 			padding: 1.5em 0 0 3em;
 			position: relative;
 
 			&:before {
-				color: _palette(accent);
+				color: _palette(orange);
 				display: inline-block;
 				font-size: 1.5em;
 				height: 1.125em;
@@ -95,9 +99,6 @@ ul {
 				}
 			}
 
-			a {
-				color: inherit;
-			}
 		}
 	}
 
@@ -199,15 +200,15 @@ ul {
 				text-align: center;
 
 				&.active {
-					background-color: _palette(accent);
-					color: _palette(bg) !important;
+					background-color: _palette(orange);
+					color: _palette(white) !important;
 
 					&:hover {
-						background-color: lighten(_palette(accent), 3);
+						background-color: lighten(_palette(orange), 3);
 					}
 
 					&:active {
-						background-color: darken(_palette(accent), 3);
+						background-color: darken(_palette(orange), 3);
 					}
 				}
 			}

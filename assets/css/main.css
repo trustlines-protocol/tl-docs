@@ -2111,6 +2111,18 @@ h6 {
   h2 {
     font-size: 1.5em;
   }
+
+  #prev_next div {
+    height: 45px !important;
+    padding: 0em 1.5em 0em 1.5em !important;
+  }
+
+  a.prev_next_text {
+    font-size: 12px !important;
+  }
+  a.prev_next {
+    font-size: 12px !important;
+  }
 }
 sub {
   font-size: 0.8em;

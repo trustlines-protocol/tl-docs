@@ -10,20 +10,20 @@ This page contains presentation slides available for anyone to use who would lik
 
 A presentation slide deck about People Powered Money.
 
-[Download TL_StandardPresentation_PPM_16_9_V2.pdf](TL_StandardPresentation_PPM_16_9_V2.pdf)
+[Download TL_StandardPresentation_PPM_16_9_V3.pdf](TL_StandardPresentation_PPM_16_9_V3.pdf)
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V2.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V2_01.png"/></a></p>
+		<p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V3.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V3_01.png"/></a></p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V2.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V2_02.png"/></a></p>
+		<p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V3.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V3_02.png"/></a></p>
 	</div>
   <div class="6u 12u$(medium)">
-    <p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V2.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V2_03.png"/></a></p>
+    <p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V3.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V3_03.png"/></a></p>
   </div>
   <div class="6u 12u$(medium)">
-    <p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V2.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V2_04.png"/></a></p>
+    <p class="presentation_images"><a href="TL_StandardPresentation_PPM_16_9_V3.pdf"><img src="images/TL_StandardPresentation_PPM_16_9_V3_04.png"/></a></p>
   </div>
 </div>
 
@@ -31,20 +31,20 @@ A presentation slide deck about People Powered Money.
 
 A presentation slide deck about the Trustlines Protocol.
 
-[Download TL_StandardPresentation_Protocol_16_9_V2.pdf](TL_StandardPresentation_Protocol_16_9_V2.pdf)
+[Download TL_StandardPresentation_Protocol_16_9_V3.pdf](TL_StandardPresentation_Protocol_16_9_V3.pdf)
 
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V2.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V2_01.png"/></a></p>
+		<p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V3.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V3_01.png"/></a></p>
 	</div>
   <div class="6u 12u$(medium)">
-		<p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V2.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V2_02.png"/></a></p>
+		<p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V3.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V3_02.png"/></a></p>
 	</div>
   <div class="6u 12u$(medium)">
-    <p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V2.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V2_03.png"/></a></p>
+    <p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V3.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V3_03.png"/></a></p>
   </div>
   <div class="6u 12u$(medium)">
-    <p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V2.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V2_04.png"/></a></p>
+    <p class="presentation_images"><a href="TL_StandardPresentation_Protocol_16_9_V3.pdf"><img src="images/TL_StandardPresentation_Protocol_16_9_V3_04.png"/></a></p>
   </div>
 </div>
 

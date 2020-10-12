@@ -27,10 +27,27 @@
 	}
 
 	.icons {
-		height: (6.25em / 1.25);
-		line-height: (6.25em / 1.25);
-		position: absolute;
-		right: (-0.625em / 1.25);
-		top: 0;
+		text-align: right;
+	}
+
+	@include breakpoint(xlarge) {
+		padding-top: 5em;
+	}
+	
+	@include breakpoint(small) {
+		padding-top: 6.5em;
+
+		.logo {
+			font-size: 1.25em;
+			margin: 0;
+		}
+
+		.icons {
+			height: (6.25em / 1.25);
+			line-height: (6.25em / 1.25);
+			position: absolute;
+			right: (-0.625em / 1.25);
+			top: 0;
+		}
 	}
 }

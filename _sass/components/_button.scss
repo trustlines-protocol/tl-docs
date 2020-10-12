@@ -29,14 +29,6 @@ button,
 		}
 	}
 
-	&:hover {
-		border-bottom: 2px solid _palette(accent);
-	}
-
-	&:active {
-		border-bottom: 2px solid _palette(accent);
-	}
-
 	&.fit {
 		display: block;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;

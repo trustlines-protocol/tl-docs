@@ -29,31 +29,31 @@ table {
 		padding: 0.75em;
 	}
 
-		th {
-			color: _palette(orange);
-			font-size: 0.9em;
-			font-weight: _font(weight-bold);
-			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
-		}
+	th {
+		color: _palette(orange);
+		font-size: 0.9em;
+		font-weight: _font(weight-bold);
+		padding: 0 0.75em 0.75em 0.75em;
+		text-align: left;
+	}
 
-		thead {
-			border-bottom: solid 2px _palette(grey);
-		}
+	thead {
+		border-bottom: solid 2px _palette(grey);
+	}
 
-		tfoot {
-			border-top: solid 2px _palette(grey);
-		}
+	tfoot {
+		border-top: solid 2px _palette(grey);
+	}
 
 	&.alt {
 		border-collapse: separate;
 
-			tbody {
-				tr {
-					td {
-						border: solid 1px _palette(grey);
-						border-left-width: 0;
-						border-top-width: 0;
+		tbody {
+			tr {
+				td {
+					border: solid 1px _palette(grey);
+					border-left-width: 0;
+					border-top-width: 0;
 
 					&:first-child {
 						border-left-width: 1px;

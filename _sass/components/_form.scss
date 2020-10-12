@@ -52,7 +52,7 @@ textarea {
 	position: relative;
 
 	&:before {
-		color: _palette(border);
+		color: _palette(grey);
 		content: '\f078';
 		display: block;
 		height: _size(element-height);
@@ -153,27 +153,35 @@ input[type="radio"] {
 	}
 }
 
-	::-webkit-input-placeholder {
-		color: _palette(purple) !important;
-		opacity: 1.0;
+input[type="radio"] {
+	& + label {
+		&:before {
+			border-radius: 100%;
+		}
 	}
+}
 
-	:-moz-placeholder {
-		color: _palette(purple) !important;
-		opacity: 1.0;
-	}
+::-webkit-input-placeholder {
+	color: _palette(purple) !important;
+	opacity: 1.0;
+}
 
-	::-moz-placeholder {
-		color: _palette(purple) !important;
-		opacity: 1.0;
-	}
+:-moz-placeholder {
+	color: _palette(purple) !important;
+	opacity: 1.0;
+}
 
-	:-ms-input-placeholder {
-		color: _palette(purple) !important;
-		opacity: 1.0;
-	}
+::-moz-placeholder {
+	color: _palette(purple) !important;
+	opacity: 1.0;
+}
 
-	.formerize-placeholder {
-		color: _palette(purple) !important;
-		opacity: 1.0;
-	}
+:-ms-input-placeholder {
+	color: _palette(purple) !important;
+	opacity: 1.0;
+}
+
+.formerize-placeholder {
+	color: _palette(purple) !important;
+	opacity: 1.0;
+}

@@ -52,6 +52,8 @@
 
 	> .inner {
 		@include padding($pad, $pad, (0, 0, $pad, 0));
+		position: relative;
+		width: _size(sidebar-width);
 
 		> * {
 			margin: 0 0 (_size(element-margin) * 1.75) 0;

@@ -42,7 +42,7 @@
 			width: 6em;
 
 			&:before {
-				color: _palette(orange);
+				color: _palette(accent);
 				font-size: 3.85rem;
 				position: relative;
 				top: 0.05em;
@@ -60,7 +60,7 @@
 		}
 	}
 	@include breakpoint(medium) {
-		margin: 0 0 _size(element-margin) 0;
+		margin: 0 0 _size(element-margin);
 		width: 100%;
 
 		article {
@@ -90,7 +90,7 @@
 				width: 8em;
 
 				&:before {
-					font-size: 2.85rem;
+					font-size: 2.25rem;
 				}
 
 				&:after {
@@ -101,7 +101,6 @@
 			}
 		}
 	}
-	
 	@include breakpoint(xsmall) {
 		article {
 			@include vendor('flex-direction', 'column');
@@ -109,6 +108,12 @@
 
 			.icon {
 				display: none;
+			}
+		}
+	}
+	@include breakpoint(xsmall) {
+		article {
+			.icon {
 				&:before {
 					font-size: 1.25rem;
 				}

@@ -11,11 +11,11 @@ button,
 .button {
 	@include vendor('appearance', 'none');
 	@include vendor('transition', 'border-bottom #{_duration(transition)} ease');
-	color: _palette(orange);
+	color: _palette(accent) !important;
 	cursor: pointer;
 	display: inline-block;
 	font-size: 1em;
-	font-weight: _font(weight-bold);
+	font-weight: _font(weight-heading);
 	height: 2.5em;
 	letter-spacing: _font(kerning-heading);
 	line-height: 3.5em;
@@ -23,10 +23,24 @@ button,
 	text-decoration: none;
 	white-space: nowrap;
 
+	&:hover {
+		border-bottom: 2px solid _palette(accent);
+	}
+
+	&:active {
+		border-bottom: 2px solid _palette(accent);
+	}
+
 	&.icon {
 		&:before {
 			margin-right: 0.5em;
 		}
+	}
+
+	&.fit {
+		display: block;
+		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		width: 100%;
 	}
 
 	&.small {
@@ -40,16 +54,16 @@ button,
 	}
 
 	&.special {
-		background-color: _palette(orange);
+		background-color: _palette(accent);
 		box-shadow: none;
-		color: _palette(white) !important;
+		color: _palette(bg) !important;
 
 		&:hover {
-			background-color: lighten(_palette(orange), 3);
+			background-color: lighten(_palette(accent), 3);
 		}
 
 		&:active {
-			background-color: darken(_palette(orange), 3);
+			background-color: darken(_palette(accent), 3);
 		}
 	}
 

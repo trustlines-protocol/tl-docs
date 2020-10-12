@@ -11,7 +11,7 @@
 
 		&:before {
 			@include vendor('transform', 'scaleX(-1)');
-			color: _palette(black);
+			color: _palette(fg);
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -36,11 +36,8 @@
 	$pad: 2em / 0.9;
 	@include vendor('flex-grow', '0');
 	@include vendor('flex-shrink', '0');
-	@include vendor('transition', (
-		'margin-left 0.5s ease',
-		'box-shadow 0.5s ease'
-	));
-	background-color: _palette(white-alt);
+	@include vendor('transition', ('margin-left 0.5s ease', 'box-shadow 0.5s ease'));
+	background-color: _palette(bg-alt);
 	font-size: 0.9em;
 	position: relative;
 	width: _size(sidebar-width);
@@ -70,7 +67,7 @@
 		}
 
 		> .alt {
-			background-color: darken(_palette(grey), 2);
+			background-color: darken(_palette(bg-alt), 2);
 			border-bottom: 0;
 			margin: ($pad * -1) 0 ($pad * 2) ($pad * -1);
 			padding: $pad;
@@ -112,7 +109,6 @@
 	&.inactive {
 		margin-left: (_size(sidebar-width) * -1);
 	}
-	
 	@include breakpoint(xlarge) {
 		$pad: 1.5em / 0.9;
 		width: _size(sidebar-width-alt);
@@ -138,18 +134,12 @@
 			&:before {
 				font-size: 1.5rem;
 			}
-
-			&:hover {
-				color: _palette(orange) !important;
-			}
-			
 		}
 
 		&.inactive {
 			margin-left: (_size(sidebar-width-alt) * -1);
 		}
 	}
-
 	@include breakpoint(large) {
 		box-shadow: 0 0 5em 0 rgba(0, 0, 0, 0.175);
 		height: 100%;
@@ -193,14 +183,13 @@
 			display: none;
 		}
 	}
-
 	@include breakpoint(small) {
 		.toggle {
 			text-indent: 7.25em;
 			width: 7.25em;
 
 			&:before {
-				color: _palette(black);
+				color: _palette(fg);
 				margin-left: (-0.125em / 2);
 				margin-top: (-0.5em / 2);
 				font-size: 1.1rem;

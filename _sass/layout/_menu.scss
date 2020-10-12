@@ -7,13 +7,15 @@
 #menu {
 	ul {
 		@include vendor('user-select', 'none');
-		color: _palette(black);
+		color: _palette(fg);
+		font-family: _font(weight-heading-alt);
 		letter-spacing: _font(kerning-heading);
 		list-style: none;
 		margin-bottom: 0;
 		padding: 0;
 
-		a, span {
+		a,
+		span {
 			border-bottom: 0;
 			color: inherit;
 			cursor: pointer;
@@ -21,7 +23,7 @@
 			font-size: 0.9em;
 
 			&:hover {
-				color: _palette(orange);
+				color: _palette(accent);
 			}
 
 			&.opener {
@@ -31,19 +33,16 @@
 				position: relative;
 
 				&:before {
-					@include vendor('transition', (
-							'color #{_duration(transition)} ease-in-out',
-							'transform #{_duration(transition)} ease-in-out'
-						));
-						color: _palette(purple);
-						content: '\f078';
-						position: absolute;
-						right: 0;
+					@include vendor('transition', ('color #{_duration(transition)} ease-in-out', 'transform #{_duration(transition)} ease-in-out'));
+					color: _palette(fg-light);
+					content: '\f078';
+					position: absolute;
+					right: 0;
 				}
 
 				&:hover {
 					&:before {
-						color: _palette(orange);
+						color: _palette(accent);
 					}
 				}
 
@@ -62,23 +61,24 @@
 
 	> ul {
 		> li {
-			border-top: solid 1px _palette(grey);
-			margin: 0.5em 0 0 0;
-			padding: 0.5em 0 0 0;
+			border-top: solid 1px _palette(border);
+			margin: 0.5em 0 0;
+			padding: 0.5em 0 0;
 
 			> ul {
-				color: _palette(purple);
+				color: _palette(fg-light);
 				display: none;
-				margin: 0.5em 0 1.5em 0;
+				margin: 0.5em 0 1.5em;
 				padding-left: 1em;
 
-				a, span {
+				a,
+				span {
 					font-size: 0.8em;
 				}
 
 				> li {
-					margin: 0.125em 0 0 0;
-					padding: 0.125em 0 0 0;
+					margin: 0.125em 0 0;
+					padding: 0.125em 0 0;
 				}
 			}
 

@@ -4,11 +4,13 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 /* Type */
+
 body,
 input,
 select,
 textarea {
-	color: _palette(fg);
+	color: _palette(black);
+
 	font-family: _font(family);
 	font-size: 13pt;
 	font-weight: _font(weight);
@@ -26,7 +28,7 @@ textarea {
 
 a {
 	@include vendor('transition', ('all #{_duration(transition)} ease',));
-	color: _palette(accent);
+	color: _palette(orange);
 	text-decoration: none;
 
 	h1,
@@ -36,13 +38,12 @@ a {
 	h5,
 	h6 {
 		&:hover {
-			color: _palette(fg-light);
+			color: _palette(purple);
 		}
 	}
 
 	&:hover {
-		border-bottom: 2px solid _palette(accent);
-		color: _palette(accent) !important;
+		color: _palette(purple);
 
 		strong {
 			color: inherit;
@@ -52,7 +53,7 @@ a {
 
 b,
 strong {
-	color: _palette(fg-bold);
+	color: _palette(orange);
 	font-weight: _font(weight-bold);
 }
 
@@ -72,31 +73,33 @@ h4,
 h5,
 h6 {
 	@include vendor('transition', ('all #{_duration(transition)} ease',));
-	color: _palette(fg-bold);
+	color: _palette(orange);
 	font-family: _font(family-heading);
-	font-weight: _font(weight-heading);
+	font-weight: _font(weight-medium);
 	line-height: 1.2;
 	margin: 0 0 (_size(element-margin) * 0.5) 0;
-	letter-spacing: -1px;
 
 	a {
 		color: inherit;
 		text-decoration: none;
 
 		&:hover {
-			color: _palette(fg);
+			color: _palette(purple);
 		}
 	}
 }
 
 h1 {
 	font-size: 3em;
+	font-weight: _font(weight-bold);
 	margin: 0 0 (_size(element-margin) * 0.25) 0;
 	line-height: 1.2;
+	letter-spacing: -1px;
 }
 
 h2 {
 	font-size: 1.75em;
+	font-weight: _font(weight-bold);
 }
 
 h3 {
@@ -161,14 +164,14 @@ sup {
 blockquote {
 	margin: 0 0 _size(element-margin);
 	padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
-	border-left: solid 3px _palette(accent);
+	border-left: solid 3px _palette(orange);
 	font-style: italic;
 }
 
 code {
-	background: _palette(border-bg);
+	background: _palette(grey-alt);
 	border-radius: _size(border-radius);
-	border: solid 1px _palette(border);
+	border: solid 1px _palette(grey);
 	font-family: monospace;
 	font-size: 0.9em;
 	margin: 0 0.25em;
@@ -191,7 +194,7 @@ pre {
 
 hr {
 	border: 0;
-	border-bottom: solid 1px _palette(border);
+	border-bottom: solid 1px _palette(grey);
 	margin: _size(element-margin) 0;
 
 	&.major {
@@ -212,7 +215,37 @@ hr {
 }
 
 center p a {
+	&:hover{
+		border-bottom: 2px solid _palette(orange);
+	}
+}
+
+.contact a {
+	color: _palette(black);
 	&:hover {
-		border-bottom: 2px solid _palette(accent);
+		color: _palette(orange);
+	}
+}
+
+a.toggle {
+	&::before {
+		&:hover {
+			color: _palette(orange) !important;
+		}
+	}
+}
+
+#prev_next {
+	a {
+		color: _palette(orange);
+		&:hover {
+			color: _palette(purple);
+		}
+	}
+}
+
+.prev_next {
+	&:hover {
+		border-color: _palette(purple);
 	}
 }

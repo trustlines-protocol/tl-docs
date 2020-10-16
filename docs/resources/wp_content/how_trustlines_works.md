@@ -48,7 +48,7 @@ IOUs can also be referred to as self-issued debt.  They can be used for payment 
 
 A trustline is a bilateral credit relationship between two partners. Every trustline consists of two corresponding credit lines (each partner giving one to the other partner) as well as a balance that indicates if and how much credit one partner has drawn from the other.
 
-<div class="captioned_image">
+<div class="captioned_image_wp_small">
 <center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></center>
 </div>
 
@@ -58,7 +58,7 @@ A trustline can represent different kinds of credit relationships, like a contra
 
 A credit line is a preset borrowing limit (credit limit) that can be used at any time and represents the highest amount that can be borrowed.
 
-<div class="captioned_image">
+<div class="captioned_image_wp_small">
 <center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></center>
 </div>
 
@@ -70,7 +70,7 @@ Even when two users do not have a trustline, they can still transfer value, as l
 
 For example, Alice wants to pay Charlie using credit. Because Charlie does not share a trustline with Alice, she cannot directly pay him with credit. Luckily, Bob is a mutual friend! This means Alice can pay Charlie by "rippling" credit through Bob.
 
-<div class="captioned_image">
+<div class="captioned_image_wp_small">
 <center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></center>
 </div>
 

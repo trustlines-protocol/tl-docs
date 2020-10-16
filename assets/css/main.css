@@ -6217,6 +6217,13 @@ center a:hover {
   border-radius: 4px;
 }
 
+.captioned_image_wp_small {
+  max-width: 70%;
+  margin: auto;
+  display: block;
+  margin-bottom: 2em;
+}
+
 #table-of-contents {
   font-weight: 500;
 }

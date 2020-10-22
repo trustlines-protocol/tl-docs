@@ -353,6 +353,58 @@ The Trustlines Foundation is supporting research, development, deployment, gover
 
 ___
 
+### Is it possible to use multiple currencies in one trustline?
+
+No. A single trustline represents one denomination of credit between two people. It is possible to create multiple trustlines with the same person using numerous currency networks. Still, they each require a single trustline for balance keeping.
+
+### Who controls the credit (IOU) flow?
+
+The two people that are sharing a trustline between each other, control the flow of that trustline. When one person sends the other either a payment or a payment request, it is up to the other person to accept or reject that credit.
+
+### Do I need to connect my bank account to my Trustlines account? / Is it planned to implement an option to transfer fiat money or crypto at some point?
+
+No. The Trustlines concept uses only credit between two trusting entities, and settling balances should only happen rarely. Currently, there is no way to connect any other payment protocols to your Trustlines account, but this could change in the future. These connected accounts would only be used in the case of settling or closing trustlines.
+
+### What's so special about Tustlines, and why use it?
+
+Through the Trustlines Protocol, [Trustlines enables "People-Powered Money"](https://blog.trustlines.network/people-powered-money-on-the-trustlines-protocol/) to be used by anyone.
+
+The Trustlines Protocol is an open-source technology stack that provides a highly accessible medium of exchange. Its core idea is to provide an accounting system based on peer-to-peer credit. This is a highly accessible financial tool since any two people who trust each other can decide to open a credit line at any time, without typical restrictions like needing a bank account or identity documents. Credit is a powerful medium of exchange: Even if someone does not have access to the national currency (fiat money), the credit created on Trustlines Protocol could be used in its place.
+
+When designing for financial inclusion, it is essential to use accessible, decentralized technology. That is the goal of public blockchain technology: It can provide a permissionless and censorship-resistant platform. This is why Trustlines Protocol was designed to be implemented on a blockchain.
+
+There are many faults with the modern monetary system. The majority of money is created as debt by commercial banks. There are also weaknesses to using cryptocurrencies, which remain structurally inaccessible for most people. These can be mitigated by switching to a decentralized, credit-based monetary system, as is possible with the Trustlines Protocol.
+
+The combination of an accessible medium of exchange and decentralized infrastructure makes Trustlines the starting point for a genuinely decentralized monetary system.
+
+### How transparent is Trustlines?
+
+A significant level of transparency is achieved by using a public blockchain as a part of the Trustlines Protocol technology stack. Every address on the TLBC is a pseudo-anonymous account that keeps track of all the transactions and balances associated with it. It is not linked to any other identity, so it provides a decent enough level of anonymity. Still, since every transaction on the blockchain is public, the address's history is always transparently visible to everyone. This allows full transparency and balance keeping of all addresses but cannot provide wholesome anonymity.
+
+### What's the difference between Trustlines Network and Trustlines Protocol?
+
+The Trustlines Network is an ecosystem that aims to promote the financial and economic inclusion of all people through decentralized and open-source systems. It consists of all the people, organizations, and other entities, participating in creating and using the Trustlines Network ecosystem.
+
+The Trustlines Protocol represents a set of rules, processes, and definitions forged into deployable code, enabling the mapping of trust-based relationships onto trustless infrastructure.
+
+More specifically, the Trustlines Protocol stack includes:
+
+- The Trustlines Blockchain, which is a mPoS (minimal viable Proof of Stake) sidechain to Ethereum and stores transactions
+
+- The relay servers, which calculate the optimal paths and relay the transactions sent by applications they are connected to
+
+- The client library, a high-level API, which enables applications to interact with the smart contract system on the Trustlines Blockchain via the relay servers
+
+- The smart contract system which includes the currency networks and other smart contacts supporting currency network related transactions, e.g., identity contract(s)
+
+### How can I trust that I will get paid by the person I have a trustline with.
+
+Trustlines is based on the principle that you should only create trustlines with the people you actually know and trust. The maximum amount that you would be willing to lend to the person you're creating a trustline with should be set as the cap when you are creating a trustline with someone. The amount of credit you're willing to lend can be changed later as well.
+
+The only way for you to trust that you will get paid is based on the fact that you will be able to borrow and lend money or other assets from the person you have created a trustline with. There are no other methods of ensuring you will get paid by the other person. This mutual credit can also go back and forth, and settling in cash or other forms should thus be rarely required.
+
+___
+
 <div id="prev_next">
 <div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Previous</a></div>
 <div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>

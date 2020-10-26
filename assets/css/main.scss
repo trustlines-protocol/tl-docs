@@ -1,6 +1,5 @@
 ---
 ---
-
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -2458,7 +2457,7 @@ input[type="radio"]+label:before {
 }
 
 .image.main img {
-  width: 100%;
+  display: none;
 }
 
 a.image {
@@ -2847,18 +2846,26 @@ center a:hover {
   border-radius: 4px;
 }
 
+.captioned_image_wp_small {
+  max-width: 70%;
+  margin: auto;
+  display: block;
+  margin-bottom: 2em;
+}
+
 #table-of-contents {
   font-weight: 500;
 }
 
 #prev_next {
   text-align: center;
-  margin: 2em 0em 2em 0em;
   height: 200px;
+  display: inline-block;
+  width: 49%;
 }
 
 a.prev_next {
-  border: 3px solid #FF7C4E;
+  border: 3px solid _palette(orange);
   border-radius: 50px;
   padding: 1em 1.1em 1em 1.1em;
   font-size: 22px;
@@ -2871,4 +2878,10 @@ a.prev_next_text {
 
 #prev_next div {
   height: 75px;
+  padding: 0em 3em 0em 3em;
+}
+
+.card_img {
+  display: inline-block;
+  width: 40%;
 }

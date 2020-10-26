@@ -71,7 +71,7 @@
 		}
 
 		> .alt {
-			background-color: darken(_palette(bg-alt), 2);
+			background-color: darken(_palette(white-alt), 2);
 			border-bottom: 0;
 			margin: ($pad * -1) 0 ($pad * 2) ($pad * -1);
 			padding: $pad;

@@ -7,8 +7,7 @@
 #menu {
 	ul {
 		@include vendor('user-select', 'none');
-		color: _palette(fg);
-		font-family: _font(weight-heading-alt);
+		color: _palette(black);
 		letter-spacing: _font(kerning-heading);
 		list-style: none;
 		margin-bottom: 0;
@@ -23,7 +22,7 @@
 			font-size: 0.9em;
 
 			&:hover {
-				color: _palette(accent);
+				color: _palette(orange);
 			}
 
 			&.opener {
@@ -33,8 +32,11 @@
 				position: relative;
 
 				&:before {
-					@include vendor('transition', ('color #{_duration(transition)} ease-in-out', 'transform #{_duration(transition)} ease-in-out'));
-					color: _palette(fg-light);
+					@include vendor('transition', (
+						'color #{_duration(transition)} ease-in-out',
+						'transform #{_duration(transition)} ease-in-out'
+					));
+					color: _palette(purple);
 					content: '\f078';
 					position: absolute;
 					right: 0;
@@ -42,7 +44,7 @@
 
 				&:hover {
 					&:before {
-						color: _palette(accent);
+						color: _palette(orange);
 					}
 				}
 
@@ -50,7 +52,6 @@
 					& + ul {
 						display: block;
 					}
-
 					&:before {
 						@include vendor('transform', 'rotate(-180deg)');
 					}
@@ -61,18 +62,17 @@
 
 	> ul {
 		> li {
-			border-top: solid 1px _palette(border);
-			margin: 0.5em 0 0;
-			padding: 0.5em 0 0;
+			border-top: solid 1px _palette(grey);
+			margin: 0.5em 0 0 0;
+			padding: 0.5em 0 0 0;
 
 			> ul {
-				color: _palette(fg-light);
+				color: _palette(purple);
 				display: none;
-				margin: 0.5em 0 1.5em;
+				margin: 0.5em 0 1.5em 0;
 				padding-left: 1em;
 
-				a,
-				span {
+				a, span {
 					font-size: 0.8em;
 				}
 

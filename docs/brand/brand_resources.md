@@ -11,7 +11,7 @@ title: Brand Resources
 
 #### 3. [Trustlines Protocol](#trustlines-protocol)
 
-#### 4. [Symbol](#symbol)
+#### 4. [Logo](#logo)
 
 ___
 

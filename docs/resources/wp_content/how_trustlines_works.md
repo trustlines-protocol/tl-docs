@@ -333,7 +333,7 @@ ___
 <div class="prev"><a href="../time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
 </div>
 <div id="prev_next">
-<div class="next"><a href="../../guides/tl_app_user_guide" class="prev_next_text">Next</a></div>
-<div class="next"><a href="../../guides/tl_app_user_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
-<div class="next"><a href="../../guides/tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
+<div class="next"><a href="use_in_the_real_world" class="prev_next_text">Next</a></div>
+<div class="next"><a href="use_in_the_real_world" class="icon fas fa-arrow-right prev_next"></a><br></div>
+<div class="next"><a href="use_in_the_real_world" class="prev_next_text">Use in the real world</a></div>
 </div>

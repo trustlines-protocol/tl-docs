@@ -6,7 +6,7 @@ subtitle: Version 2.0
 
 _Last updated: July 2020_
 
-_Download PDF: <a href="../../assets/pdf/200608-TL-guidelines-V2.pdf" target="_blank">TL-Brand-Guidelines-V2.pdf</a>_
+_Download PDF: <a href="../../assets/pdf/TL-Brand-Guidelines-V2.pdf" target="_blank">TL-Brand-Guidelines-V2.pdf</a>_
 
 
 ### Table of Contents

@@ -19,21 +19,20 @@ $size: (
 );
 // Font.
 $font: (
-	family: ('Inter'),
-	weight: 400,
-	weight-bold: 600,
-	weight-heading: 600,
-	weight-heading-alt: 400,
-	kerning-heading: 0.03em
+	family:				('Inter', sans-serif),
+	weight:				400,
+	weight-bold:		600,
+	weight-medium:		500,
+	kerning-heading:	0.03em
 );
+
 // Palette.
 $palette: (
-	bg: #fbfbfb,
-	bg-alt: #ededed,
-	fg: #12121F,
-	fg-bold: #FF7C4E,
-	fg-light: #7657ED,
-	border: rgba(210,215,217,0.75),
-	border-bg: transparentize(#bdbdbd, 0.75),
-	accent: #FF7C4E
+	white:				#fbfbfb,
+	white-alt:			#ededed,
+	black:				#12121F,
+	orange:				#FF7C4E,
+	purple:				#7657ED,
+	grey:				rgba(210,215,217,0.75),
+	grey-alt:			transparentize(#bdbdbd, 0.75)
 );

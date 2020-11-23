@@ -49,7 +49,7 @@ In the following section, we give a brief description of how the Trustlines Prot
 <center><a href="../../../assets/images/use_in_the_real_world/bill_splitting.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/bill_splitting.png"></a></center>
 </div>
 
-**TL;DR: Using Trustlines creates a nicer environment for splitting bills, since users rarely have to settle with cash.**
+**Using Trustlines creates a nicer environment for splitting bills, since users rarely have to settle with cash.**
 
 When splitting the bill at a restaurant or for similar group activities, settling in cash can be problematic. Using Trustlines helps create a nicer environment for recording debts between friends and acquaintances. If you go out with your friends often, these payments will go back and forth for a long time, which can make it wholly unnecessary to settle with cash or bank transfer.
 
@@ -61,7 +61,7 @@ Because of the "[network effect,](how_trustlines_works.html#25-the-network-effec
 <center><a href="../../../assets/images/use_in_the_real_world/peoples_atm.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/peoples_atm.png"></a></center>
 </div>
 
-**TL;DR: Trustlines users can withdraw cash from any other connected Trustlines user, reducing dependency on ATMs.**
+**Trustlines users can withdraw cash from any other connected Trustlines user, reducing dependency on ATMs.**
 
 Trustlines can be used as a way to access cash without an ATM, by enabling you to get it from individuals in the Trustlines network instead. This works because credit on Trustlines is very similar to how a bank deposit works. The money in your bank account does not actually represent cash stored in a vault. Instead, it is a record of the debt the bank owes you. When you withdraw cash at an ATM, this simply reduces that debt.
 
@@ -79,7 +79,7 @@ Due to the [network effect](how_trustlines_works.html#25-the-network-effect), us
 <center><a href="../../../assets/images/use_in_the_real_world/time_credits.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/time_credits.png"></a></center>
 </div>
 
-**TL;DR: A Trustlines currency network can use "time" as its unit of account, enabling a decentralized, interoperable network of timebank communities.**
+**A Trustlines currency network can use "time" as its unit of account, enabling a decentralized, interoperable network of timebank communities.**
 
 Time credits (also referred to as time dollars or timebanking) are a popular form of alternative currency. They usually emphasize a circular economy in which every individual has something both to give and to receive. A Trustlines currency network can be customized for time credits by using "time" or "work hours" as its unit of account.
 
@@ -95,7 +95,7 @@ Note that time is a universal unit of account. Thus, any currency network using 
 <center><a href="../../../assets/images/use_in_the_real_world/gift_vouchers.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/gift_vouchers.png"></a></center>
 </div>
 
-**TL;DR: Creating gift vouchers on Trustlines would exponentially expand their reach, since anyone connected in the network can access them.**
+**Creating gift vouchers on Trustlines would exponentially expand their reach, since anyone connected in the network can access them.**
 
 Many small businesses are in crisis due to the global pandemic. Some restaurants and other businesses are relying on gift cards and vouchers to stay afloat.
 
@@ -111,7 +111,7 @@ Businesses can also choose to partner with other businesses by opening trustline
 <center><a href="../../../assets/images/use_in_the_real_world/microcredit.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/microcredit.png"></a></center>
 </div>
 
-**TL;DR: Trustlines makes it easy to create and access microcredit securely, which can help to fight poverty.**
+**Trustlines makes it easy to create and access microcredit securely, which can help to fight poverty.**
 
 Microcredit is the term used for loans consisting of relatively small amounts of money. Access to microcredit helps fight poverty and supports financial inclusion.
 
@@ -127,7 +127,7 @@ On the other side of microcredit is [microsavings](https://www.investopedia.com/
 <center><a href="../../../assets/images/use_in_the_real_world/community_currency.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/community_currency.png"></a></center>
 </div>
 
-**TL;DR: Using Trustlines for a community currency can enhance or influence spending within the community.**
+**Using Trustlines for a community currency can enhance or influence spending within the community.**
 
 Local or community currency projects seek to enhance spending within the community, or to influence community spending patterns. Such projects can use the Trustlines Protocol in a few different ways.
 
@@ -143,7 +143,7 @@ Note that Trustlines was designed to enhance local community trade, since it cre
 <center><a href="../../../assets/images/use_in_the_real_world/circular_economy.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/circular_economy.png"></a></center>
 </div>
 
-**TL;DR: Trustlines is the ideal tool for payments in a circular economy, and its use can boost sustainability and economic resilience.**
+**Trustlines is the ideal tool for payments in a circular economy, and its use can boost sustainability and economic resilience.**
 
 It is possible to use Trustlines to encourage circular economic activity by placing additional restrictions on how value leaves the system, by using community guidelines or a "social contract." This can strengthen local economies and support sustainable business practices.
 
@@ -161,7 +161,7 @@ Because a mature Trustlines network will mean that communities can always fall b
 <center><a href="../../../assets/images/use_in_the_real_world/glocal_monetary_system.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/glocal_monetary_system.png"></a></center>
 </div>
 
-**TL;DR: Trustlines can be a superior alternative to the global monetary system, since it is globally scalable yet has all the benefits of local currencies.**
+**Trustlines can be a superior alternative to the global monetary system, since it is globally scalable yet has all the benefits of local currencies.**
 
 One vision for Trustlines is to use peer-to-peer (P2P) credit as an alternative type of global monetary system. There are several potential economic and social benefits of moving away from existing monetary systems, and instead, moving towards a type of money issued by its users.
 
@@ -175,7 +175,7 @@ If the unit of account within a Trustlines currency network is a global currency
 <center><a href="../../../assets/images/use_in_the_real_world/LETS.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/LETS.png"></a></center>
 </div>
 
-**TL;DR: Traditional LETS systems can be implemented on Trustlines, to benefit from interoperability with the rest of the network.**
+**Traditional LETS systems can be implemented on Trustlines, to benefit from interoperability with the rest of the network.**
 
 Higher-order or "centralized" entities can arise on top of [decentralized currency networks](how_trustlines_works). The advantage to this is that credit risk can be socialized within a group, to mirror the popular Local Exchange Trading System (LETS) model. This is an accounting system that allows community members to exchange goods and services without using the national currency, simply by recording transactions and the resulting member balances on a centralized ledger. The LETS model is used in more than 1500 communities worldwide.
 
@@ -189,7 +189,7 @@ Such a setup in Trustlines would socialize the credit risk: Unpaid debts would e
 <center><a href="../../../assets/images/use_in_the_real_world/trade_exchange.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/trade_exchange.png"></a></center>
 </div>
 
-**TL;DR: Businesses may use Trustlines to establish a decentralized B2B trade exchange, also benefiting from interoperability with the P2P network.**
+**Businesses may use Trustlines to establish a decentralized B2B trade exchange, also benefiting from interoperability with the P2P network.**
 
 Businesses may use Trustlines to establish a business-to-business (B2B) trade exchange, also called a barter network. Similar to a P2P network, in which trustlines are issued amongst friends, a B2B network occurs when businesses create trustlines with other businesses. This type of arrangement can even be considered its own type of money, "B2B money." Unlike traditional trade exchanges, using Trustlines would allow such a system to be fully decentralized.
 
@@ -201,7 +201,7 @@ There is a significant advantage to building such a system on top of Trustlines:
 <center><a href="../../../assets/images/use_in_the_real_world/degrowth_money.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/degrowth_money.png"></a></center>
 </div>
 
-**TL;DR: A Trustlines currency network can implement a negative interest rate, to discourage hoarding and facilitate degrowth.**
+**A Trustlines currency network can implement a negative interest rate, to discourage hoarding and facilitate degrowth.**
 
 Trustlines was designed so that currency networks can include "demurrage," i.e., negative interest. Negative interest can help discourage hoarding since all balances lose value over time.
 
@@ -215,7 +215,7 @@ The advantage to using Trustlines to launch a currency with negative interest is
 <center><a href="../../../assets/images/use_in_the_real_world/UBI.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/UBI.png"></a></center>
 </div>
 
-**TL;DR: A Trustlines currency network can be a decentralized distribution system for universal basic income.**
+**A Trustlines currency network can be a decentralized distribution system for universal basic income.**
 
 It is difficult to distribute a universal basic income when people do not have access to bank accounts or the necessary identity documents.
 
@@ -231,7 +231,7 @@ The fault-tolerance of Trustlines implicitly limits the basic income to one-per-
 <center><a href="../../../assets/images/use_in_the_real_world/collateralized_credit.png"><img class="tc_img" src="../../../assets/images/use_in_the_real_world/collateralized_credit.png"></a></center>
 </div>
 
-**TL;DR: Although collateral is not necessary to use Trustlines, any user can decide to add collateral to boost trust and trade.**
+**Although collateral is not necessary to use Trustlines, any user can decide to add collateral to boost trust and trade.**
 
 Trustlines is designed so that anyone may issue credit without needing financial collateral. However, it is possible for users or communities to secure the credit they issue with collateral, if that is desired. This can be accomplished effectively with a contract or a legal agreement. In the future, it may be possible to do this via smart contract technology, if users need to manage the collateral in a transparent and trustless way.
 

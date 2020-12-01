@@ -2802,7 +2802,17 @@ blockquote p {
 }
 
 .app_guide_headerimg {
-  max-width: 50%;
+  max-width: 70%;
+}
+
+.app_guide_dl {
+  background-color: #ededed;
+  color: #12121F;
+  padding: 1em;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 4px;
+  max-width: 70%;
 }
 
 .app_guide_img {
@@ -2891,4 +2901,8 @@ a.prev_next_text {
   margin: auto;
   display: block;
   margin-bottom: 2em;
+}
+
+.sidebar_sub_sub {
+  margin-left: 1.25em;
 }

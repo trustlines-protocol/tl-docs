@@ -1,6 +1,7 @@
 ---
 layout: page
 title: User guide for Trustlines App
+subtitle: Last updated December 2020
 image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_header.png
 ---
 
@@ -12,7 +13,7 @@ _Note: The images in this guide are for educational purposes and might not repre
 
 #### Note to iOS users upgrading from a previous version
 
-_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will need to uninstall the beta version before installing the production version. First of all, remember to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You should also do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
+_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will have to uninstall the beta version before installing the production version. First of all, you need to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You also need to do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
 
 ## Introduction
 
@@ -32,7 +33,7 @@ Select the appropriate choice for you, [Starting via an invite link](#starting-v
 
 #### Note to iOS users upgrading from a previous version
 
-_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will need to uninstall the beta version before installing the production version. First of all, remember to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You should also do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
+_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will have to uninstall the beta version before installing the production version. First of all, you need to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You also need to do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
 
 ### Starting via an invite link
 
@@ -44,11 +45,11 @@ The first thing you need to do when signing up for a new account is to accept th
 
 <center><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a></center>
 
-Once the account generation is complete, you get to choose the name displayed in the name for yourself. Choose a name you want to use in the app, and you're ready to create your first trustline!
+Once the account generation is complete, you get to choose the name displayed for yourself. Choose a name you want to use in the app, and you're ready to create your first trustline!
 
 <center><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"></a></center>
 
-Since you created your account via an invite link, there is already a trustline request ready for you to review. This will show the name that the other person has picked for themselves, which currency network they are suggesting for the trustline, as well as the mutual credit limit. As this invite was a request for you to create a trustline with the other person, they will also still need to confirm the creation of the trustline.
+Since you created your account via an invite link, there is already a trustline request ready for you to review. This will show the name that the other person has picked for themselves, which currency network they are suggesting for the trustline, as well as the suggested credit limit(s). A trustline request from a new invite link is slightly different from others you will receive, and will become active only after it is sent back to your new partner for a final approval.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"></a></center>
 
@@ -60,13 +61,13 @@ Starting with a sign up in the app is pretty similar to [starting via an invite 
 
 _If you already went through the [starting via an invite link](#starting-via-an-invite-link) steps, feel free to [skip](#creating-a-trustline) this section._
 
-* * *
+___
 
 The first thing you need to do when signing up for a new account is to accept the `Terms & Conditions`.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center>
 
-Upon accepting the Terms & Conditions, the app will automatically generate a new account for you. Once the account generation is complete, you get to choose the name displayed in the name for yourself.
+Upon accepting the Terms & Conditions, the app will automatically generate a new account for you. Once the account generation is complete, you get to choose the name displayed for yourself.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center>
 
@@ -76,7 +77,7 @@ You can also skip this step and [create a new trustline](#creating-a-trustline) 
 
 <center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center>
 
-Next, you will [choose a currency network](#choosing-a-currency-network-for-a-trustline) you would like to use as a denomination for this trustline. On the next screen, you will need to choose and [suggest a credit limit](#setting-a-credit-limit) for this trustline.
+Next, you will [choose a currency network](#choosing-a-currency-network-for-a-trustline) you would like to use for this trustline. On the next screen, you will need to choose and [suggest a credit limit](#setting-a-credit-limit) for this trustline.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a></center>
 
@@ -88,25 +89,27 @@ Review the details of the trustline you wish to request before sending, and that
 
 ## Securing access to your account
 
-**This is a crucial step you should always take when starting to use the Trustlines App!**
+**This is a crucial step for all users of the Trustlines App!**
 
-Backing up your passphrase will guarantee that you will be able to access your account in the case that you, i.e., lose or break your phone. **Without the passphrase, you won't be able to access your account again on another device.**
+_Note: This is not the same as [backing up your account data](#backing-up-and-restoring-your-account-data). This will secure access to the account, but you should also make sure that the account data is backed up._
+
+Backing up your passphrase will guarantee that you will be able to access your account in the case that you lose access to your device. **Without the passphrase, you won't be able to access your account again on another device.**
 
 You start by going to the `Account` tab in the menu bar. There you need to select `Passphrase` to start the backing up process.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"></a></center>
 
-The next step will show you your personal passphrase associated with your account. This passphrase is 12 words long, and you will need to copy it to a secure location like a password manager. After copying your passphrase, you will need to verify that you have the correct passphrase stored. The app will ask you to enter the 12-word passphrase in the correct order, ensuring that you have the right one copied and allowing you to access your account in the future if needed.
+The next step will show you the personal passphrase associated with your account. This passphrase is 12 words long, and you will need to copy it to a secure location like a password manager. After copying your passphrase, you will need to verify that you have the correct passphrase stored. The app will ask you to enter the 12-word passphrase in the correct order, ensuring that you have the right one copied and allowing you to access your account in the future if needed.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"></a><a href="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"></a></center>
 
-These are all the steps needed to secure access to your account. As a reminder, **storing your passphrase, i.e., in a screenshot, email, or at cloud storage, is not a secure way of storing your passphrase**.
+These are all the steps needed to secure access to your account. As a reminder, **storing your passphrase, i.e., in a screenshot, email, or at cloud storage, [is not a secure way](https://blockonomi.com/keep-recovery-seed-safe/) of storing your passphrase**.
 
 ## Backing up and restoring your account data
 
-All the data of your account is stored only on your device. The Trustlines Blockchain stores information regarding your balances, transfers, etc., but, for example, the names of your contacts and payment requests are only stored on your device. This is why it's important to back up the data of your account, at least when starting to use the app on a new device. We do recommend doing a regular backup of this data in case your phone, i.e., gets stolen, broken, or is otherwise lost.
+All the personal data of your account is stored only on your device. While the Trustlines Blockchain stores information regarding your balances and transfers, personal information like the names of your contacts and payment requests are only stored on your device. This is why it’s important to back up your account data. We recommend doing a regular backup of this data in case your phone gets stolen, broken, or is otherwise lost.
 
-The information is stored in a JSON format that can be easily stored in text form any way you would prefer.
+The information is stored in a JSON format that you can be easily store in text form any way you would prefer. For a regular user without knowledge about the formatting, this is done easy, and can be done by just copying and pasting the information to save it.
 
 Here's an example of how the data of your account data might look like.
 
@@ -154,11 +157,11 @@ Head on over to the `Accounts` tab in the menu bar. There you will find the `Res
 
 ## Creating a trustline
 
-The app is not useful without at least one trustline! So if you don't have one, the first thing you should do upon downloading the Trustlines App is to create a trustline with a trusted peer.
+The app is not useful without at least one trustline! So if you don't have one, the first thing you should do upon downloading the Trustlines App is to create a trustline with a trusted partner.
 
 To create a trustline, first, one party must create a proposal, and the other must accept it.
 
-Each trustline consists of two credit lines. As a default, we suggest you set both limits to the same value. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. There is also an option to add interest to either of these credit lines.
+Each trustline consists of two credit lines. As a default, we suggest you set both limits to the same value. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. Some currency networks also have an option to add interest to either of these credit lines.
 
 Start by heading to the `Dashboard`. Here you can either start the process by tapping on `New Trustline`.
 
@@ -186,7 +189,7 @@ Then, if selecting another option like an existing contact, review the details, 
 
 ## Adding a contact
 
-To add a contact, your partner must share their account address. You, adding the contact, should click on the `Contacts` item in the menu bar. In the top part of the screen, there's a button for adding new contacts. Click this.
+To add a contact, your partner must share their account address. You, adding the contact, should click on the `Contacts` item in the menu bar. At the top of the screen, there's a button for adding new contacts. Click this.
 
 Your partner sharing their contact information should go to the `Account` tab in the menu bar and select `Show QR` at the top of the screen.
 
@@ -208,7 +211,7 @@ Currency networks can also be enabled during the [trustline creation process](#c
 
 <center><a href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></center>
 
-* * *
+___
 
 ### Choosing a currency network for a trustline
 
@@ -290,7 +293,7 @@ By selecting a contact in the `Contacts` view, you will be able to view all the 
 
 <center><a href="../../assets/images/app_user_guide/v1.11/contact_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/contact_details.png"></a></center>
 
-The given and received credit line amounts correspond to the two credit lines you and your partner have agreed on for this trustline.
+The given and received credit line amounts correspond to the two credit limits you and your partner have agreed on for this trustline. In other words, this is the credit line you have given to your partner, and the credit line you have received from your partner.
 
 Your balance indicates the amount "owed." If it is negative, this is the amount you owe your partner. If it is positive, this is the amount your partner owes you. You should only need this information if you decide to settle your balance and close the trustline.
 
@@ -300,11 +303,11 @@ This is a newly released app. We are very interested in hearing about your exper
 
 The [Trustlines Forum](https://forum.trustlines.network/) has sections for [Support](https://forum.trustlines.network/c/trustlines-app/app-support/16) as well as for [Feedback](https://forum.trustlines.network/c/trustlines-app/app-feedback/17) regarding the [Trustlines App](https://forum.trustlines.network/c/trustlines-app/15); come tell us what you think!
 
-* * *
+___
 
 _This content is created by Auxiliary GmbH and is provided as educational material for Trustlines App users._
 
-* * *
+___
 
 <div id="prev_next">
 <div class="prev"><a href="../resources/glossary" class="prev_next_text">Previous</a></div>

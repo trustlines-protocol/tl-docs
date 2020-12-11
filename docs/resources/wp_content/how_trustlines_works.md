@@ -70,7 +70,7 @@ Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charl
 
 ### 2.5 The network effect
 
-People that are not connected through a Trustline can make multi-hop payments via any path of connected trustlines. 
+People that are not connected through a trustline can make multi-hop payments via any path of direct connected trustlines. 
 
 <div class="captioned_image">
 <center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></center>

@@ -10,7 +10,7 @@ Validators are able to withdraw their deposits after the locking period ends.
 To withdraw your deposit from the contract, you will need to interact with the `DepositLocker` contract. The contract address on Ethereum is:
 
 Auction 1.0 - ETH Stake: [0xd56a61ad1b16f1f0326785902593c7adbf733e34](https://etherscan.io/address/0xd56a61ad1b16f1f0326785902593c7adbf733e34)  
-Auction 2.0 - TLN Stake: [0xED0FA720D4150F7b1572b68d1f8C708ddf9da5B7](https://etherscan.io/address/0xed0fa720d4150f7b1572b68d1f8c708ddf9da5b7)
+Auction 2.0 - TLN Stake: [0x3f52Cb880B534D57F3C925F2bbB6b2750E2f415A](https://etherscan.io/address/0x3f52Cb880B534D57F3C925F2bbB6b2750E2f415A)
 
 Make sure the deposits are unlocked by checking that the `releaseTimestamp` has passed. To do this on the contract page, click on `contract`.
 

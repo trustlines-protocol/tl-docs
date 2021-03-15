@@ -1,0 +1,26 @@
+site_name: Trustlines Wiki
+repo_name: trustlines-protocol/tl-docs
+repo_url: https://github.com/trustlines-protocol/tl-docs
+site_description: Wiki for the Trustlines Network
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    accent: deep purple
+  font: false
+
+extra_css:
+  - docs/assets/css/styles.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/trustlines-protocol
+    - icon: material/comment
+      link: https://blog.trustlines.network/
+    - icon: fontawesome/brands/discourse
+      link: https://forum.trustlines.network/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/TrustlinesFound
+nav:
+  - Trustlines Wiki: docs/index.md

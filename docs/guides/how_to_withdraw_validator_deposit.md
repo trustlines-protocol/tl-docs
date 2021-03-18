@@ -65,6 +65,8 @@ ___
 
 If an auction is successful, the last bid's price is defined as the "slot price." In the Dutch auction format used, the last bid is the final price for all participants. Due to this format, all bids before the last one will have excess to withdraw. Every participant can withdraw the difference between the slot price and their bid by calling the `withdraw` function.
 
+For the most recent auction, you can easily withdraw your excess from a bid using the [Auction website](https://trustlines.foundation/auction.html).
+
 | Auction number | Auction period | Auction contract address | Staked token |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 8th of October, 2019 to 22nd of October, 2019 | [0x7255E01F934307FfB7a41FC78B6b1688f5dc6845](https://etherscan.io/address/0x7255E01F934307FfB7a41FC78B6b1688f5dc6845) | ETH |

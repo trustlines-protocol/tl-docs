@@ -1,22 +1,7 @@
 ---
-layout: page
 title: How Trustlines works
 subtitle: Whitepaper content
 ---
-
-## Table of Contents
-
-#### 1. [Overview](#1-overview-1)
-
-#### 2. [Core idea](#2-core-idea-1)
-
-#### 3. [Protocol design choices](#3-protocol-design-choices-1)
-
-#### 4. [Trustlines Protocol technology stack](#4-trustlines-protocol-technology-stack-1)
-
-#### 5. [Cryptoeconomics of the Trustlines Protocol](#5-cryptoeconomics-of-the-trustlines-protocol-1)
-
-___
 
 ## 1. Overview
 
@@ -40,9 +25,7 @@ IOUs can also be referred to as self-issued debt.  They can be used for payment 
 
 A trustline is a bilateral credit relationship between two partners. Every trustline consists of two corresponding credit lines (each partner giving one to the other partner) as well as a balance that indicates if and how much credit one partner has drawn from the other.
 
-<div class="captioned_image_wp_small">
-<center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></center>
-</div>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></div></center>
 
 A trustline can represent different kinds of credit relationships, like a contract with or without collateral that is legally binding, or simply an agreement between friends. This makes a trustline a formal representation of a real world agreement between two entities that are willing to lend value to each other. This trustline enables Alice to make credit-based payments to Bob, and vice versa.
 
@@ -50,9 +33,7 @@ A trustline can represent different kinds of credit relationships, like a contra
 
 A credit line is a preset borrowing limit (credit limit) that can be used at any time and represents the highest amount that can be borrowed.
 
-<div class="captioned_image_wp_small">
-<center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></center>
-</div>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></div></center>
 
 In this example, Alice and Bob each give a credit line with a credit limit of ten. Ten is the maximum amount each of them would be able to borrow from the other.
 
@@ -62,9 +43,7 @@ Even when two users do not have a trustline, they can still transfer value, as l
 
 For example, Alice wants to pay Charlie using credit. Because Charlie does not share a trustline with Alice, she cannot directly pay him with credit. Luckily, Bob is a mutual friend! This means Alice can pay Charlie by "rippling" credit through Bob.
 
-<div class="captioned_image_wp_small">
-<center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></center>
-</div>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></div></center>
 
 Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charlie was also zero. During the transfer, Bob's balance with Alice increased to "plus five," while his balance with Charlie decreased to "minus five." However, Bob's net balance remains unchanged at zero (-5+5=0). Because Bob is only an intermediary, this transaction happens automatically without Bob needing to take any action.
 
@@ -72,9 +51,7 @@ Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charl
 
 People that are not connected through a trustline can make multi-hop payments via any path of direct connected trustlines. 
 
-<div class="captioned_image">
-<center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></center>
-</div>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></div></center>
 
 Leveraging the network effect, users only need a small amount of trustlines to transact with a large number of people. This is clearer in the context of the [six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) concept.
 
@@ -85,9 +62,7 @@ The greater effect is that the rippled credit can be used as a medium of exchang
 
 So, why not create fake accounts with "fake credit" to use in the network? This can't actually do much damage because the system relies on individual, trusted relationships. This is important to consider for designing scalable systems.
 
-<div class="captioned_image">
-<center><a href="../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></center>
-</div>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></div></center>
 
 For example, Eve created duplicate accounts to give herself millions in fake credit. But Eve's spending limit with the network is determined by the credit limit her friends have given her. In this example, Alice has given Eve a credit limit of ten. Because she knows Eve in real life and opening a Trustline needs the approval of both parties involved, Alice isn't going to create additional trustlines with the duplicate Eve accounts. Nor is she going to accept millions in credit from the real Eve.
 
@@ -117,7 +92,7 @@ The Trustlines Protocol was designed to be an open protocol on which several dif
 
 The purpose of having several different currency networks is to let communities use the currency design that best fits their needs. For example, users can pick currency networks according to their preferred denomination (the unit of account for recording transactions). Users can also opt-in to currency networks according to other parameters. For example, currency networks may enable or disable the ability to add interest. In future it will also be  possible for users to convert or exchange between different currency networks.
 
-By default, currency networks are shared platforms, not controlled by a single party. Diverse communities are interoperable when they use the same currency network. There are[ 47 currency networks](https://dev.trustlines.network/docs/contracts/currency_networks_tlbc.html) currently deployed on the Trustlines Blockchain which can be accessed through the [Trustlines App](https://trustlines.app/), each defined by different parameters.
+By default, currency networks are shared platforms, not controlled by a single party. Diverse communities are interoperable when they use the same currency network. There are[ 47 currency networks](https://dev.trustlines.network/contracts/currency_networks_tlbc) currently deployed on the Trustlines Blockchain which can be accessed through the [Trustlines App](https://trustlines.app/), each defined by different parameters.
 
 ### 3.2 Open-source
 
@@ -153,13 +128,14 @@ Instead, Trustlines delegates offer a service to pay transaction fees on behalf 
 
 The full Trustlines Protocol technology stack is composed of four main components. These components are each a part of the Trustlines Protocol.
 
-1.  The Trustlines Blockchain, aka TLBC. A minimal viable Proof-of-Stake (mPoS) Ethereum sidechain. It stores and processes transactions.
+!!! info "Trustlines Protocol technology stack"
+    1.  The Trustlines Blockchain, aka TLBC. A minimal viable Proof-of-Stake (mPoS) Ethereum sidechain. It stores and processes transactions.
 
-2.  The relay servers. They are a bridge between applications and the blockchain. They offer services that are not feasible to implement on-chain or on devices on which applications run. Most notably, they do the pathfinding for multi-hop payments and include the delegate service.
+    2.  The relay servers. They are a bridge between applications and the blockchain. They offer services that are not feasible to implement on-chain or on devices on which applications run. Most notably, they do the pathfinding for multi-hop payments and include the delegate service.
 
-3.  The smart contract system. Implements all transaction logic and business logic necessary for the currency networks. It is deployed on the Trustlines Blockchain.
+    3.  The smart contract system. Implements all transaction logic and business logic necessary for the currency networks. It is deployed on the Trustlines Blockchain.
 
-4.  The client library. A high-level API which enables applications to interact with the smart contract system on the blockchain via the relay servers.
+    4.  The client library. A high-level API which enables applications to interact with the smart contract system on the blockchain via the relay servers.
 
 ### 4.1 Trustlines Blockchain
 
@@ -257,19 +233,21 @@ The client library is a Javascript library that makes it easy to build applicati
 
 There are two different tokens used in connection with Trustlines:
 
--   The Trustlines Network Token (TLN) is an ERC-20 token on the [Ethereum](https://ethereum.org/) mainchain. Since this is a popular token standard, TLN is highly versatile, easily transferable, and generally very accessible for the Ethereum community.
+!!! info "The Trustlines Network Token (TLN)"
+    -   The Trustlines Network Token (TLN) is an ERC-20 token on the [Ethereum](https://ethereum.org/) mainchain. Since this is a popular token standard, TLN is highly versatile, easily transferable, and generally very accessible for the Ethereum community.
 
--   TLN is currently required for staking in the validator auctions for the Trustlines Blockchain.
+    -   TLN is currently required for staking in the validator auctions for the Trustlines Blockchain.
 
--   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle drop launch](https://trustlines.foundation/merkle-drop.html) blog post. The Trustlines Foundation will also consider other distribution models in the future.
+    -   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle drop launch](https://trustlines.foundation/merkle-drop.html) blog post. The Trustlines Foundation will also consider other distribution models in the future.
 
--   TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.
+    -   TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.
 
--   The Trustlines Network Coin (TLC) is the native token of the Trustlines Blockchain, which means it is useful for people who are using the Trustlines Protocol in their everyday lives.
+!!! info "The Trustlines Network Coin (TLC)"
+    -   The Trustlines Network Coin (TLC) is the native token of the Trustlines Blockchain, which means it is useful for people who are using the Trustlines Protocol in their everyday lives.
 
--   Any user wanting to pay their own transaction fees must obtain TLC. TLC can be purchased directly, or instead users can buy TLN and convert it to TLC.
+    -   Any user wanting to pay their own transaction fees must obtain TLC. TLC can be purchased directly, or instead users can buy TLN and convert it to TLC.
 
--   Typically, it is the relay server operators that enable delegate services who use the most TLC.
+    -   Typically, it is the relay server operators that enable delegate services who use the most TLC.
 
 ### 5.2 Fees
 
@@ -309,7 +287,7 @@ The validators have the responsibility of ensuring the security of the Trustline
 
 #### 5.4.2 Token bridge
 
-The token bridge is a unidirectional bridge between the Ethereum blockchain and the Trustlines Blockchain. It is run by the Trustlines validators. [It allows TLN holders to transfer these tokens to the Trustlines Blockchain](https://docs.trustlines.network/docs/guides/converting_tln_to_tlc.html) in return for TLC.
+The token bridge is a unidirectional bridge between the Ethereum blockchain and the Trustlines Blockchain. It is run by the Trustlines validators. [It allows TLN holders to transfer these tokens to the Trustlines Blockchain](../../guides/converting_tln_to_tlc.md) in return for TLC.
 
 #### 5.4.3 Trustlines Blockchain governance
 
@@ -319,21 +297,10 @@ Validators can also decide on blockchain forks and resulting protocol changes wi
 
 [The Trustlines validator auction](https://trustlines.foundation/auction.html) is a Dutch auction held every 9 months to discover the fair price of a validator slot. The Ethereum addresses of successful bidders in a successful auction will be included in the validator set.
 
-The validator slot price is defined as the last successful bid. [This amount will be locked as each validator's stake](https://docs.trustlines.network/docs/guides/how_to_withdraw_validator_deposit.html) for nine months. Any validator who placed a bid above this final price can withdraw the difference at this point (after the auction smart contract reaches withdrawal state). [After the conclusion of the auction](https://blog.trustlines.network/all-you-need-to-know-as-a-validator-after-an-auction/), each validator will be able to start their Trustlines Blockchain node with validator rights and can begin proposing blocks.
+The validator slot price is defined as the last successful bid. [This amount will be locked as each validator's stake](../../guides/how_to_withdraw_validator_deposit.md) for nine months. Any validator who placed a bid above this final price can withdraw the difference at this point (after the auction smart contract reaches withdrawal state). [After the conclusion of the auction](https://blog.trustlines.network/all-you-need-to-know-as-a-validator-after-an-auction/), each validator will be able to start their Trustlines Blockchain node with validator rights and can begin proposing blocks.
 
--   Acceptable tokens for a bid: The validator auction takes place on a smart contract on the Ethereum mainchain. The smart contract will not accept any other tokens than TLN as a bid.
+!!! info "Acceptable tokens for a bid"
+    The validator auction takes place on a smart contract on the Ethereum mainchain. The smart contract will not accept any other tokens than TLN as a bid.
 
--   Participation: To be able [to take part in the auction](https://blog.trustlines.network/the-second-validator-auction-for-the-trustlines-blockchain/), your Ethereum address must have been whitelisted by the Trustlines Foundation before the start of the auction. Every whitelisted Ethereum address can participate in the auction only once.
-
-___
-
-<div id="prev_next">
-<div class="prev"><a href="../time_credits/time_credits_on_trustlines" class="prev_next_text">Previous</a></div>
-<div class="prev"><a href="../time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
-<div class="prev"><a href="../time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
-</div>
-<div id="prev_next">
-<div class="next"><a href="use_in_the_real_world" class="prev_next_text">Next</a></div>
-<div class="next"><a href="use_in_the_real_world" class="icon fas fa-arrow-right prev_next"></a><br></div>
-<div class="next"><a href="use_in_the_real_world" class="prev_next_text">Use in the real world</a></div>
-</div>
+!!! info "Participation"
+    To be able [to take part in the auction](https://blog.trustlines.network/the-second-validator-auction-for-the-trustlines-blockchain/), your Ethereum address must have been whitelisted by the Trustlines Foundation before the start of the auction. Every whitelisted Ethereum address can participate in the auction only once.

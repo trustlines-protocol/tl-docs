@@ -1,26 +1,145 @@
-site_name: Trustlines Wiki
-repo_name: trustlines-protocol/tl-docs
+site_name: Trustlines Docs
+repo_name: tl-docs
 repo_url: https://github.com/trustlines-protocol/tl-docs
-site_description: Wiki for the Trustlines Network
+site_description: Docs for the Trustlines Network
+edit_uri: /docs/
 theme:
   name: material
+  logo: assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg
+  favicon: assets/images/favicon.png
+  custom_dir: 'theme'
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
   palette:
-    primary: deep orange
-    accent: deep purple
+    # Light mode
+    - media: "(prefers-color-scheme: tl-light)"
+      scheme: tl-light
+      toggle:
+        icon: material/weather-night
+        name: Light
+
+    # Dark mode
+    - media: "(prefers-color-scheme: tl-dark)"
+      scheme: tl-dark
+      toggle:
+        icon: material/weather-sunny
+        name: Dark
+  icon:
+    repo: fontawesome/brands/github
   font: false
+  language: en
+
+copyright: Copyright &copy 2020-2021 Trustlines Foundation
+
 
 extra_css:
-  - docs/assets/css/styles.css
+  - ../assets/css/styles.css
+
+extra_javascript:
+  - ../assets/js/stats.js
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/trustlines-protocol
     - icon: material/comment
       link: https://blog.trustlines.network/
+      name: Trustlines Blog
     - icon: fontawesome/brands/discourse
       link: https://forum.trustlines.network/
+      name: Trustlines Forum
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/TrustlinesFound
+      name: Trustlines Foundation on Twitter
+    - icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/trustlines_app
+      name: Trustlines App on Twitter
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/trustlines_network
+      name: Trustlines Network community on Telegram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/trustlinesnetwork/
+      name: Trustlines Network on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/trustlines-protocol
+      name: Trustlines Protocol on GitHub
+  homepage: https://trustlines.network/
+  alternate:
+    - name: English
+      link: /docs/
+      lang: en
+    - name: Español
+      link: /docs/index.es
+      lang: es
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - lightgallery
+  - meta
+  - toc:
+      permalink: true
+      toc_depth: 3
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search:
+      lang:
+        - en
+        - es
+  - i18n:
+      languages:
+        es: "Español"
+        en: "English"
+      default_language: 'en'
+      no_translation:
+        en: ""
+        es: ""
+
 nav:
-  - Trustlines Wiki: docs/index.md
+  - Trustlines Docs:
+    - Welcome: index.md
+  - Whitepaper:
+    - Abstract: docs/resources/wp_content/abstract.md
+    - How Trustlines works: docs/resources/wp_content/how_trustlines_works.md
+    - Use in the real world: docs/resources/wp_content/use_in_the_real_world.md
+  - Guides:
+    - Trustlines App Guide: docs/guides/tl_app_user_guide.md
+    - How to claim TLN from the Merkle Drop: docs/guides/how_to_claim_tln.md
+    - How to withdraw your validator deposit: docs/guides/how_to_withdraw_validator_deposit.md
+    - Converting TLN to TLC: docs/guides/converting_tln_to_tlc.md
+    - Communications Guide: docs/resources/community_communications_guide.md
+  - Use Cases:
+    - Time Credits / Time Banking:
+      - Time Credits on Trustlines: docs/use_cases/time_credits/time_credits_on_trustlines.md
+      - Time Credits - User Stories: docs/use_cases/time_credits/time_credits_user_stories.md
+    - Bill splitting:
+      - Bill splitting on Trustlines: docs/use_cases/bill_splitting/bill_splitting_on_trustlines.md
+  - Brand:
+    - Brand Guidelines: docs/brand/brand_guidelines.md
+    - Brand Resources: docs/brand/brand_resources.md
+  - FAQ:
+    - FAQ: docs/resources/FAQ.md
+  - Community:
+    - Glossary: docs/resources/glossary.md
+    - Code of Conduct: docs/resources/code_of_conduct.md
+    - Presentations: docs/resources/presentations/presentation_slides.md
+  - Legal:
+    - Trustlines Trademark Guidelines: docs/foundation/trademarks.md

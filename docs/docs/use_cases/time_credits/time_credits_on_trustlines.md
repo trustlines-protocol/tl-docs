@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Time Credits on Trustlines
-subtitle: Version 1.0
 image: https://docs.trustlines.network/assets/images/blog_headers/Time_credits.png
 ---
 
@@ -13,15 +11,15 @@ Why is this possible? Economic networks on Trustlines are based on existing trus
 
 To help visualize unique ways to implement time credits in your community, you can check out [Time Credits - User Stories](time_credits_user_stories).
 
-> #### Top 7 reasons to use Trustlines for time credits
->
-> * Trustlines enables a "decentralized timebank," the easiest way to start using time credits.
-> * Community groups can facilitate direct transfers of value between members by providing a trusted intermediary. This is useful when the two individuals are strangers and are not willing to create a trustline.
-> * Businesses get a direct, granular way to support trusted community groups and individuals, by agreeing to accept their time credits as payment.
-> * Community groups can partner with other trusted organizations, to facilitate direct transfers of value between members of their different communities. This is useful when people do not share direct trustlines.
-> * Community partnerships also expand both networks of partner businesses, thus growing the "spend" network of all volunteers.
-> * Volunteer groups will have a better ability to estimate the total number of hours their members plan to contribute over a set time period. This information is based on the capacity of the received credit limits.
-> * Using Trustlines would result in a transparent, public source of data to track the scope and impact of community work. Such transparency will be important in shaping future policy decisions)
+!!! tip "Top 7 reasons to use Trustlines for time credits"
+
+    * Trustlines enables a "decentralized timebank," the easiest way to start using time credits.
+    * Community groups can facilitate direct transfers of value between members by providing a trusted intermediary. This is useful when the two individuals are strangers and are not willing to create a trustline.
+    * Businesses get a direct, granular way to support trusted community groups and individuals, by agreeing to accept their time credits as payment.
+    * Community groups can partner with other trusted organizations, to facilitate direct transfers of value between members of their different communities. This is useful when people do not share direct trustlines.
+    * Community partnerships also expand both networks of partner businesses, thus growing the "spend" network of all volunteers.
+    * Volunteer groups will have a better ability to estimate the total number of hours their members plan to contribute over a set time period. This information is based on the capacity of the received credit limits.
+    * Using Trustlines would result in a transparent, public source of data to track the scope and impact of community work. Such transparency will be important in shaping future policy decisions)
 
 ## Time credits and the circular economy
 
@@ -33,11 +31,11 @@ Within most time credit systems, it is generally accepted that everybody's time 
 
 Under a system of time credits, beneficiaries of community services should not feel as if they are receiving charity. This is because the beneficiaries, too, have value to contribute. They typically expect to "pay it forward" in the future. Likewise, those contributing their time and services expect to be beneficiaries of the system, at some point.
 
-> #### Top 3 reasons to use time credits for community work
->
-> * Reward volunteers for community work. This may help reduce burnout and sustain existing levels of community work, in addition to attracting broader participation.
-> * Empower recipients of services to view themselves as assets, with something to contribute to the community. Access untapped potential.
-> * Empower recipients of volunteer services to show tangible appreciation by giving credits to volunteers. This is particularly important for those who do not have the financial means to do so otherwise.
+!!! tip "Top 3 reasons to use time credits for community work"
+
+    * Reward volunteers for community work. This may help reduce burnout and sustain existing levels of community work, in addition to attracting broader participation.
+    * Empower recipients of services to view themselves as assets, with something to contribute to the community. Access untapped potential.
+    * Empower recipients of volunteer services to show tangible appreciation by giving credits to volunteers. This is particularly important for those who do not have the financial means to do so otherwise.
 
 ### Compatibilities: mutual credit and time credits
 
@@ -55,16 +53,3 @@ Because of the trust involved in creating an alternative economy, it is difficul
 * In a large community, people may lose faith that others will honor the value of their credits.
 
 These problems of scalability are easily avoided when using Trustlines. But Trustlines still preserves all the advantages of centralized systems. Similar centralized configurations can be created using Trustlines. For further details about the advantages of using Trustlines, please see _"[Top 7 reasons to use Trustlines for time credits](#top-7-reasons-to-use-trustlines-for-time-credits)"_. Otherwise, please continue to [Time Credits - User Stories](time_credits_user_stories) to help visualize different ways to use Trustlines for time credits.
-
-___
-
-<div id="prev_next">
-<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Previous</a></div>
-<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
-<div class="prev"><a href="../bill_splitting/bill_splitting_on_trustlines" class="prev_next_text">Bill splitting on Trustlines</a></div>
-</div>
-<div id="prev_next">
-<div><a href="time_credits_user_stories" class="prev_next_text">Next</a></div>
-<div><a href="time_credits_user_stories" class="icon fas fa-arrow-right prev_next"></a><br></div>
-<div><a href="time_credits_user_stories" class="prev_next_text">Time Credits - User Stories</a></div>
-</div>

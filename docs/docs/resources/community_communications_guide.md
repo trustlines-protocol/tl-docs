@@ -1,34 +1,6 @@
 ---
-layout: page
 title: Community Communications Guide
-subtitle: Version 1.0
 ---
-
-## Table of Contents
-
-#### 1. [General information](#1-general-information-1)
-
-> This section will give you info on the background of Trustlines. You can also find an introduction to the different parts of the ecosystem as well as on some entities participating in the ecosystem.
-
-#### 2. [Resources](#2-resources-1)
-
-> Further reading to dive deeper into learning about Trustlines. Also included are resources for visual representations of Trustlines and other forms of media that you can use.
-
-#### 3. [Arranging an event](#3-arranging-an-event-1)
-
-> Who should you contact, what kind of help can you get for organizing an event involving Trustlines and how to best engage your visitors
-
-#### 4. [Use cases of the Trustlines Protocol](#4-use-cases-of-the-trustlines-protocol-1)
-
-> Examples of some use cases for Trustlines.
-
-#### 5. [Trademarks and licensing](#5-trademarks-and-licensing-1)
-
-> Information about the Trustlines trademarks and how you can use them.
-
-#### 6. [Communication and Trustlines Network Channels](#6-communication-and-trustlines-network-channels-1)
-
-___
 
 ## 1. General information
 
@@ -66,31 +38,31 @@ More specifically, the Trustlines Protocol stack includes:
 
 The Trustlines Foundation is supporting research, development, deployment, governance, and adoption of the Trustlines Protocol, with a focus on acting in a supporting role within the Trustlines Network, enabling different decentralized p2p use cases.
 
-**The Foundation is**
+!!! info "The Foundation is"
 
-  - Supporting research, development, and governance of the Trustlines Protocol while being unbiased about specific use cases
+    - Supporting research, development, and governance of the Trustlines Protocol while being unbiased about specific use cases
 
-  - Support the adoption of the Trustlines Protocol even in specific use cases to the extent that these do not conflict with its charitable purpose
+    - Support the adoption of the Trustlines Protocol even in specific use cases to the extent that these do not conflict with its charitable purpose
 
-    - To that end, it's specifically organizing and promoting open-source development around the Trustlines Protocol and maintaining respective Github repositories
+      - To that end, it's specifically organizing and promoting open-source development around the Trustlines Protocol and maintaining respective Github repositories
 
-  - Incentivising and supporting developers or other entities that want to build on top of the Trustlines Protocol
+    - Incentivising and supporting developers or other entities that want to build on top of the Trustlines Protocol
 
-    - For example, for the use case, people powered money: community currency projects
+      - For example, for the use case, people powered money: community currency projects
 
-    - The Foundation does this in a purely educational, non-profit way
+      - The Foundation does this in a purely educational, non-profit way
 
-  - Owning and managing the "Trustlines" and "Trustlines Network" names/trademarks and related domains
+    - Owning and managing the "Trustlines" and "Trustlines Network" names/trademarks and related domains
 
-  - Creating the needed core components, e.g., smart contracts, which support making the Trustlines Protocol available to the ecosystem
+    - Creating the needed core components, e.g., smart contracts, which support making the Trustlines Protocol available to the ecosystem
 
-**The Foundation doesn't**
+!!! failure "The Foundation doesn't"
 
-  - Own the Trustlines Network ecosystem; it only owns the trademarks!
+    - Own the Trustlines Network ecosystem; it only owns the trademarks!
 
-  - Own the Trustlines Protocol related code; everything is open-source and permissively licensed by the various owners
+    - Own the Trustlines Protocol related code; everything is open-source and permissively licensed by the various owners
 
-  - Target or provide access to end-users
+    - Target or provide access to end-users
 
 ## 2. Resources
 
@@ -100,40 +72,40 @@ The official brand names in the Trustlines ecosystem follow a specified pattern 
 
 Examples of capitalizing brand names would be Trustlines **N**etwork, Trustlines **P**rotocol, and Trustlines **B**lockchain. So if you are generally referring to the blockchain or the associated technology, capitalization isn't used.
 
-#### Links to resources
+!!! info "Links to resources"
 
-| |
-|:-:|:-:|
-| <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
-| <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
+    | | |
+    |:-:|:-:|
+    | <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
+    | <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
 
 ## 3. Arranging an event
 
 Anyone is free to arrange an event or a meetup related to the Trustlines Network. If you are interested in organizing a Trustlines Meetup, here's a list of resources that may be of use to you.
 
-#### Organizational
+!!! abstract "Organizational"
 
-  - There's [Brand Guidelines](https://docs.trustlines.network/docs/brand/brand_guidelines.html) and [Brand Resources](https://docs.trustlines.network/docs/brand/brand_resources.html) for color schemes and logos you can put on any website related to an event. **Please read and respect the guidelines!**
+    - There's [Brand Guidelines](../brand/brand_guidelines.md) and [Brand Resources](../brand/brand_guidelines.md) for color schemes and logos you can put on any website related to an event. **Please read and respect the guidelines!**
 
-  - You can find [presentation slide decks](https://docs.trustlines.network/docs/resources/presentations/presentation_slides.html) explaining Trustlines here in the Docs
+    - You can find [presentation slide decks](../resources/presentations/presentation_slides.md) explaining Trustlines here in the Docs
 
-  - You can send an email to the Trustlines Foundation to check if it can help find a speaker for an event or a meetup
+    - You can send an email to the Trustlines Foundation to check if it can help find a speaker for an event or a meetup
 
-  - You can check the Trustlines Foundation's [Twitter account](https://twitter.com/trustlinesfound) and the [Events section](https://forum.trustlines.network/c/network/events/13) of [Trustlines Forum](https://forum.trustlines.network/) to see upcoming and past events
+    - You can check the Trustlines Foundation's [Twitter account](https://twitter.com/trustlinesfound) and the [Events section](https://forum.trustlines.network/c/network/events/13) of [Trustlines Forum](https://forum.trustlines.network/) to see upcoming and past events
 
-#### Topic ideas
+!!! abstract "Topic ideas"
 
-Trustlines cover broad areas, both technically and sociologically speaking. Listed below are a few topic ideas that may be of interest.
+    Trustlines cover broad areas, both technically and sociologically speaking. Listed below are a few topic ideas that may be of interest.
 
-  - [Trustlines Protocol](presentations/presentation_slides.html#trustlines-protocol) and [People Powered Money](presentations/presentation_slides.html#people-powered-money) 
+      - [Trustlines Protocol](presentations/presentation_slides.md#trustlines-protocol) and [People Powered Money](presentations/presentation_slides.md#people-powered-money) 
 
-    - An overview of the essential components of the Trustlines Protocol and an in-depth look at blockchain-based credit issued mutually amongst trusting friends oftentimes referred to as Trustlines People Powered Money.
+        - An overview of the essential components of the Trustlines Protocol and an in-depth look at blockchain-based credit issued mutually amongst trusting friends oftentimes referred to as Trustlines People Powered Money.
 
-  - Using Trustlines for B2B Mutual Credit / Barter Network
+      - Using Trustlines for B2B Mutual Credit / Barter Network
 
-  - Using Trustlines for your Timebanking Community
+      - Using Trustlines for your Timebanking Community
 
-  - Using Trustlines for Gift Cards / "Dining Bonds"
+      - Using Trustlines for Gift Cards / "Dining Bonds"
 
 ## 4. Use cases of the Trustlines Protocol
 
@@ -145,8 +117,9 @@ Currently, one of the more established and well-developed use cases is people-po
 
 The term "People Powered Money" is based on the EU Funded Community Currencies in Action (CCIA) research paper "[People Powered Money](https://neweconomics.org/uploads/files/0dba46d13aa81f0fe3_zhm62ipns.pdf)." The term is colloquially used to categorize various complementary currency initiatives throughout Europe and is therefore an umbrella term for multiple use cases. Though they vary in design, the currencies are all local, grassroots economic initiatives. Such initiatives belong to a distributed, world-wide group of projects and are also documented by economists such as [Bernard Lietaer](https://en.wikipedia.org/wiki/Bernard_Lietaer) in the book "[People Money](http://www.lietaer.com/writings/books/people-money/)." Complementary/community/alternative currencies are "people money." They are not necessarily a replacement for commercial bank money or government money. Instead, they are an entirely different type of money that can act in parallel to commercial and government money and may provide economic resilience when these systems fail.
 
-<center><a href="../../assets/images/ppm_ss01.png"><img src="../../assets/images/ppm_ss01.png" style="max-width:50%;"></a></center>
-> [People Money in Design. P. 17.](https://monneta.org/wp-content/uploads/2016/04/People-Money-Text.pdf)
+!!! quote ""
+    <center><div class="lightgallery"><a data-sub-html="" href="../../../assets/images/ppm_ss01.png"><img src="../../../assets/images/ppm_ss01.png" style="max-width:50%;"></a></div></center>
+    _[People Money in Design. P. 17.](https://monneta.org/wp-content/uploads/2016/04/People-Money-Text.pdf)_
 
 Mutual credit is a type of People Powered Money. It is a money creation method and is used in some of the most successful complementary currency designs. For example, [Wir Bank](https://en.wikipedia.org/wiki/WIR_Bank), at its peak, had 62,000 businesses operating in its network.
 
@@ -189,16 +162,3 @@ You can read more about this in the [People Powered Money on the Trustlines Prot
 #### [Trustlines Foundation Website](https://trustlines.foundation)
 
 #### [Trustlines App Website](https://trustlines.app)
-
-___
-
-<div id="prev_next">
-<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Previous</a></div>
-<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="icon fas fa-arrow-left prev_next"></a><br></div>
-<div class="prev"><a href="../use_cases/time_credits/time_credits_on_trustlines" class="prev_next_text">Time Credits on Trustlines</a></div>
-</div>
-<div id="prev_next">
-<div><a href="../guides/tl_app_user_guide" class="prev_next_text">Next</a></div>
-<div><a href="../guides/tl_app_user_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
-<div><a href="../guides/tl_app_user_guide" class="prev_next_text">User guide for Trustlines App</a></div>
-</div>

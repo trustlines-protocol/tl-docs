@@ -1,60 +1,31 @@
 ---
-layout: page
 title: Trustlines Trademark Guidelines
 subtitle: Information about the trademarks and licensing
 ---
 <p style="font-size:12px;">Version 1.0</p>
 
-_Last updated: April 2020_
+!!! info ""
 
-## Table of Contents
+    Last updated: April 2020
 
-#### 1. [The Trustlines Foundation's Trademarks](#1-the-trustlines-foundations-trademarks-1)
-
-#### 2. [Rules Applicable to Trademarks Owned by Trustlines Foundation](#2-rules-applicable-to-trademarks-owned-by-trustlines-foundation-1)
-
-  - 2.1 [Our Five Rules for the use of Trustlines trademarks](#21-our-five-rules-for-the-use-of-trustlines-trademarks)
-    - 2.1.1 [Rule #1 The ecosystem rule](#211-rule-1-the-ecosystem-rule)
-    - 2.2.2 [Rule #2 Use your brand and add Trustlines as an ingredient brand](#212-rule-2-use-your-brand-and-add-trustlines-as-an-ingredient-brand)
-    - 2.3.3 [Rule #3 Use Trustlines trademarks according to our brand guidelines](#213-rule-3-use-trustlines-trademarks-according-to-our-brand-guidelines)
-    - 2.4.4 [Rule #4 Use the trademark as an adjective](#214-rule-4-use-the-trademark-as-an-adjective)
-    - 2.4.5 [Rule #5 Integrity of the Trustlines trademarks and recognition notice](#215-rule-5-integrity-of-the-trustlines-trademarks-and-recognition-notice)
-  - 2.2 [Quick check flow chart](#22-quick-check-flow-chart)
-  - 2.3 [Examples for rules #1 and #2](#23-examples-for-rules-1-and-2)
-
-#### 3. [Apply for a license for Trustlines trademarks](#3-apply-for-a-license-for-trustlines-trademarks-1)
-
-#### 4. [What is a trademark?](#4-what-is-a-trademark-1)
-
-#### 5. [Rules That Apply to Trademarks In General](#5-rules-that-apply-to-trademarks-in-general-1)
-
-#### 6. [Fair Use](#6-fair-use-1)
-
-#### 7. [Questions, Comments, Reporting of misuse](#7-questions-comments-reporting-of-misuse-1)
-
-#### 8. [Disclaimer](#8-disclaimer-1)
-
-#### 9. [Updates](#9-updates-1)
-
-#### 10. [Review and Remedies](#10-review-and-remedies-1)
-
-For the purposes of this document, references to trademarks, logos, and brands include all trademarks owned by the Trustlines Foundation ("Trustlines trademarks"). Projects operating as separately incorporated entities within the Trustlines Network ecosystem may have their own trademark guidelines.
+!!! note
+    For the purposes of this document, references to trademarks, logos, and brands include all trademarks owned by the Trustlines Foundation ("Trustlines trademarks"). Projects operating as separately incorporated entities within the Trustlines Network ecosystem may have their own trademark guidelines.
 
 ___
 
 ## 1. The Trustlines Foundation's Trademarks
 
-Our trademarks include but are not limited to:
+!!! info "Our trademarks include but are not limited to"
 
--   our TRUSTLINES ® trademark
--   our TRUSTLINES NETWORK ® trademark
--   our "Trustlines unicorn logo" design trademark:
+    -   our TRUSTLINES ® trademark
+    -   our TRUSTLINES NETWORK ® trademark
+    -   our "Trustlines unicorn logo" design trademark:
 
-<div class="6u 12u$(medium)">
-  <p><img src="../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png"/></p>
-</div>
+    <div>
+      <p><img src="../../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png"/></p>
+    </div>
 
-This list may be updated from time to time, especially as other trademarks are created or registered.
+    This list may be updated from time to time, especially as other trademarks are created or registered.
 
 ## 2. Rules Applicable to Trademarks Owned by Trustlines Foundation
 
@@ -66,32 +37,32 @@ However, we have to keep in mind that the *incorrect* use of a brand may lead 
 
 If you want to use the Trustlines trademarks, you don't require Trustlines Foundations explicit prior permission or license agreement as long as you follow these rules. We reserve the right, in our sole discretion, to alter and amend these rules, to determine when these rules are adhered too or violated, and to choose appropriate enforcement measures.
 
-#### 2.1.1 Rule #1 The ecosystem rule 
+!!! info "2.1.1 - Rule #1 The ecosystem rule"
 
-Refer to Trustlines or use the trademark and logo only when promoting products, projects, or events based on or about the [Trustlines Protocol](https://trustlines.network/#protocol) and in accordance with the disclaimer below. Use of the Trustlines trademarks when referring to _other software or technologies_, would be misleading to the audience, as well as damaging to the Trustlines brand and ecosystem. Therefore, Trustlines trademarks must not be used when referring to software based on protocols by other entities or in another misleading or unfair manner. Any use of the trademarks in these contexts could potentially subject you to liability for trademark infringement, false advertising, and unfair competition.
+    Refer to Trustlines or use the trademark and logo only when promoting products, projects, or events based on or about the [Trustlines Protocol](https://trustlines.network/#protocol) and in accordance with the disclaimer below. Use of the Trustlines trademarks when referring to _other software or technologies_, would be misleading to the audience, as well as damaging to the Trustlines brand and ecosystem. Therefore, Trustlines trademarks must not be used when referring to software based on protocols by other entities or in another misleading or unfair manner. Any use of the trademarks in these contexts could potentially subject you to liability for trademark infringement, false advertising, and unfair competition.
 
-#### 2.1.2 Rule #2 Use your brand and add Trustlines as an ingredient brand 
+!!! info "2.1.2 - Rule #2 Use your brand and add Trustlines as an ingredient brand"
 
-It must be clear who the owner or marketer of the promoted product, project, or event is. Use the Trustlines trademarks only as a reference. There must be no potential for confusion or misunderstanding as to such that the product, project, or event is manufactured, marketed, sponsored, endorsed, or authorized by Trustlines Foundation, when in fact, that is not the case. The reference to Trustlines only shows that your product or project uses the Trustlines Protocol or your event is about the Trustlines Protocol or the Trustlines Network. Your name, brand, or trademark must not be less prominent than the Trustlines trademarks, and Trustlines must not be the only visible name, brand, or trademark on your online/offline communication. To make it clear for your audience or users that the Trustlines Protocol or the Trustlines Network is used for your project use wording such as, for example, "_Powered by Trustlines ® Protocol_" or "_Powered with Trustlines Network ®_. "If you are promoting a strictly non-profit and free-entry event regarding the Trustlines Protocol and/or Trustlines Network, you may use the trademarks as a primary brand for the event title.
+    It must be clear who the owner or marketer of the promoted product, project, or event is. Use the Trustlines trademarks only as a reference. There must be no potential for confusion or misunderstanding as to such that the product, project, or event is manufactured, marketed, sponsored, endorsed, or authorized by Trustlines Foundation, when in fact, that is not the case. The reference to Trustlines only shows that your product or project uses the Trustlines Protocol or your event is about the Trustlines Protocol or the Trustlines Network. Your name, brand, or trademark must not be less prominent than the Trustlines trademarks, and Trustlines must not be the only visible name, brand, or trademark on your online/offline communication. To make it clear for your audience or users that the Trustlines Protocol or the Trustlines Network is used for your project use wording such as, for example, "_Powered by Trustlines ® Protocol_" or "_Powered with Trustlines Network ®_. "If you are promoting a strictly non-profit and free-entry event regarding the Trustlines Protocol and/or Trustlines Network, you may use the trademarks as a primary brand for the event title.
 
-#### 2.1.3 Rule #3 Use Trustlines trademarks according to our brand guidelines 
+!!! info "2.1.3 - Rule #3 Use Trustlines trademarks according to our brand guidelines"
 
-Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../brand/brand_resources.html), usage follows the [Brand Guidelines](../brand/brand_guidelines.html).
+    Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../brand/brand_resources), usage follows the [Brand Guidelines](../brand/brand_guidelines).
 
-#### 2.1.4 Rule #4 Use the trademark as an adjective 
+!!! info "2.1.4 - Rule #4 Use the trademark as an adjective"
 
-A trademark function as an adjective and must be used accordingly, so don't use it as a noun, in the plural form, or the possessive case. Always use the Trustlines trademark as an adjective preceded or followed by the appropriate generic noun for the product or product category (e.g., "_Trustlines Network ® relay server_," "_Trustlines ® pathfinding service_"; not: ~~"_App for Trustlining_"~~). Only when referencing Trustlines Foundation as an entity or the Trustlines Network as the blockchain network, it is acceptable and appropriate to use Trustlines as a noun (e.g. "_deployed on the Trustlines Network_," not: ~~"_The Trustline_"~~)
+    A trademark function as an adjective and must be used accordingly, so don't use it as a noun, in the plural form, or the possessive case. Always use the Trustlines trademark as an adjective preceded or followed by the appropriate generic noun for the product or product category (e.g., "_Trustlines Network ® relay server_," "_Trustlines ® pathfinding service_"; not: ~~"_App for Trustlining_"~~). Only when referencing Trustlines Foundation as an entity or the Trustlines Network as the blockchain network, it is acceptable and appropriate to use Trustlines as a noun (e.g. "_deployed on the Trustlines Network_," not: ~~"_The Trustline_"~~)
 
-#### 2.1.5 Rule #5 Integrity of the Trustlines trademarks and recognition notice
+!!! info "2.1.5 - Rule #5 Integrity of the Trustlines trademarks and recognition notice"
 
-Do not incorporate the Trustlines trademarks or any recognizable part of them into other logos, brand names, company names, domain names, or product names. Make it clear that Trustlines Foundation legally owns the Trustlines trademarks. If you are referring to a Trustlines trademark, add the following brand recognition notice at a suitable location, such as on your product, in print material or online:  
-_"Trustlines ®, Trustlines Network ®, and the Trustlines unicorn logo are trademarks or registered trademarks of Trustlines Foundation."_
+    Do not incorporate the Trustlines trademarks or any recognizable part of them into other logos, brand names, company names, domain names, or product names. Make it clear that Trustlines Foundation legally owns the Trustlines trademarks. If you are referring to a Trustlines trademark, add the following brand recognition notice at a suitable location, such as on your product, in print material or online:  
+    _"Trustlines ®, Trustlines Network ®, and the Trustlines unicorn logo are trademarks or registered trademarks of Trustlines Foundation."_
 
 ### 2.2 Quick check flow chart
 
 To get a quick idea about whether or not your intended use of the trademark is allowed without asking the Trustlines Foundation first, you can go through the following flow chart. Please keep in mind that this is just a quick check, and you should always refer to the full rules or ask us when you're in doubt about your use case scenario.
 
-<a href="../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src="../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a>
+<div class="lightgallery"><a href="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a></div>
 
 ### 2.3 Examples for rules #1 and #2
 
@@ -120,14 +91,17 @@ You may think of trademarks as a type of consumer protection mechanism. They hel
 
 ## 5. Rules that Apply to Trademarks In General
 
-The owner of a trademark in the EU, for example, is entitled to prevent all third parties not having their consent from using in the course of trade, in relation to goods or services, any sign where, for example, the sign is identical with, or similar to, the trademark and is used in relation to goods or services which are identical with, or similar to, the goods or services for which the EU trademark is registered, if there exists a _likelihood of confusion_ on the part of the public; the likelihood of confusion includes the likelihood of association between the sign and the trademark. The following, in particular, may be prohibited:
+The owner of a trademark in the EU, for example, is entitled to prevent all third parties not having their consent from using in the course of trade, in relation to goods or services, any sign where, for example, the sign is identical with, or similar to, the trademark and is used in relation to goods or services which are identical with, or similar to, the goods or services for which the EU trademark is registered, if there exists a _likelihood of confusion_ on the part of the public; the likelihood of confusion includes the likelihood of association between the sign and the trademark.
 
-  - affixing the sign to the goods or the packaging of those goods;
-  - offering the goods, putting them on the market, or stocking them for those purposes under the sign, or offering or supplying services thereunder;
-  - importing or exporting the goods under the sign;
-  - using the sign as a trade or company name or part of a trade or company name;
-  - using the sign on business papers and in advertising;
-  - using the sign on comparative advertising in a manner that is contrary to Directive 2006/114/EC.
+
+!!! warning "The following, in particular, may be prohibited"
+
+    - affixing the sign to the goods or the packaging of those goods;
+    - offering the goods, putting them on the market, or stocking them for those purposes under the sign, or offering or supplying services thereunder;
+    - importing or exporting the goods under the sign;
+    - using the sign as a trade or company name or part of a trade or company name;
+    - using the sign on business papers and in advertising;
+    - using the sign on comparative advertising in a manner that is contrary to Directive 2006/114/EC.
 
 ## 6. Fair Use
 
@@ -152,16 +126,3 @@ We may release new versions of our trademark guidelines or statements of permitt
 ## 10. Review and Remedies
 
 We reserve the right to review all uses of our trademarks by others and may conduct periodic spot checks of such use. Upon our request, you must provide a copy of any materials bearing our trademark. You must correct any deficiencies in the use of our trademarks. Refusal to correct such deficiencies may result in the revocation of permission to use our trademarks. Furthermore, any unauthorized or improper use of our trademarks may constitute trademark infringement, unfair competition, and/or copyright infringement in violation of applicable laws and regulations. We reserve the right to initiate legal action relating to any third party use of our trademarks that we, in our sole discretion, deem to be unlawful or improper, even if such use is not expressly prohibited in these guidelines. Nothing in our trademark guidelines is intended to waive or restrict any legal rights that we may have under applicable law, to grant any license, or to acquiesce in any infringing act.
-
-___
-
-<div id="prev_next">
-<div class="prev"><a href="../brand/brand_guidelines" class="prev_next_text">Previous</a></div>
-<div class="prev"><a href="../brand/brand_guidelines" class="icon fas fa-arrow-left prev_next"></a><br></div>
-<div class="prev"><a href="../brand/brand_guidelines" class="prev_next_text">Brand Guidelines</a></div>
-</div>
-<div id="prev_next">
-<div><a href="../resources/community_communications_guide" class="prev_next_text">Next</a></div>
-<div><a href="../resources/community_communications_guide" class="icon fas fa-arrow-right prev_next"></a><br></div>
-<div><a href="../resources/community_communications_guide" class="prev_next_text">Community Communications Guide</a></div>
-</div>

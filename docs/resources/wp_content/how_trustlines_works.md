@@ -117,7 +117,7 @@ The Trustlines Protocol was designed to be an open protocol on which several dif
 
 The purpose of having several different currency networks is to let communities use the currency design that best fits their needs. For example, users can pick currency networks according to their preferred denomination (the unit of account for recording transactions). Users can also opt-in to currency networks according to other parameters. For example, currency networks may enable or disable the ability to add interest. In future it will also be  possible for users to convert or exchange between different currency networks.
 
-By default, currency networks are shared platforms, not controlled by a single party. Diverse communities are interoperable when they use the same currency network. There are[ 47 currency networks](https://dev.trustlines.network/docs/contracts/currency_networks_tlbc.html) currently deployed on the Trustlines Blockchain which can be accessed through the [Trustlines App](https://trustlines.app/), each defined by different parameters.
+By default, currency networks are shared platforms, not controlled by a single party. Diverse communities are interoperable when they use the same currency network. There are[ 47 currency networks](https://dev.trustlines.network/contracts/currency_networks_tlbc) currently deployed on the Trustlines Blockchain which can be accessed through the [Trustlines App](https://trustlines.app/), each defined by different parameters.
 
 ### 3.2 Open-source
 

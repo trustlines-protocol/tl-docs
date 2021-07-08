@@ -5,6 +5,8 @@ subtitle: Whitepaper content
 image: https://docs.trustlines.network/assets/images/use_in_the_real_world/glocal_monetary_system.png
 ---
 
+> Complete whitepaper available for [download as a PDF](../../../assets/pdf/Trustlines_Network_Whitepaper_2021.pdf)
+
 > _Disclaimer:_
 >
 > _Please note, that even though we do our best to ensure the quality and accuracy of the information provided, this publication may contain views and opinions, errors and omissions for which the content creator(s) and any represented organization cannot be held liable._

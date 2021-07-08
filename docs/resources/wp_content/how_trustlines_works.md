@@ -4,6 +4,8 @@ title: How Trustlines works
 subtitle: Whitepaper content
 ---
 
+> Complete whitepaper available for [download as a PDF](../../../assets/pdf/Trustlines_Network_Whitepaper_2021.pdf)
+
 ## Table of Contents
 
 #### 1. [Overview](#1-overview-1)

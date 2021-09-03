@@ -1,0 +1,1331 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Docs for the Trustlines Network">
+      
+      
+      
+      
+        <link rel="canonical" href="https://docs.trustlines.network/guides/tl_app_user_guide.es/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.6">
+    
+    
+      
+        <title>Guía de usuario de la app de Trustlines - Trustlines Docs</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.802231af.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    <link rel="stylesheet" href="../../css/lightgallery.min.css">
+
+    
+    
+    <script src="../../js/lightgallery.min.js"></script>
+
+    
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/css/styles.css">
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="tl-light" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducción" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="https://trustlines.network/" title="Trustlines Docs" class="md-header__button md-logo" aria-label="Trustlines Docs" data-md-component="logo">
+      
+  <img src="../../assets/images/brand/General/SVG/trustlines-mark-logo-white.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Trustlines Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Guía de usuario de la app de Trustlines
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: tl-light)" data-md-color-scheme="tl-light" data-md-color-primary="" data-md-color-accent=""  aria-label="Light"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Light" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: tl-dark)" data-md-color-scheme="tl-dark" data-md-color-primary="" data-md-color-accent=""  aria-label="Dark"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Dark" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button class="md-header__button md-icon" aria-label="Seleccionar idioma">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24z"/></svg>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a href="/docs/" hreflang="en" class="md-select__link">
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a href="/docs/index.es" hreflang="es" class="md-select__link">
+                    Español
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/trustlines-protocol/tl-docs/" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tl-docs
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://trustlines.network/" title="Trustlines Docs" class="md-nav__button md-logo" aria-label="Trustlines Docs" data-md-component="logo">
+      
+  <img src="../../assets/images/brand/General/SVG/trustlines-mark-logo-white.svg" alt="logo">
+
+    </a>
+    Trustlines Docs
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/trustlines-protocol/tl-docs/" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tl-docs
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      <label class="md-nav__link" for="__nav_1">
+        Trustlines Docs
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Trustlines Docs" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          Trustlines Docs
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Welcome (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Whitepaper
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Whitepaper" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Whitepaper
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/wp_content/abstract/" class="md-nav__link">
+        Abstract (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/wp_content/how_trustlines_works/" class="md-nav__link">
+        How Trustlines works (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/wp_content/use_in_the_real_world/" class="md-nav__link">
+        Use in the real world (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Use Cases
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Use Cases" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Use Cases
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_1" type="checkbox" id="__nav_3_1" >
+      
+      <label class="md-nav__link" for="__nav_3_1">
+        Bill splitting
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Bill splitting" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Bill splitting
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../use_cases/bill_splitting/bill_splitting_on_trustlines/" class="md-nav__link">
+        Bill splitting on Trustlines (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" >
+      
+      <label class="md-nav__link" for="__nav_3_2">
+        Time Credits / Time Banking
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Time Credits / Time Banking" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          Time Credits / Time Banking
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../use_cases/time_credits/time_credits_on_trustlines/" class="md-nav__link">
+        Time Credits on Trustlines (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../use_cases/time_credits/time_credits_user_stories/" class="md-nav__link">
+        Time Credits - User Stories (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Guides
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tl_app_user_guide/" class="md-nav__link">
+        Trustlines App User Guide (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how_to_claim_tln/" class="md-nav__link">
+        How to claim TLN from the Merkle Drop (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how_to_withdraw_validator_deposit/" class="md-nav__link">
+        How to withdraw your validator deposit (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../converting_tln_to_tlc/" class="md-nav__link">
+        Converting TLN to TLC (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/community_communications_guide/" class="md-nav__link">
+        Communications Guide (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Brand
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Brand" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Brand
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../brand/brand_guidelines/" class="md-nav__link">
+        Brand Guidelines (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../brand/brand_resources/" class="md-nav__link">
+        Brand Resources (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        FAQ
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="FAQ" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          FAQ
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/FAQ/" class="md-nav__link">
+        FAQ (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Community
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Community" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Community
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/glossary/" class="md-nav__link">
+        Glossary (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/code_of_conduct/" class="md-nav__link">
+        Code of Conduct (English)
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/presentations/presentation_slides/" class="md-nav__link">
+        Presentations (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      <label class="md-nav__link" for="__nav_8">
+        Legal
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Legal" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Legal
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../foundation/trademarks/" class="md-nav__link">
+        Trustlines Trademark Guidelines (English)
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducción" class="md-nav__link">
+    Introducción
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crédito-mutuo" class="md-nav__link">
+    Crédito mutuo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#empezando-con-la-app-de-trustlines" class="md-nav__link">
+    Empezando con la app de Trustlines
+  </a>
+  
+    <nav class="md-nav" aria-label="Empezando con la app de Trustlines">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#empezando-con-un-enlace-de-invitación" class="md-nav__link">
+    Empezando con un enlace de invitación
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comenzando-desde-la-app" class="md-nav__link">
+    Comenzando desde la app
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#asegurando-el-acceso-a-tu-cuenta-de-trustlines" class="md-nav__link">
+    Asegurando el acceso a tu cuenta de Trustlines
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#respaldar-y-restaurar-los-datos-de-tu-cuenta" class="md-nav__link">
+    Respaldar y restaurar los datos de tu cuenta
+  </a>
+  
+    <nav class="md-nav" aria-label="Respaldar y restaurar los datos de tu cuenta">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hacer-un-respaldo-de-tu-cuenta" class="md-nav__link">
+    Hacer un respaldo de tu cuenta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#restaurar-una-copia-de-seguridad" class="md-nav__link">
+    Restaurar una copia de Seguridad
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creando-una-trustline" class="md-nav__link">
+    Creando una trustline
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#añadiendo--un-contacto" class="md-nav__link">
+    Añadiendo  un contacto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cómo-escoger-una-red-de-divisas" class="md-nav__link">
+    Cómo escoger una red de divisas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#establecer-un-límite-de-crédito" class="md-nav__link">
+    Establecer un Límite de Crédito
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-ver-tu-límite-de-crédito-global" class="md-nav__link">
+    Como ver tu límite de crédito global
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enviar-y-recibir-pagos" class="md-nav__link">
+    Enviar y Recibir Pagos
+  </a>
+  
+    <nav class="md-nav" aria-label="Enviar y Recibir Pagos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#enviar-pagos-mediante-trustlines" class="md-nav__link">
+    Enviar pagos mediante Trustlines
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solicitar-pagos-mediante-trustlines" class="md-nav__link">
+    Solicitar pagos mediante Trustlines
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dividir-la-cuenta" class="md-nav__link">
+    Dividir la cuenta
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revisar-los-balances-con-mis-contactos" class="md-nav__link">
+    Revisar los balances con mis contactos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#soporte-y-feedback" class="md-nav__link">
+    Soporte y Feedback
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/trustlines-protocol/tl-docs/edit/master/docs/guides/tl_app_user_guide.es.md" title="Editar esta página" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                  <h1>Guía de usuario de la app de Trustlines</h1>
+                
+                <ul>
+<li class="i18n-link i18n-link-found i18n-link-en"><a href="../../guides/tl_app_user_guide/">English</a></li>
+</ul>
+<p><a href="../tl_app_user_guide/"><img alt="🇬🇧" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" title=":gb:" /> <em>English</em></a></p>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>Las imágenes de esta guía son para fines educativos y es posible que no muestren los últimos cambios en la aplicación.</p>
+</div>
+<p><center><a href="https://trustlines.app/" target="_blank"><img class="app_guide_headerimg" src="../../assets/images/app_user_guide/phone.png"></a></p>
+<p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p>
+<p></center></p>
+<div class="admonition note">
+<p class="admonition-title">Nota para los usuarios de iOS que actualizan desde una versión anterior</p>
+<p>Si tienes la versión beta de la aplicación Trustlines instalada en un dispositivo iOS con TestFlight, tendrás que desinstalar la versión beta antes de instalar la versión en producción. En primer lugar, debes realizar una copia de seguridad de tu frase semilla, desinstalar la versión beta, e instalar la versión en producción. También debes hacer una copia de seguridad de los datos y el contenido de tu cuenta antes de desinstalar la versión beta.</p>
+</div>
+<h2 id="introducción">Introducción<a class="headerlink" href="#introducción" title="Permanent link">&para;</a></h2>
+<p>Para que los mercados funcionen correctamente, las personas necesitan acceso a un medio de intercambio confiable. Históricamente, debido a la forma en que funciona el sistema bancario, esta ha sido una meta difícil de alcanzar. Aún en tiempos de abundancia, la falta de acceso a herramientas financieras sencillas puede causar problemas en la disponibilidad de un medio de cambio (ej. pensemos en las dificultades asociadas a no estar en el sistema bancario). El problema se hace especialmente urgente ante las recesiones económicas (lo cual causa escasez de dinero). Por esto necesitamos una nueva forma de dinero que pueda proveer un medio de intercambio al que cualquiera pueda acceder: “Dinero impulsado por personas.”</p>
+<h2 id="crédito-mutuo">Crédito mutuo<a class="headerlink" href="#crédito-mutuo" title="Permanent link">&para;</a></h2>
+<p>La aplicación Trustlines es tu llave para utilizar una forma de dinero basado en la idea de crédito mutuo. El crédito mutuo es una forma orgánica y accesible que sencillamente consiste en créditos y débitos entre dos partes iguales que poseen confianza mutua. Dos personas  pueden elegir hacer transacciones entre sí usando el principio de crédito mutuo al crear una línea de crédito informal bilateral entre sí, a la cual se refiere como una “trustline.”</p>
+<p>Si se formalizan estos acuerdos informales naturales en una base de datos digital de amigos de confianza, se adquiere la posibilidad de “saltar” transacciones entre una red conectada de amigos-de-amigos. Esta es la parte brillante de utilizar Trustlines: convierte las relaciones de confianza en una red de pagos que se ve y actúa como dinero “de verdad.”</p>
+<h2 id="empezando-con-la-app-de-trustlines">Empezando con la app de Trustlines<a class="headerlink" href="#empezando-con-la-app-de-trustlines" title="Permanent link">&para;</a></h2>
+<p>Es posible que hayas recibido un enlace de invitación para comenzar con la aplicación de Trustlines, o tal vez acabas de descargar la aplicación y quieres comenzar a usarla. Estos dos procesos difieren un poco y tenemos una guía para cada enfoque.</p>
+<p>Selecciona la opción correcta para ti; <a href="#starting-via-an-invite-link">empezando con un enlace de invitación</a> o <a href="#starting-with-a-sign-up-in-the-app">empezar desde la app</a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Nota para los usuarios de iOS que actualizan desde una versión anterior</p>
+<p>Si tienes la versión beta de la aplicación Trustlines instalada en un dispositivo iOS con TestFlight, tendrás que desinstalar la versión beta antes de instalar la versión en producción. En primer lugar, debes realizar una copia de seguridad de tu frase semilla, desinstalar la versión beta, e instalar la versión en producción. También debes hacer una copia de seguridad de los datos y el contenido de tu cuenta antes de desinstalar la versión beta.</p>
+</div>
+<h3 id="empezando-con-un-enlace-de-invitación">Empezando con un enlace de invitación<a class="headerlink" href="#empezando-con-un-enlace-de-invitación" title="Permanent link">&para;</a></h3>
+<p>Es posible que hayas recibido una invitación de alguien a tráves de un link para usar Trustlines App. Este link te permitirá configurar tu cuenta y ¡crear tu primera Trustline!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/trustline_invitation.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_invitation.png"></a><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a></center></p>
+<p>1-.Lo primero que debes hacer al registrarte para obtener una nueva cuenta es aceptar los Términos y Condiciones. Al aceptar los Términos y Condiciones, la aplicación generará automáticamente una nueva cuenta para ti.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a></center></p>
+<p>2.- Una vez completada la creación de la cuenta, puedes elegir el nombre que quieres enseñar. Elige el nombre que deseas usar en la aplicación y estarás listo para crear tu primera trustline.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"></a></center></p>
+<p>3.- Cómo creaste la cuenta a través de un enlace de invitación, ya hay una solicitud de trustline lista para que la revises. Te mostrará el nombre de la otra persona, qué red de divisas está sugiriendo para la trustline, así como los límites de crédito sugeridos. Una solicitud de trustline de un nuevo enlace de invitación es ligeramente diferente de otras y se activará solo después de que se envíe de vuelta a su nuevo compañero para su aprobación final.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"></a></center></p>
+<p>Eso es todo. ¡Ya estás listo para comenzar a usar Trustlines!</p>
+<h3 id="comenzando-desde-la-app">Comenzando desde la app<a class="headerlink" href="#comenzando-desde-la-app" title="Permanent link">&para;</a></h3>
+<p>Comenzar con un registro en la aplicación es bastante similar a comenzar a través de un enlace de invitación. Hay un par de pasos menos que realizar antes de acceder al Panel de control, pero la aplicación no será muy útil hasta que crees una trustline con alguien.</p>
+<p><em>Si ya pasaste por los pasos de inicio a través de un enlace de invitación, puedes omitir esta sección e ir directamente a la sección sobre cómo asegurar la cuenta.</em></p>
+<hr />
+<p>1.- Lo primero que debes hacer al registrarte para obtener una nueva cuenta es aceptar los Términos y Condiciones</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center></p>
+<p>2.- Al aceptar los Términos y Condiciones, la aplicación generará automáticamente una nueva cuenta. Una vez creada la cuenta, puedes elegir tu nombre dentro de  la app.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center></p>
+<p>3.- Después de elegir un nombre que desees usar en la aplicación, ¡estás listo para crear tu primera trustline! Puedes  añadir a tu compañero escaneando su código QR o ingresando su dirección. ¡Asegúrate de ponerles un nombre para que puedas ver fácilmente con quién estás interactuando!</p>
+<p>También puedes omitir este paso y crear una nueva trustline más adelante, ¡pero la aplicación no es útil sin al menos una!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center></p>
+<p>4.- Tras agregar a tu compañero, deberás escoger una red de divisas para esta trustline. En la siguiente pantalla deberás escoger el límite de crédito de la trustline.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a></center></p>
+<p>5.- Revisa y aprueba los detalles de la trustline que deseas crear antes de enviarla, y listo, ¡estás listo para usar la aplicación de Trustlines!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_pending.png"></a></center></p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"></a></center></p>
+<h2 id="asegurando-el-acceso-a-tu-cuenta-de-trustlines">Asegurando el acceso a tu cuenta de Trustlines<a class="headerlink" href="#asegurando-el-acceso-a-tu-cuenta-de-trustlines" title="Permanent link">&para;</a></h2>
+<div class="admonition warning">
+<p>Este es un proceso muy importante que debe hacer cada usuario de la plataforma.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>Esto no es lo mismo que hacer una copia de seguridad de tu cuenta.  Esto asegurará el acceso a tu cuenta, pero también deberías asegurarte de que los datos de tu cuenta estén asegurados.</p>
+</div>
+<p>Copiar tu frase de seguridad garantizará que podrás entrar a tu cuenta en caso de que  no tengas acceso a tu dispositivo. Sin la frase de seguridad, no podrás acceder a tu cuenta en otro dispositivo.</p>
+<p>1.- Para iniciar, ve a la pestaña Cuenta en la barra de menú. Allí, selecciona Frase de Seguridad para iniciar el proceso de resguardo.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"></a></center></p>
+<p>2.- El siguiente paso te mostrará la frase de seguridad personal asociada con tu cuenta. Esta frase de seguridad tiene 12 palabras. Debes copiarlas en un lugar seguro, como un administrador de contraseñas. Después de copiar tu frase, deberás verificar que la hayas guardado correctamente.</p>
+<p>La aplicación te pedirá que ingreses la frase de seguridad de 12 palabras en el orden correcto, asegurándose así de que la hayas copiado correctamente y permitiéndote acceder a tu cuenta en el futuro si es necesario.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"></a><a href="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"></a></center></p>
+<p>Estos son todos los pasos necesarios para asegurar el acceso a tu cuenta. Como recordatorio, <strong>guardar tu frase de seguridad como captura de pantalla, en tu email o un servicio en la nube no es una forma segura de almacenarla</strong>.</p>
+<h2 id="respaldar-y-restaurar-los-datos-de-tu-cuenta">Respaldar y restaurar los datos de tu cuenta<a class="headerlink" href="#respaldar-y-restaurar-los-datos-de-tu-cuenta" title="Permanent link">&para;</a></h2>
+<p>Todos los datos personales de tu cuenta se almacenan sólo en tu dispositivo. Si bien Trustlines Blockchain almacena información sobre tus saldos y transferencias, la información personal como los nombres de tus contactos y las solicitudes de pago solo se almacenan en tu dispositivo. Por eso es importante hacer una copia de seguridad de los datos de tu cuenta. Recomendamos hacer una copia de seguridad periódica de estos datos en caso de que tu teléfono sea robado, se dañe o se pierda.</p>
+<p>El respaldo de los datos se hace en formato JSON, que podrás fácilmente guardar en el texto que prefieras. Para un usuario regular sin conocimiento del formato, esto se hace fácilmente, y puede hacerse tan solo copiando y pegando la información para guardarla.</p>
+<p>He aquí un ejemplo de cómo se vería la información de tu cuenta.</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+  <span class="nt">&quot;contacts&quot;</span><span class="p">:</span> <span class="p">[{</span>
+    <span class="nt">&quot;address&quot;</span><span class="p">:</span> <span class="s2">&quot;0xdbF44585FD4C8fc748fB5b6f99d24f8540E0ebEc&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;username&quot;</span><span class="p">:</span> <span class="s2">&quot;Alice&quot;</span>
+  <span class="p">},</span> <span class="p">{</span>
+    <span class="nt">&quot;address&quot;</span><span class="p">:</span> <span class="s2">&quot;0x062E470d519d5feCC78a501644B402d00BBbF393&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;username&quot;</span><span class="p">:</span> <span class="s2">&quot;Dan&quot;</span>
+  <span class="p">}],</span>
+  <span class="nt">&quot;activeCurrencies&quot;</span><span class="p">:</span> <span class="p">[{</span>
+    <span class="nt">&quot;address&quot;</span><span class="p">:</span> <span class="s2">&quot;0x57c4a2cCF2CC99f3dF7855465d1528C110Ff4F14&quot;</span>
+  <span class="p">},</span> <span class="p">{</span>
+    <span class="nt">&quot;address&quot;</span><span class="p">:</span> <span class="s2">&quot;0x7Ac3fC1C428df99D81d9b644106FF67c44A155aA&quot;</span>
+  <span class="p">}],</span>
+  <span class="nt">&quot;messages&quot;</span><span class="p">:</span> <span class="p">[{</span>
+    <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="s2">&quot;0x88DD2B76c8eAa369f38764EF71cEcF74F168a6f85262b8Aa66Ba22&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;direction&quot;</span><span class="p">:</span> <span class="s2">&quot;sent&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;networkAddress&quot;</span><span class="p">:</span> <span class="s2">&quot;0x7aF939CC78E5805d232752571cab0723613bD327&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;timestamp&quot;</span><span class="p">:</span> <span class="mi">1606128428</span><span class="p">,</span>
+    <span class="nt">&quot;type&quot;</span><span class="p">:</span> <span class="s2">&quot;PaymentRequest&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;counterpartyAddress&quot;</span><span class="p">:</span> <span class="s2">&quot;0x21fa801a76196cEb92417c436eEf0a15EB57C649&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;accountAddress&quot;</span><span class="p">:</span> <span class="s2">&quot;0xB25bAb13E693CE19405A73F3c4A868aB32E46979&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;paymentRequestID&quot;</span><span class="p">:</span> <span class="s2">&quot;0xC7edf264F6218c9A&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;amount&quot;</span><span class="p">:</span> <span class="s2">&quot;10&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;subject&quot;</span><span class="p">:</span> <span class="s2">&quot;Lunch&quot;</span>
+  <span class="p">}],</span>
+  <span class="nt">&quot;bills&quot;</span><span class="p">:</span> <span class="p">[]</span>
+<span class="p">}</span>
+</code></pre></div>
+<h3 id="hacer-un-respaldo-de-tu-cuenta">Hacer un respaldo de tu cuenta<a class="headerlink" href="#hacer-un-respaldo-de-tu-cuenta" title="Permanent link">&para;</a></h3>
+<p>Dirígete a la pestaña Cuentas en la barra de menú. Allí encontrarás la opción Copia de seguridad de datos. Presiona Crear Copia de Seguridad, aparecerá una selección de cómo deseas guardar los datos. Los datos se guardarán en un archivo con formato de texto (archivo .txt), que contiene los datos en lenguaje JSON, el cual podrás copiar y guardar en cualquier lugar, o seleccionar directamente una opción para guardarlo en tu dispositivo.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_data.png"></a></center></p>
+<h3 id="restaurar-una-copia-de-seguridad">Restaurar una copia de Seguridad<a class="headerlink" href="#restaurar-una-copia-de-seguridad" title="Permanent link">&para;</a></h3>
+<p>Dirígete a la pestaña Cuentas en la barra de menú. Allí encontrarás la opción Restaurar datos. Esto te permitirá pegar los datos para restaurar tus datos. Como se mencionó anteriormente, los datos estarán en un archivo de texto (archivo .txt), que puedes copiar y pegar desde donde los guardaste al realizar tu copia de seguridad.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/restore_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/restore_data.png"></a></center></p>
+<h2 id="creando-una-trustline">Creando una trustline<a class="headerlink" href="#creando-una-trustline" title="Permanent link">&para;</a></h2>
+<p>¡La aplicación no es útil sin al menos una trustline! Si no tienes una, lo primero que hay que hacer al descargar la aplicación es crear una trustline con un compañero de confianza.</p>
+<p>Para crear una trustline, primero, un compañero debe hacer una propuesta y luego el otro debe aceptarla.</p>
+<p>Cada trustline consta de dos líneas de crédito. De forma predeterminada, te sugerimos que establezcas ambos límites en el mismo valor. Como cualquier otro acuerdo, es mejor discutir esto en conjunto mientras crean la trustline. Seleccionar el modo avanzado permitirá establecer dos valores; a la izquierda es la cantidad que prestarías a tu compañero y a la derecha es la cantidad que puedes pedir prestada a tu compañero. Lo que puedes "Pedir prestado" se considera tu "límite de gasto" con este compañero. Estas dos cantidades se pueden establecer según lo que tu compañero y tú acuerden. Algunas redes de divisas también tienen la opción de agregar intereses a cualquiera de estas líneas de crédito.</p>
+<p>Desde el Panel de control en la vista principal puedes iniciar el proceso tocando “Nueva trustline”.</p>
+<p>1.- El primer paso es seleccionar qué red de divisas y, por lo tanto, la denominación que deseas utilizar para esta trustline específica.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a></center></p>
+<p>2.- Luego, debes establecer un límite de crédito para la trustline. Es mejor acordar esto en conjunto mientras crean la trustline. El modo avanzado ofrece más opciones si deseas establecer diferentes límites de crédito para ti y tu compañero, cómo agregar un interés personalizado para la trustline.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center></p>
+<p>3.- Después de seleccionar el límite de crédito para la trustline, revisa bien la solicitud antes de seleccionar a tu compañero.</p>
+<p>En este punto, puedes elegir compartir un enlace para enviarlo a un destinatario, es decir, usando una aplicación de mensajería, correo electrónico, etc., compartir tu código QR para escanear, o puedes seleccionar a un compañero de la lista de contactos existentes, pegar la dirección de cuenta de tu compañero o escanear el código QR.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"></a></center></p>
+<p>Al seleccionar la opción Compartir al elegir un compañero podrás compartir tu propio código QR o, de seleccionar Compartir nuevamente, para enviar un enlace de solicitud trustline a alguien. Ambas opciones contendrán la información que se seleccionó previamente para la solicitud de trustline.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"></a></center></p>
+<p>Si has seleccionado otra opción como un contacto existente, revisa los detalles asegurando que todo esté correcto, y ¡envía tu solicitud!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review.png"></a></center></p>
+<h2 id="añadiendo--un-contacto">Añadiendo  un contacto<a class="headerlink" href="#añadiendo--un-contacto" title="Permanent link">&para;</a></h2>
+<p>Para agregar un contacto, su compañero debe compartir la dirección de su cuenta. Para añadir al contacto haz clic en Contactos en la barra de menú. En la parte superior de la pantalla, hay un botón para agregar nuevos contactos. Haz clic allí.</p>
+<p>El compañero que estás agregando debe ir a la pestaña Cuenta en la barra de menú y seleccionar Mostrar QR en la parte superior de la pantalla.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/contacts.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/contacts.png"></a><a href="../../assets/images/app_user_guide/v1.11/add_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/add_contact.png"></a></center></p>
+<p>Simplemente escanea su código QR dándole al botón Escanear ¡Y listo!</p>
+<p>Si no están en el mismo espacio físico, tu compañero también puede convertirse en tu contacto presionando Copiar dirección en Cuenta, enviando su dirección a través de un servicio de mensajería.</p>
+<p>¡Asegúrate de ingresar un nombre para tu compañero! Ponle un nombre que puedas reconocer fácilmente.</p>
+<h2 id="cómo-escoger-una-red-de-divisas">Cómo escoger una red de divisas<a class="headerlink" href="#cómo-escoger-una-red-de-divisas" title="Permanent link">&para;</a></h2>
+<p>Podrás habilitar las redes de divisas para crear trutlines con diferentes denominaciones. Elige algo que te interese utilizar como una "unidad de cuenta". Las redes de divisas más populares son USD, EUR, Horas y Cerveza. También puedes usar la moneda local.</p>
+<p>Para habilitar diferentes redes de divisas, simplemente selecciona la pestaña Cuenta en el menú inferior y luego selecciona Divisas. Aquí puedes habilitar o deshabilitar diferentes redes de divisas que podrás utilizar.</p>
+<p>Las redes de divisas también se pueden habilitar durante el proceso de creación de trustlines sin necesidad de habilitarlas por adelantado.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></center></p>
+<hr />
+<h2 id="establecer-un-límite-de-crédito">Establecer un Límite de Crédito<a class="headerlink" href="#establecer-un-límite-de-crédito" title="Permanent link">&para;</a></h2>
+<p>Cada trustline consta de dos líneas de crédito. De forma predeterminada, te sugerimos que establezcas ambos límites en el mismo valor. Es mejor discutir esto en conjunto mientras establecen los números. Seleccionar el modo avanzado permitirá establecer dos valores; a la izquierda es la cantidad que prestarías a tu compañero y a la derecha es la cantidad que puedes pedir prestada a tu compañero. Lo que puedes "Pedir prestado" se considera tu "límite de gasto" con este compañero. Estas dos cantidades se pueden establecer según lo que tu compañero y tú acuerden. Algunas redes de divisas también tienen la opción de agregar intereses a cualquiera de estas líneas de crédito.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center></p>
+<h2 id="como-ver-tu-límite-de-crédito-global">Como ver tu límite de crédito global<a class="headerlink" href="#como-ver-tu-límite-de-crédito-global" title="Permanent link">&para;</a></h2>
+<p>Estando en Panel de control, verás un gran número en la parte superior, con la palabra "Disponible" debajo, y los botones "Enviar" y "Recibir". Este número no es tu saldo. En cambio, es tu crédito global disponible, la suma de todo el crédito disponible en cada trustline que hayas abierto dentro de una red de divisas en particular. (Es similar al límite de crédito en una tarjeta de crédito).</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a></center></p>
+<p>Este número disminuirá cada vez que realices un pago mediante la aplicación Trustlines porque el pago agota el crédito disponible.</p>
+<p>Sin embargo, aumentará otra vez cuando recibas pagos, por ejemplo, si un amigo te paga con una línea de crédito que haya creado. En otras palabras, si un amigo te pide prestado algo de dinero (y por lo tanto te debe dinero), esta cantidad se registra como crédito adicional, además de tu crédito disponible.</p>
+<p>Cuanto mayor sea tu límite de crédito global, mayor será tu capacidad de realizar pagos en la red. Si deseas aumentar tu límite, crea más trustlines con más personas en las que confíes (o pídele a tus amigos que aumenten sus límites de crédito contigo).</p>
+<h2 id="enviar-y-recibir-pagos">Enviar y Recibir Pagos<a class="headerlink" href="#enviar-y-recibir-pagos" title="Permanent link">&para;</a></h2>
+<h3 id="enviar-pagos-mediante-trustlines">Enviar pagos mediante Trustlines<a class="headerlink" href="#enviar-pagos-mediante-trustlines" title="Permanent link">&para;</a></h3>
+<p>Crear una trustline con una persona de confianza no sólo te permite realizar transacciones con ella, sino también con todas las personas con las que está conectado tu amigo, y todas las personas con las que están conectados sus amigos, etc. Puedes distribuir pagos en muchas cadenas de amigos, siempre que haya un límite de crédito suficientemente alto (suficiente "capacidad") en cada trustline conectada.</p>
+<p>Para enviar un pago a alguien que aún no conoces, puedes escanear su QR con la solicitud de pago o compartir un enlace de solicitud de pago a través de un servicio de mensajería.</p>
+<p>Si es alguien con quien planeas volver a realizar transacciones en el futuro, también puedes agregarlo como contacto (consulta Agregar un contacto). Si ya los tienes como contacto, puedes presionar Enviar directamente desde el Panel de control. Asegúrate de seleccionar la red de divisas correcta antes de presionar Enviar.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"></a><a href="../../assets/images/app_user_guide/v1.11/sending_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_details.png"></a></center></p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/sending_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_review.png"></a></center></p>
+<h3 id="solicitar-pagos-mediante-trustlines">Solicitar pagos mediante Trustlines<a class="headerlink" href="#solicitar-pagos-mediante-trustlines" title="Permanent link">&para;</a></h3>
+<p>Para solicitar un pago a alguien, presiona el botón Solicitud en el Panel de control. Asegúrate de seleccionar la red de divisas correcta antes de presionar Siguiente.</p>
+<p>Deberás ingresar la cantidad que estás solicitando, elegir un compañero al que enviar la solicitud y revisar la solicitud antes de confirmar. También puedes dividir fácilmente el pago entre varias personas seleccionando la opción “Dividir Factura” / Split Bill”.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center></p>
+<p>Al seleccionar Compartir al elegir un compañero, verás la opción de compartir tu propio código QR o de seleccionar Compartir nuevamente puedes enviar el enlace de solicitud de pago a alguien más. Ambas opciones contendrán la información previamente seleccionada en la solicitud de pago.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/share_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_payment_request.png"></a></center></p>
+<p>Si has seleccionado otra opción, como un contacto existente, revisa los detalles, asegurándote de que todo esté correcto, y ¡Envía tu solicitud!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/payment_request_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request_review.png"></a></center></p>
+<h3 id="dividir-la-cuenta">Dividir la cuenta<a class="headerlink" href="#dividir-la-cuenta" title="Permanent link">&para;</a></h3>
+<p>Con la aplicación Trustlines, puedes dividir fácilmente un pago entre varias personas. Empieza a solicitar el pago como lo harías normalmente y, cuando llegues a la pantalla Elegir compañero, selecciona la opción “Dividir Factura / Split Bill”.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/split_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center></p>
+<p>Aparecerá la pantalla de solicitud de dividir factura, indicando que solicitas un pago entre varios contactos. A continuación, selecciona a las personas a las que deseas enviar esta solicitud de pago.</p>
+<p>También puedes incluirte a tí mismo en esta solicitud. Esto es especialmente útil si estás dividiendo un pago de manera uniforme entre participantes de una actividad.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/split_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"></a></center></p>
+<p>De forma predeterminada, la cantidad que solicites se dividirá en partes iguales entre las personas seleccionadas. También existe la opción de cambiar las sumas manualmente ingresando las cantidades por persona.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"></a></center></p>
+<p>Revisa solicitud de pago y ¡Envía varias solicitudes con un solo click!</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/split_request_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_review.png"></a></center></p>
+<h2 id="revisar-los-balances-con-mis-contactos">Revisar los balances con mis contactos<a class="headerlink" href="#revisar-los-balances-con-mis-contactos" title="Permanent link">&para;</a></h2>
+<p>Al seleccionar un contacto en la vista de Contactos, verás todas las trustlines que tienes con esa persona. Desliza el dedo hacia la izquierda y hacia la derecha para ver diferentes redes de divisas. Cada trustline mostrará de forma destacada el crédito disponible en la parte superior. Debajo se muestran tres números: Saldo, Línea de crédito otorgada y Línea de crédito recibida.</p>
+<p><center><a href="../../assets/images/app_user_guide/v1.11/contact_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/contact_details.png"></a></center></p>
+<p>Los montos de las líneas de crédito otorgadas y recibidas corresponden a los dos límites de crédito que tu compañero y tú acordaron para esta trustline. En otras palabras, esta es la línea de crédito que le has dado a tu compañero y la línea de crédito que has recibido de tu compañero.</p>
+<p>Tu saldo indica la cantidad "adeudada". Si es negativo, esta es la cantidad que le debes a tu compañero. Si es positivo, esta es la cantidad que te debe tu compañero a ti. Solo deberías necesitar esta información si decides liquidar tu saldo y cerrar la trustline.</p>
+<h2 id="soporte-y-feedback">Soporte y Feedback<a class="headerlink" href="#soporte-y-feedback" title="Permanent link">&para;</a></h2>
+<p>Esta es una app lanzada recientemente. Estamos muy interesados en escuchar sus experiencias, cualquier cosa con la que hayan tenido problemas, y el feedback que puedan tener.</p>
+<p>El Trustlines Forum tiene secciones para soporte, al igual que para feedback acerca de la App Trustlines, ¡Déjanos saber lo que piensas!</p>
+<hr />
+<p><em>This content is created by Auxiliary GmbH and others, it is provided as educational material for Trustlines App users.</em></p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Volver al principio
+          </a>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        <a href="https://trustlines.network/" target="_blank" rel="noopener"><img src="/assets\images\brand\Network\SVG\trustlines-network-logo-red.svg" /></a>
+        <div class="md-footer-copyright__highlight">
+          Copyright &copy 2020-2021 Trustlines Foundation
+        </div>
+        
+        
+      </div>
+      <div class="md-footer-center">
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Websites
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Trustlines Network</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Blog</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Trustlines Foundation</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Community
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Forum</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Newsletter</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Telegram</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Developers
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Dev Docs</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">GitHub</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Technical Chat</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Legal
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Legal Imprint</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Privacy Policy</a>
+          </div>
+        </div>
+      </div>
+      
+  <div class="md-footer-social">
+    
+      
+      
+      <a href="https://blog.trustlines.network/" target="_blank" rel="noopener" title="Trustlines Blog" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://forum.trustlines.network/" target="_blank" rel="noopener" title="Trustlines Forum" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M225.9 32C103.3 32 0 130.5 0 252.1 0 256 .1 480 .1 480l225.8-.2c122.7 0 222.1-102.3 222.1-223.9C448 134.3 348.6 32 225.9 32zM224 384c-19.4 0-37.9-4.3-54.4-12.1L88.5 392l22.9-75c-9.8-18.1-15.4-38.9-15.4-61 0-70.7 57.3-128 128-128s128 57.3 128 128-57.3 128-128 128z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://twitter.com/TrustlinesFound" target="_blank" rel="noopener" title="Trustlines Foundation on Twitter" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://twitter.com/trustlines_app" target="_blank" rel="noopener" title="Trustlines App on Twitter" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-48.9 158.8c.2 2.8.2 5.7.2 8.5 0 86.7-66 186.6-186.6 186.6-37.2 0-71.7-10.8-100.7-29.4 5.3.6 10.4.8 15.8.8 30.7 0 58.9-10.4 81.4-28-28.8-.6-53-19.5-61.3-45.5 10.1 1.5 19.2 1.5 29.6-1.2-30-6.1-52.5-32.5-52.5-64.4v-.8c8.7 4.9 18.9 7.9 29.6 8.3a65.447 65.447 0 0 1-29.2-54.6c0-12.2 3.2-23.4 8.9-33.1 32.3 39.8 80.8 65.8 135.2 68.6-9.3-44.5 24-80.6 64-80.6 18.9 0 35.9 7.9 47.9 20.7 14.8-2.8 29-8.3 41.6-15.8-4.9 15.2-15.2 28-28.8 36.1 13.2-1.4 26-5.1 37.8-10.2-8.9 13.1-20.1 24.7-32.9 34z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://t.me/trustlines_network" target="_blank" rel="noopener" title="Trustlines Network community on Telegram" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://www.linkedin.com/company/trustlinesnetwork/" target="_blank" rel="noopener" title="Trustlines Network on LinkedIn" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://github.com/trustlines-protocol" target="_blank" rel="noopener" title="Trustlines Protocol on GitHub" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+      </a>
+    
+  </div>
+
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.top", "navigation.sections"], "translations": {"clipboard.copy": "Copiar al portapapeles", "clipboard.copied": "Copiado al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}, "search": "../../assets/javascripts/workers/search.409db549.min.js", "version": null}</script>
+    
+    
+    
+      <script src="../../assets/javascripts/bundle.756773cc.min.js"></script>
+      
+        <script src="../../assets/js/stats.js"></script>
+      
+    
+    <script>
+    var elements = document.getElementsByClassName("lightgallery");
+    for(var i=0; i<elements.length; i++) {
+       lightGallery(elements[i]);
+    }
+    </script>
+
+  </body>
+</html>

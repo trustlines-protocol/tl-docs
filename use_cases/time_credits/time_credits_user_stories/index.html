@@ -1,0 +1,1467 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Docs for the Trustlines Network">
+      
+      
+      
+      
+        <link rel="canonical" href="https://docs.trustlines.network/use_cases/time_credits/time_credits_user_stories/">
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.6">
+    
+    
+      
+        <title>Time Credits - User Stories - Trustlines Docs</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.802231af.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    <link rel="stylesheet" href="../../../css/lightgallery.min.css">
+
+    
+    
+    <script src="../../../js/lightgallery.min.js"></script>
+
+    
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../assets/css/styles.css">
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="tl-light" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-decentralized-timebank" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="https://trustlines.network/" title="Trustlines Docs" class="md-header__button md-logo" aria-label="Trustlines Docs" data-md-component="logo">
+      
+  <img src="../../../assets/images/brand/General/SVG/trustlines-mark-logo-white.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Trustlines Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Time Credits - User Stories
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: tl-light)" data-md-color-scheme="tl-light" data-md-color-primary="" data-md-color-accent=""  aria-label="Light"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Light" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: tl-dark)" data-md-color-scheme="tl-dark" data-md-color-primary="" data-md-color-accent=""  aria-label="Dark"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Dark" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button class="md-header__button md-icon" aria-label="Select language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24z"/></svg>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a href="/docs/" hreflang="en" class="md-select__link">
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a href="/docs/index.es" hreflang="es" class="md-select__link">
+                    Español
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/trustlines-protocol/tl-docs/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tl-docs
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://trustlines.network/" title="Trustlines Docs" class="md-nav__button md-logo" aria-label="Trustlines Docs" data-md-component="logo">
+      
+  <img src="../../../assets/images/brand/General/SVG/trustlines-mark-logo-white.svg" alt="logo">
+
+    </a>
+    Trustlines Docs
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/trustlines-protocol/tl-docs/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tl-docs
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      <label class="md-nav__link" for="__nav_1">
+        Trustlines Docs
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Trustlines Docs" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          Trustlines Docs
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Welcome
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Whitepaper
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Whitepaper" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Whitepaper
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/wp_content/abstract/" class="md-nav__link">
+        Abstract
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/wp_content/how_trustlines_works/" class="md-nav__link">
+        How Trustlines works
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/wp_content/use_in_the_real_world/" class="md-nav__link">
+        Use in the real world
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      <label class="md-nav__link" for="__nav_3">
+        Use Cases
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Use Cases" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Use Cases
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_1" type="checkbox" id="__nav_3_1" >
+      
+      <label class="md-nav__link" for="__nav_3_1">
+        Bill splitting
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Bill splitting" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Bill splitting
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bill_splitting/bill_splitting_on_trustlines/" class="md-nav__link">
+        Bill splitting on Trustlines
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" checked>
+      
+      <label class="md-nav__link" for="__nav_3_2">
+        Time Credits / Time Banking
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Time Credits / Time Banking" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          Time Credits / Time Banking
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../time_credits_on_trustlines/" class="md-nav__link">
+        Time Credits on Trustlines
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Time Credits - User Stories
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Time Credits - User Stories
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-decentralized-timebank" class="md-nav__link">
+    1. Decentralized Timebank
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-mutual-aid-with-a-neighborhood-timebank" class="md-nav__link">
+    2. Mutual Aid with a Neighborhood Timebank
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-volunteer-groups" class="md-nav__link">
+    3. Volunteer Groups
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-direct-giving-through-volunteer-groups" class="md-nav__link">
+    4. Direct Giving through Volunteer Groups
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-partnerships-between-businesses-and-community-groups" class="md-nav__link">
+    5. Partnerships between Businesses and Community Groups
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Partnerships between Businesses and Community Groups">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-partner-businesses-growing-the-local-economy" class="md-nav__link">
+    5.1 Partner Businesses: Growing the Local Economy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-partner-businesses-gifting" class="md-nav__link">
+    5.2. Partner Businesses: Gifting
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-peer-to-peer-transactions-the-network-effect" class="md-nav__link">
+    6. Peer-to-Peer Transactions: The Network Effect
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Peer-to-Peer Transactions: The Network Effect">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-encouraging-reciprocity-in-community-groups" class="md-nav__link">
+    6.1. Encouraging reciprocity in community groups
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-creating-new-friendships-because-of-community-groups" class="md-nav__link">
+    6.2. Creating new friendships because of community groups
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-rippling-through-friends-to-shop-at-local-businesses" class="md-nav__link">
+    6.3. Rippling through friends to shop at local businesses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-community-partnerships-the-network-effect" class="md-nav__link">
+    7. Community Partnerships: The Network Effect
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-partner-businesses-supporting-networks-of-communities" class="md-nav__link">
+    8. Partner Businesses: Supporting Networks of Communities
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Guides
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/tl_app_user_guide/" class="md-nav__link">
+        Trustlines App User Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/how_to_claim_tln/" class="md-nav__link">
+        How to claim TLN from the Merkle Drop
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/how_to_withdraw_validator_deposit/" class="md-nav__link">
+        How to withdraw your validator deposit
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/converting_tln_to_tlc/" class="md-nav__link">
+        Converting TLN to TLC
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/community_communications_guide/" class="md-nav__link">
+        Communications Guide
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Brand
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Brand" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Brand
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../brand/brand_guidelines/" class="md-nav__link">
+        Brand Guidelines
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../brand/brand_resources/" class="md-nav__link">
+        Brand Resources
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        FAQ
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="FAQ" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          FAQ
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/FAQ/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Community
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Community" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Community
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/glossary/" class="md-nav__link">
+        Glossary
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/code_of_conduct/" class="md-nav__link">
+        Code of Conduct
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/presentations/presentation_slides/" class="md-nav__link">
+        Presentations
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      <label class="md-nav__link" for="__nav_8">
+        Legal
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Legal" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Legal
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundation/trademarks/" class="md-nav__link">
+        Trustlines Trademark Guidelines
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-decentralized-timebank" class="md-nav__link">
+    1. Decentralized Timebank
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-mutual-aid-with-a-neighborhood-timebank" class="md-nav__link">
+    2. Mutual Aid with a Neighborhood Timebank
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-volunteer-groups" class="md-nav__link">
+    3. Volunteer Groups
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-direct-giving-through-volunteer-groups" class="md-nav__link">
+    4. Direct Giving through Volunteer Groups
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-partnerships-between-businesses-and-community-groups" class="md-nav__link">
+    5. Partnerships between Businesses and Community Groups
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Partnerships between Businesses and Community Groups">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-partner-businesses-growing-the-local-economy" class="md-nav__link">
+    5.1 Partner Businesses: Growing the Local Economy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-partner-businesses-gifting" class="md-nav__link">
+    5.2. Partner Businesses: Gifting
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-peer-to-peer-transactions-the-network-effect" class="md-nav__link">
+    6. Peer-to-Peer Transactions: The Network Effect
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Peer-to-Peer Transactions: The Network Effect">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-encouraging-reciprocity-in-community-groups" class="md-nav__link">
+    6.1. Encouraging reciprocity in community groups
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-creating-new-friendships-because-of-community-groups" class="md-nav__link">
+    6.2. Creating new friendships because of community groups
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-rippling-through-friends-to-shop-at-local-businesses" class="md-nav__link">
+    6.3. Rippling through friends to shop at local businesses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-community-partnerships-the-network-effect" class="md-nav__link">
+    7. Community Partnerships: The Network Effect
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-partner-businesses-supporting-networks-of-communities" class="md-nav__link">
+    8. Partner Businesses: Supporting Networks of Communities
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/trustlines-protocol/tl-docs/edit/master/docs/use_cases/time_credits/time_credits_user_stories.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                  <h1>Time Credits - User Stories</h1>
+                
+                <p>The following user stories are intended to illustrate possible ways to use Trustlines in a time credits system. This document is not comprehensive. It is meant to guide and inspire.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/overview.png"><img class="tc_img" src="../../../assets/images/time_credits/overview.png"></a></p>
+<section>
+This diagram shows how different entities using time credits are naturally interconnected through Trustlines. A pink line represents a trustline between two individuals. A purple line represents a trustline between two organization accounts. Boxes represent communities in which each member has a trustline with the organization account. Characters with a round border are managers of an organization account. Anyone can ripple a transaction to anyone else in the network, as long as each connecting trustline has enough capacity.</section>
+<p></div></center></p>
+<h2 id="1-decentralized-timebank">1. Decentralized Timebank<a class="headerlink" href="#1-decentralized-timebank" title="Permanent link">&para;</a></h2>
+<p>The easiest way to start using time credits is to join the decentralized timebank. Group clusters will occur around geographic areas or according to interest groups. For example, several individuals may want to start using time credits in the Berlin area.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 1: Decentralized Timebank</p>
+<p>Individuals can start using time credits independently, with anyone they trust. By doing so, they join the "decentralized timebank." |</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Several people in Berlin become interested in the idea of timebanking and want to try it out. Some of them know each other from the neighborhood, and others share a coworking space. Others are just good friends. All of these connections are the basis for different trust relationships: Each person individually opens a trustline with the people they trust. Most people agree that five hours is a reasonable mutual credit limit for regular acquaintances.</p>
+<p>Andy and Sam are neighbors. They open a trustline with each other because Sam has children, and Andy babysits once a week. Also, Sam has a car, and Andy sometimes needs a ride. They transact with each other often, so they set a mutual credit limit of ten. Even though it's just the two of them, being able to track these exchanges using time credits has made the value of their services more visible, and mutually enriched their lives.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S01A.png"><img class="tc_img" src="../../../assets/images/time_credits/S01A.png"></a></p>
+<section>
+Andy and Sam have a trustline. Andy pays Sam for giving him a ride. Sam pays Andy for babysitting.</section>
+<p></div></center></p>
+<p>But it's not just Andy and Sam. Dana, a gardener, is a good friend of Andy's. They decide to open a trustline with a mutual credit limit of five. Even though Andy and Dana may not directly have skills to offer each other right now, they will each benefit from their trustline by being better connected to the rest of the network. For example, Dana offers gardening classes for children, and Sam's children want to attend.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S01B.png"><img class="tc_img" src="../../../assets/images/time_credits/S01B.png"></a></p>
+<section>
+The pink lines represent trustlines. Sam pays Dana for gardening classes. Andy can pay for services from one of Dana's friends, and receives payments for babysitting.</section>
+<p></div></center></p>
+<p>Similarly, Andy is a babysitter and would like Dana's connections to be able to use his babysitting skills. In return, Andy can benefit from services provided by Dana's connections.</p>
+<h2 id="2-mutual-aid-with-a-neighborhood-timebank">2. Mutual Aid with a Neighborhood Timebank<a class="headerlink" href="#2-mutual-aid-with-a-neighborhood-timebank" title="Permanent link">&para;</a></h2>
+<p>In the traditional scenario, a Berlin neighborhood may start a centralized timebank, to encourage neighbors to share skills, support their neighbors, and enrich the community.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 2: Mutual Aid with a Neighborhood Timebank</p>
+<p>Trustlines allows centralized timebanks to form. These are inherently interoperable with people outside the timebank, as well as other timebanks.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Everyone in Berlin is eligible to join the Berlin Timebank. The community elects Dana as a manager to monitor new applications.</p>
+<p>Beth applies to join the timebank. Dana conducts an interview, in which she helps Beth figure out which skills to contribute, and what kind of requests to make. Beth signs a document committing to honor the principles of the timebank. Next, Dana has the Berlin Timebank create a trustline with Beth. The mutual credit limit on this trustline is 25, which is the same amount for all new members.</p>
+<p>There are fifty members of the timebank, including Dana. Beth can now transact with all fifty members, by rippling payments through the organization account. But Beth's overall balance with the timebank cannot go higher than 25 credits, and cannot go lower than -25 credits either. Beth offers to help Dana with her website, and enrolls her children in Dana's gardening class. Beth and Dana can pay each other time credits by rippling through the Berlin Timebank.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S02A.png"><img class="tc_img" src="../../../assets/images/time_credits/S02A.png"></a></p>
+<section>
+Dana is manager of Berlin Timebank. Both Dana and Beth have trustlines with Berlin Timebank. Beth pays Dana for gardening classes. Dana pays Beth for website help. Both payments ripple through the Berlin Timebank account.
+</section>
+<p></div></center></p>
+<p>Andy is a babysitter and wants to get paid for this service in time credits. But Andy is new to the neighborhood and does not feel comfortable applying for membership with a big neighborhood timebank. Luckily, Andy and Dana are good friends and share a trustline with a mutual credit limit of five. This connection enables Beth, who needs babysitting, to send a payment to Andy. Beth's payment ripples first through the Berlin Timebank, then through Dana, before ending up with Andy.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S02B.png"><img class="tc_img" src="../../../assets/images/time_credits/S02B.png"></a></p>
+<section>
+Dana and Andy have a trustline. Both Dana and Beth have trustlines with Berlin Timebank. Beth pays Andy for babysitting. The payment ripples through the Berlin Timebank account and then through Dana.
+</section>
+<p></div></center></p>
+<h2 id="3-volunteer-groups">3. Volunteer Groups<a class="headerlink" href="#3-volunteer-groups" title="Permanent link">&para;</a></h2>
+<p>Time credits can also be used for more specific purposes. For example, the manager of an altruistic community group can use Trustlines to reward volunteers for their work. An added benefit of using Trustlines is they would be better able to estimate the total number of hours their volunteers plan to contribute over a set time period. They estimate this based on the received credit limits on their trustlines.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 3: Volunteer Groups</p>
+<p>Trustlines allows organizations that coordinate specific community services, like Emma's Foodsharing program in Berlin, to reward volunteers like Sam, by issuing time credits to them. Sam can spend earned credits with people and organizations that support Berlin Foodsharing. And Emma can share program statistics with her local government to demonstrate how important their work is.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Sam, a food delivery volunteer, opens a trustline with Berlin Foodsharing, managed by a chef, Emma. As a good rule of thumb, Sam should set the credit limit to be the maximum number of hours they expect to contribute over a set period of time. Sam expects to contribute ten hours per month, so they give Berlin Foodsharing a credit limit of ten. The other credit limit is zero for now. Emma can now pay Sam in time credits for food deliveries, using this trustline.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S03.png"><img class="tc_img" src="../../../assets/images/time_credits/S03.png"></a></p>
+<section>
+Emma is the manager of Berlin Foodsharing. Sam has a trustline with Berlin Foodsharing. Emma uses the Berlin Foodsharing account to pay Sam for volunteering.
+</section>
+<p></div></center></p>
+<p>Sam begins accumulating time credits. Every month, Sam earns ten credits and then spends ten credits with connected people and organizations. For an explanation of spending, see <a href="#5-partnerships-between-businesses-and-community-groups-1">Scenarios 5 to 8</a>.</p>
+<p>But one month, Sam earns ten credits and doesn't spend them. Ten is the maximum amount of credits allowed by this credit limit. So next month, to continue earning credits, Sam agrees to raise Berlin Foodhsharing's credit limit to 20. This enables Emma to pay Sam an additional ten credits that month.</p>
+<p>Now Sam has accumulated 20 credits. But guess what, this month Sam adopts a new baby! Sam tells Emma that they will be busy parenting and no longer have time to volunteer. Sam decides to lower their credit limit to zero for now, to indicate less availability. Sam still has 20 earned credits and can spend them anytime, but can no longer earn new credits.</p>
+<p>Now Sam is deep in diapers and really needs help. It's a good time to talk to Andy, who can help out with babysitting. Andy will be able to earn credits directly from Sam, and also spend them through Sam, because of Sam's accumulated credits with Berlin Foodsharing (see <a href="#63-rippling-through-friends-to-shop-at-local-businesses">Scenario 6.3</a>).</p>
+<h2 id="4-direct-giving-through-volunteer-groups">4. Direct Giving through Volunteer Groups<a class="headerlink" href="#4-direct-giving-through-volunteer-groups" title="Permanent link">&para;</a></h2>
+<p>In a more advanced scenario, the manager of a community group could enable recipients of community services to pay volunteers directly. Using Trustlines helps the community group take a background role and act as a connector.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 4: Direct Giving through Volunteer Groups</p>
+<p>Trustlines allows organizations that coordinate community services targeted towards helping vulnerable individuals, like Emma's Foodsharing program in Berlin, to act as a trusted intermediary in facilitating direct value transfers between service recipients like Fred and volunteers like Sam.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Berlin Foodsharing opens a trustline with each service recipient that chooses to participate. Fred is a senior citizen with reduced mobility. He applies to be a recipient of Berlin Foodsharing. Emma arranges a visit to meet Fred and assesses a need for weekly meal deliveries. So, Emma has Berlin Foodsharing give Fred a monthly credit limit of four. This is enough to pay for deliveries four times each month. The other credit limit is zero for now. This trustline enables Fred to directly pay a time credit to Sam every week, by rippling through Berlin Foodsharing.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S04.png"><img class="tc_img" src="../../../assets/images/time_credits/S04.png"></a></p>
+<section>
+Emma is the manager of Berlin Foodsharing. Sam and Fred each have a trustline with Berlin Foodsharing. Fred pays Sam for food deliveries. The payment ripples through the Berlin Foodsharing account.
+</section>
+<p></div></center></p>
+<p>At the end of the month, Fred has a balance of negative four. To make sure Fred can keep paying next month, Emma keeps track of Fred's balance. At the end of the month, Berlin Foodsharing gifts four credits to Fred, which resets his balance to zero. (Gifting is the practice of giving something voluntarily without payment in return.) This ensures that Fred can pay for next month's deliveries.</p>
+<p>Note that some months, Berlin Foodsharing doesn't have to gift any credits to Fred. That's because Fred can earn credits as well. For an explanation, see <a href="#52-partner-businesses-gifting">Scenario 5.2</a>.</p>
+<h2 id="5-partnerships-between-businesses-and-community-groups">5. Partnerships between Businesses and Community Groups<a class="headerlink" href="#5-partnerships-between-businesses-and-community-groups" title="Permanent link">&para;</a></h2>
+<p>Emma wants to make sure her volunteers have a way to spend their time credits. Similarly, Dana wants members of the Berlin Timebank to have more opportunities for spending and earning time credits.</p>
+<p>So, Emma and Dana start approaching businesses in the community, especially those that may have extra resources. For example, they may look for theaters that will have unused tickets or gyms that can offer free memberships. They may also look for cafes and restaurants interested in growing their business by offering discounts.</p>
+<p>A partnership is established when a business opens a trustline with a community group. In other words, they can agree to honor a certain amount of time credits as vouchers for goods or services.</p>
+<p>Using Trustlines to do this has a few added benefits for the business:</p>
+<ul>
+<li>Friends of community members can also transact with supporting businesses by rippling payments, which greatly expands the reach of each business (see <a href="#63-rippling-through-friends-to-shop-at-local-businesses">Scenario 6.3</a>).</li>
+<li>The partnership helps ensure that resources (like unused theater tickets) don't go to waste.</li>
+<li>Businesses are able to spend earned time credits back into the community.</li>
+</ul>
+<p>There are two ways businesses can establish partnerships with community groups: By accepting time credits as payment from the trusted group (<a href="#51-partner-businesses-growing-the-local-economy">Scenario 5.1</a>), or by gifting time credits to that group (<a href="#52-partner-businesses-gifting">Scenario 5.2</a>).</p>
+<h3 id="51-partner-businesses-growing-the-local-economy">5.1 Partner Businesses: Growing the Local Economy<a class="headerlink" href="#51-partner-businesses-growing-the-local-economy" title="Permanent link">&para;</a></h3>
+<p>The Berlin Timebank is known in the region as a network of reliable people with many different skills and talents, who are passionate about building a stronger community. Dana is easily able to demonstrate to several businesses that the members of the Berlin Timebank can be both a loyal customer base and a valuable resource.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 5.1: Growing the Local Economy</p>
+<p>Gigi, who manages the local theater, wants to reserve a certain number of unused tickets for members of the Berlin Timebank, and for anyone connected to members of the Berlin Timebank via the network of trustlines.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Gigi's Theatre should open a trustline with the Berlin Timebank. Gigi gives a credit limit of 25, and the other credit limit is zero for now. Beth, who has earned time credits through the timebank, will then be able to ripple payments through the timebank to pay for theater tickets. Anyone sharing a trustline with Beth will be able to do this as well.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S05-1.png"><img class="tc_img" src="../../../assets/images/time_credits/S05-1.png"></a></p>
+<section>
+Dana is the manager of Berlin Timebank. Dana and Gigi open a trustline between Berlin Timebank and the Theatre. Beth has a trustline with the Berlin Timebank. Beth pays Gigi's Theatre for tickets to a show. The payment ripples through the Berlin Timebank account.
+</section>
+<p></div></center></p>
+<p>Afterward, Gigi's Theatre will end up being "owed" a number of time credits. Gigi can spend these time credits back into the community. For example, she can use them to pay theater volunteers in the future.</p>
+<h3 id="52-partner-businesses-gifting">5.2. Partner Businesses: Gifting<a class="headerlink" href="#52-partner-businesses-gifting" title="Permanent link">&para;</a></h3>
+<p>Berlin Foodsharing is highly regarded in the community and has been featured in the local paper. Emma is easily able to demonstrate to several businesses that Berlin Foodsharing is authentic: distributing time credits to real volunteers doing valuable work. So businesses wanting to give back to the community can support Berlin Foodsharing.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 5.2: Gifting</p>
+<p>Heidi's Café decides to gift time credits to Berlin Foodsharing to support their work. These can be redeemed as a discount (i.e., as partial payment) at the cafe.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Berlin Foodsharing opens a trustline with Heidi's Café. Berlin Foodsharing gives a credit limit of 50, and the other credit limit is zero for now. Heidi can now immediately gift 50 time credits to Berlin Foodsharing, using this trustline. Sam, a volunteer who has earned time credits from Berlin Foodsharing, will then be able to ripple payments through Berlin Foodsharing to pay at Heidi's Café. Anyone sharing a trustline with Sam will also be able to use this discount unless Heidi decides to limit the reward to volunteers (in that case, the café must manually request proof of membership with Berlin Foodsharing before accepting the payment).</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S05-2.png"><img class="tc_img" src="../../../assets/images/time_credits/S05-2.png"></a></p>
+<section>
+Emma is the manager of Berlin Foodsharing. Emma and Heidi open a trustline between Berlin Foodsharing and the Café. Sam has a trustline with Berlin Foodsharing. Sam pays for coffee at Heidi's Café. The payment ripples through the Berlin Foodsharing account.
+</section>
+<p></div></center></p>
+<ul>
+<li><strong>Case A</strong>: Each month, 50 time credits are redeemed at the cafe. Heidi can choose to replenish it by gifting further time credits at the end of each month.</li>
+<li><strong>Case B</strong>: Perhaps Heidi needs some help supporting the influx of new customers. Berlin Foodsharing can allow Heidi's Café to use the trustline to access their volunteer base. Suppose volunteers from Berlin Foodsharing have already redeemed a total of 50 credits with the cafe. Heidi can offer to pay five credits out of this balance, to Sam, who agrees to help out for five hours each month. These credits are rippled through Berlin Foodsharing.</li>
+<li><strong>Case C</strong>: But perhaps Berlin Foodsharing needs Sam, and all the other volunteers, to use the majority of their time for deliveries. Emma explains this to Heidi. To reflect this, Emma can choose to reduce their credit limit after receiving Heidi's 50 gifted credits. (This can be done even before redeeming the gifted credits.)</li>
+</ul>
+<h2 id="6-peer-to-peer-transactions-the-network-effect">6. Peer-to-Peer Transactions: The Network Effect<a class="headerlink" href="#6-peer-to-peer-transactions-the-network-effect" title="Permanent link">&para;</a></h2>
+<p>As described in the Decentralized Timebank (<a href="#1-decentralized-timebank-1">Scenario 1</a>), individual community members may choose to accept time credits from other individuals, outside the constraints of a registered business. Depending on how these individuals are connected to the rest of the community, they may be able to ripple their time credits through different groups in order to make a payment to another individual or supportive business accepting time credits.</p>
+<h3 id="61-encouraging-reciprocity-in-community-groups">6.1. Encouraging reciprocity in community groups<a class="headerlink" href="#61-encouraging-reciprocity-in-community-groups" title="Permanent link">&para;</a></h3>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 6.1: Encouraging reciprocity in community groups</p>
+<p>Perhaps Fred is also a retired professor. Fred can offer tutoring services to Sam, who has children. Fred can accept time credits in return.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Fred has rippled payments in the past to Sam, through Berlin Foodsharing. Now, Sam can use these earned time credits to ripple a payment in the other direction, back to Fred.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S06-1.png"><img class="tc_img" src="../../../assets/images/time_credits/S06-1.png"></a></p>
+<section>
+Sam and Fred each have a trustline with Berlin Foodsharing. Sam pays Fred for tutoring Sam's children. The payment ripples through the Berlin Foodsharing account.
+</section>
+<p></div></center></p>
+<h3 id="62-creating-new-friendships-because-of-community-groups">6.2. Creating new friendships because of community groups<a class="headerlink" href="#62-creating-new-friendships-because-of-community-groups" title="Permanent link">&para;</a></h3>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 6.2: Creating new friendships because of community groups</p>
+<p>Alternatively, suppose Sam has been delivering meals to Fred for months, so they know and trust each other. They can choose to start transacting directly, without using Berlin Foodsharing.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Fred can open a trustline directly with Sam, and they agree to set a mutual credit limit of ten---higher than what Berlin Foodsharing allows. Then Sam can use this trustline to pay Fred for tutoring services for Sam's children, and Fred can use the trustline to pay for meal deliveries. They no longer need to ripple payments through Berlin Foodsharing.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S06-2.png"><img class="tc_img" src="../../../assets/images/time_credits/S06-2.png"></a></p>
+<section>
+Sam and Fred open a trustline between each other. Fred pays Sam for food deliveries. Sam pays Fred for tutoring Sam's children.
+</section>
+<p></div></center></p>
+<h3 id="63-rippling-through-friends-to-shop-at-local-businesses">6.3. Rippling through friends to shop at local businesses<a class="headerlink" href="#63-rippling-through-friends-to-shop-at-local-businesses" title="Permanent link">&para;</a></h3>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 6.2: Rippling through friends to shop at local businesses</p>
+<p>Remember that Sam has a neighbor named Andy. Sam often uses time credits to pay Andy for babysitting. Andy can redeem his time credits at local businesses, even though he does not have trustlines with any of them, because he is connected through Sam.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Andy already has a trustline with Sam. Since Andy is receiving time credits from Sam, who is a member of Berlin Foodsharing, Andy could eventually ripple a payment through Sam to pay for a discount at Heidi's Café.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S06-3.png"><img class="tc_img" src="../../../assets/images/time_credits/S06-3.png"></a></p>
+<section>
+Andy and Sam have a trustline. Sam has paid Andy for babysitting. Berlin Foodsharing and Heidi's Café have a trustline. Andy pays for hot chocolate at Heidi's Café. The payment ripples through Sam, then through the Berlin Foodsharing account.
+</section>
+<p></div></center></p>
+<h2 id="7-community-partnerships-the-network-effect">7. Community Partnerships: The Network Effect<a class="headerlink" href="#7-community-partnerships-the-network-effect" title="Permanent link">&para;</a></h2>
+<p>Different community groups can open trustlines between each other as well, allowing payments to ripple through each one's members and network of partner businesses, and thus expanding the network of all members.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 7: The Network Effect</p>
+<p>The Berlin Timebank (managed by Dana) and the Paris Timebank, a similar program managed by Ivan, want to connect their members, and also share their network of partner businesses.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>The Berlin Timebank can open a trustline with the Paris Timebank. Dana and Ivan agree on a mutual credit limit of 25. This is the maximum amount either group can have "outstanding" at any point in time, between their communities.</p>
+<p>This connection enables members of both programs to spend and earn time credits in each other's communities, by rippling payments over the trustline. For example, this enables Côme, a member of the Paris Timebank, to use time credits while visiting Berlin, in order to pay for a theater ticket.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S07.png"><img class="tc_img" src="../../../assets/images/time_credits/S07.png"></a></p>
+<section>
+Dana is the manager of the Berlin Timebank. Ivan is the manager of the Paris Timebank. They open a trustline between the two timebanks. Côme pays for theatre tickets at Gigi's Theatre. The payment ripples through the Paris Timebank account and then the Berlin Timebank account. This is possible because Côme has a trustline with the Paris Timebank, and there is a trustline connecting the Berlin Timebank to Gigi's Theatre.
+</section>
+<p></div></center></p>
+<h2 id="8-partner-businesses-supporting-networks-of-communities">8. Partner Businesses: Supporting Networks of Communities<a class="headerlink" href="#8-partner-businesses-supporting-networks-of-communities" title="Permanent link">&para;</a></h2>
+<p>Businesses may also choose to accept time credits from a large and diverse set of community groups.</p>
+<div class="admonition abstract">
+<p class="admonition-title">Scenario 8: Supporting Networks of Communities</p>
+<p>Josh is the community organizer managing a European Timebank Network. Kamal, an online crafts seller from London, wants to support mutual aid initiatives using timebanks, and also grow his customer base. He decides to offer a discount to the European Timebank Network. This would open Kamal's offer to timebanks across Europe, like the Berlin Timebank or the Paris Timebank.</p>
+</div>
+<h3>How to integrate with Trustlines</h3>
+
+<p>Kamal reaches out to Josh to explain why he supports their organization and to introduce his crafts shop. Josh agrees that connecting to Kamal's Craft Shop will add value to the European Timebank Network, since it is a unique shop where members can spend their credits. They agree to open a trustline.</p>
+<p>The European Timebank Network gives a credit limit of 20 to Kamal, and the other credit limit is zero for now. Kamal immediately uses this trustline to gift 20 time credits to the organization. Now, the European Timebank Network has a balance of 20 credits to spend at Kamal's Craft Shop, to be used as a discount.</p>
+<p>The European Timebank Network has trustlines with many timebanks across the continent, each of which has a mutual credit limit of 25. Because of this, connected timebank members like Beth can redeem their time credits for crafts by rippling a payment to Kamal's Craft Shop. In this scenario, Beth's payment would ripple first through the Berlin Timebank, and then through the European Timebank Network, until finally it is paid to Kamal.</p>
+<p><center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/time_credits/S08.png"><img class="tc_img" src="../../../assets/images/time_credits/S08.png"></a></p>
+<section>
+Josh is the manager of the European Timebank Network. He opens a trustline with Kamal's Craft Shop. Beth has a trustline with the Berlin Timebank. Beth pays for handmade crafts at Kamal's Craft Shop. The payment ripples through the Berlin Timebank and then the European Timebank Network.
+</section>
+<p></div></center></p>
+<p>After accumulating credits over this trustline, Kamal can choose to pay some credits back into the community. Since Kamal lives in London, he checks the directory of the London Timebank to see what services are available. He will be able to ripple a payment through the European Timebank Network, and then through the London Timebank, before it is received by someone in his community.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <nav class="md-footer__inner md-grid" aria-label="Footer">
+    
+    
+    <a href="../time_credits_on_trustlines/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Time Credits on Trustlines" rel="prev">
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </div>
+      <div class="md-footer__title">
+        <div class="md-ellipsis">
+          <span class="md-footer__direction">
+            Previous
+          </span>
+          Time Credits on Trustlines
+        </div>
+      </div>
+    </a>
+    
+    
+    
+    <a href="../../../guides/tl_app_user_guide/" class="md-footer__link md-footer__link--next" aria-label="Next: Trustlines App User Guide" rel="next">
+      <div class="md-footer__title">
+        <div class="md-ellipsis">
+          <span class="md-footer__direction">
+            Next
+          </span>
+          Trustlines App User Guide
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        <a href="https://trustlines.network/" target="_blank" rel="noopener"><img src="/assets\images\brand\Network\SVG\trustlines-network-logo-red.svg" /></a>
+        <div class="md-footer-copyright__highlight">
+          Copyright &copy 2020-2021 Trustlines Foundation
+        </div>
+        
+        
+      </div>
+      <div class="md-footer-center">
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Websites
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Trustlines Network</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Blog</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Trustlines Foundation</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Community
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Forum</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Newsletter</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Telegram</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Developers
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Dev Docs</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">GitHub</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Technical Chat</a>
+          </div>
+        </div>
+        <div class="md-footer-center-col">
+          <div class="md-footer-center-row-heading">
+            Legal
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Legal Imprint</a>
+          </div>
+          <div class="md-footer-center-row">
+            <a href="https://trustlines.network/" target="_blank" rel="noopener">Privacy Policy</a>
+          </div>
+        </div>
+      </div>
+      
+  <div class="md-footer-social">
+    
+      
+      
+      <a href="https://blog.trustlines.network/" target="_blank" rel="noopener" title="Trustlines Blog" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://forum.trustlines.network/" target="_blank" rel="noopener" title="Trustlines Forum" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M225.9 32C103.3 32 0 130.5 0 252.1 0 256 .1 480 .1 480l225.8-.2c122.7 0 222.1-102.3 222.1-223.9C448 134.3 348.6 32 225.9 32zM224 384c-19.4 0-37.9-4.3-54.4-12.1L88.5 392l22.9-75c-9.8-18.1-15.4-38.9-15.4-61 0-70.7 57.3-128 128-128s128 57.3 128 128-57.3 128-128 128z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://twitter.com/TrustlinesFound" target="_blank" rel="noopener" title="Trustlines Foundation on Twitter" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://twitter.com/trustlines_app" target="_blank" rel="noopener" title="Trustlines App on Twitter" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-48.9 158.8c.2 2.8.2 5.7.2 8.5 0 86.7-66 186.6-186.6 186.6-37.2 0-71.7-10.8-100.7-29.4 5.3.6 10.4.8 15.8.8 30.7 0 58.9-10.4 81.4-28-28.8-.6-53-19.5-61.3-45.5 10.1 1.5 19.2 1.5 29.6-1.2-30-6.1-52.5-32.5-52.5-64.4v-.8c8.7 4.9 18.9 7.9 29.6 8.3a65.447 65.447 0 0 1-29.2-54.6c0-12.2 3.2-23.4 8.9-33.1 32.3 39.8 80.8 65.8 135.2 68.6-9.3-44.5 24-80.6 64-80.6 18.9 0 35.9 7.9 47.9 20.7 14.8-2.8 29-8.3 41.6-15.8-4.9 15.2-15.2 28-28.8 36.1 13.2-1.4 26-5.1 37.8-10.2-8.9 13.1-20.1 24.7-32.9 34z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://t.me/trustlines_network" target="_blank" rel="noopener" title="Trustlines Network community on Telegram" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://www.linkedin.com/company/trustlinesnetwork/" target="_blank" rel="noopener" title="Trustlines Network on LinkedIn" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+      </a>
+    
+      
+      
+      <a href="https://github.com/trustlines-protocol" target="_blank" rel="noopener" title="Trustlines Protocol on GitHub" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+      </a>
+    
+  </div>
+
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.instant", "navigation.top", "navigation.sections"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../assets/javascripts/workers/search.409db549.min.js", "version": null}</script>
+    
+    
+    
+      <script src="../../../assets/javascripts/bundle.756773cc.min.js"></script>
+      
+        <script src="../../../assets/js/stats.js"></script>
+      
+    
+    <script>
+    var elements = document.getElementsByClassName("lightgallery");
+    for(var i=0; i<elements.length; i++) {
+       lightGallery(elements[i]);
+    }
+    </script>
+
+  </body>
+</html>

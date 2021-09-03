@@ -1,5 +1,9 @@
 # Trustlines Docs
 
+Trustlines Docs contains all the non-technical documentation related to the Trustlines Network.
+
+**Visit the website at https://docs.trustlines.network/**
+
 ## Installing
 
 ### Requirements

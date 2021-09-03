@@ -24,6 +24,7 @@ Install the [Lightgallery](https://sachinchoolur.github.io/lightgallery.js/) com
 #### Versions used
 
 MkDocs: v1.2.2
+
 MkDocs Material: v7.2.6
 
 ## Running locally

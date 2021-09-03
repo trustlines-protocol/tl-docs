@@ -211,7 +211,7 @@ To enable different currency networks, simply select the `Account` tab at the bo
 
 Currency networks can also be enabled during the [trustline creation process](#creating-a-trustline) on the go without the need to enable them in advance.
 
-<center><div class="lightgallery"><a data-sub-html="Currencies" href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></div></center>
+<center><div class="lightgallery"><a data-sub-html="Currencies" href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a></div></center>
 
 ___
 

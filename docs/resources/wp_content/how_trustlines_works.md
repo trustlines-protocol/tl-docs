@@ -153,7 +153,7 @@ Pseudo-anonymous validators run TLBC to ensure censorship-resistance. TLBC can a
 
 The Trustlines Blockchain went live on November 21st 2019. You can read more about the launch in the [Launching the Trustlines Blockchain blog post](https://blog.trustlines.network/t-x-launching-the-trustlines-blockchain/). There is also a Blockchain Explorer for TLBC: <https://explore.tlbc.trustlines.foundation/>.
 
-TLBC is based on [Parity's Aura consensus algorithm](https://wiki.parity.io/Aura). Aura (known from Kovan, xDAI, and others) is usually used in Proof-of-Authority chains. For our purposes of making it suitable for mPoS, we rely on the following additional features:
+TLBC is based on [Parity's Aura consensus algorithm](https://openethereum.github.io/Aura). Aura (known from Kovan, xDAI, and others) is usually used in Proof-of-Authority chains. For our purposes of making it suitable for mPoS, we rely on the following additional features:
 
 -   Staking and slashing mechanisms to combat equivocation
 
@@ -239,7 +239,7 @@ There are two different tokens used in connection with Trustlines:
 
   -   TLN is currently required for staking in the validator auctions for the Trustlines Blockchain.
 
-  -   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle drop launch](https://trustlines.foundation/merkle-drop.html) blog post. The Trustlines Foundation will also consider other distribution models in the future.
+  -   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle Drop Launch](https://blog.trustlines.network/merkle-drop-launch/) blog post. The Trustlines Foundation will also consider other distribution models in the future.
 
   -   TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.
 

@@ -26,33 +26,29 @@ The easiest way to claim TLN from the Merkle Drop is to use the Merkle Drop webs
 
 ### Go to the Merkle Drop website
 
-!!! quote ""
-    Head on over to [https://trustlines.foundation/merkle-drop](https://trustlines.foundation/merkle-drop) to get started.
+Head on over to [https://trustlines.foundation/merkle-drop](https://trustlines.foundation/merkle-drop) to get started.
 
-    <center><div><a class="vdw_a" data-sub-html="" href="https://trustlines.foundation/merkle-drop"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm01.png"></a></div></center>
+<center><div><a class="vdw_a" data-sub-html="" href="https://trustlines.foundation/merkle-drop"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm01.png"></a></div></center>
 
 ### Check eligibility
 
-!!! quote ""
-    Enter your Ethereum address in the box and click on `Check eligibility` to confirm that your address is eligible to claim TLN from the Merkle Drop.
+Enter your Ethereum address in the box and click on `Check eligibility` to confirm that your address is eligible to claim TLN from the Merkle Drop.
 
-    <center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm02.png" target="_blank"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm02.png"></a></div></center>
+<center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm02.png" target="_blank"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm02.png"></a></div></center>
 
 ### Claiming the tokens
 
-!!! quote ""
-    After entering an eligible address, you can claim your tokens.
+After entering an eligible address, you can claim your tokens.
 
-    !!! note
-        The page will show "X TLN claimable out of original Y TLN" because the amount is decaying over time. The sooner you claim, the more you get.
+!!! note
+    The page will show "X TLN claimable out of original Y TLN" because the amount is decaying over time. The sooner you claim, the more you get.
 
-    <center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm03.png"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm03.png"></a></div></center>
+<center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm03.png"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm03.png"></a></div></center>
 
 You will need to **Accept** the [Terms and Conditions](https://trustlines.foundation/terms-conditions-merkle-drop.html) of the Merkle Drop in order to move forward in claiming your tokens.
 
-!!! quote ""
-    A MetaMask notification will pop up where you need to confirm the transaction for claiming the tokens.
+A MetaMask notification will pop up where you need to confirm the transaction for claiming the tokens.
 
-    <center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm04.png"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm04.png"></a></div></center>
+<center><div class="lightgallery"><a class="vdw_a" data-sub-html="" href="../../assets/images/tln_claim_guide/claim_mm04.png"><img class="vdw_img" src="../../assets/images/tln_claim_guide/claim_mm04.png"></a></div></center>
 
 After the transaction has been confirmed, you will soon receive the TLN in your wallet.

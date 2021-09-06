@@ -34,7 +34,7 @@ To withdraw your deposit from the contract, you will need to interact with the `
         * **Staked token**: ETH
 
 ## Checking that the locking period has ended
-To withdraw your deposit from the contract, you will need to interact with the `DepositLocker` contract. The contract address on Ethereum is [0xd56a61ad1b16f1f0326785902593c7adbf733e34](https://etherscan.io/address/0xd56a61ad1b16f1f0326785902593c7adbf733e34).
+To withdraw your deposit from the contract, you will need to interact with the `DepositLocker` contract. See the contract address on Ethereum from the list above, tabs contain addresses of different auctions.
 
 Make sure the deposits are unlocked by checking that the `releaseTimestamp` has passed. To do this on the contract page, click on `contract`.
 

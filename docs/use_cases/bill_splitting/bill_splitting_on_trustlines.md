@@ -7,7 +7,7 @@ Trustlines is an excellent way to keep track of debts without the need to handle
 
 One advantage of using Trustlines is that it also allows you to avoid handling cash even with people beyond your immediate circle of friends, by automatically moving around the credit in your network. For example, if your acquaintance Alice pays a restaurant $10 for your lunch, and your mutual friend Bob owes you $10, you can "pay" Alice back by simply transferring Bob's debt to Alice. This transfer of credit occurs automatically during "multi-hop payments" on Trustlines.
 
-Before you can use Trustlines for payments, you first need to create some trustlines with your trusted friends. You can create trustlines even with those you don't plan to transact with often, increasing the extended network of people with whom you can transact. Higher credit limits on your trustlines will allow you to send larger payments. See the [User Guide](https://docs.trustlines.network/docs/guides/tl_app_user_guide.html) for instructions about opening trustlines.
+Before you can use Trustlines for payments, you first need to create some trustlines with your trusted friends. You can create trustlines even with those you don't plan to transact with often, increasing the extended network of people with whom you can transact. Higher credit limits on your trustlines will allow you to send larger payments. See the [User Guide](../../../guides/tl_app_user_guide) for instructions about opening trustlines.
 
 ## Why use Trustlines for bill splitting
 

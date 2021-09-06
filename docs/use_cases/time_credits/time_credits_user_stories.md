@@ -17,7 +17,7 @@ This diagram shows how different entities using time credits are naturally inter
 The easiest way to start using time credits is to join the decentralized timebank. Group clusters will occur around geographic areas or according to interest groups. For example, several individuals may want to start using time credits in the Berlin area.
 
 !!! abstract "Scenario 1: Decentralized Timebank"
-    Individuals can start using time credits independently, with anyone they trust. By doing so, they join the "decentralized timebank." |
+    Individuals can start using time credits independently, with anyone they trust. By doing so, they join the "decentralized timebank."
 
 <h3>How to integrate with Trustlines</h3>
 
@@ -90,7 +90,7 @@ Emma is the manager of Berlin Foodsharing. Sam has a trustline with Berlin Foods
 </section>
 </div></center>
 
-Sam begins accumulating time credits. Every month, Sam earns ten credits and then spends ten credits with connected people and organizations. For an explanation of spending, see [Scenarios 5 to 8](#5-partnerships-between-businesses-and-community-groups-1).
+Sam begins accumulating time credits. Every month, Sam earns ten credits and then spends ten credits with connected people and organizations. For an explanation of spending, see [Scenarios 5 to 8](#5-partnerships-between-businesses-and-community-groups).
 
 But one month, Sam earns ten credits and doesn't spend them. Ten is the maximum amount of credits allowed by this credit limit. So next month, to continue earning credits, Sam agrees to raise Berlin Foodhsharing's credit limit to 20. This enables Emma to pay Sam an additional ten credits that month.
 
@@ -180,7 +180,7 @@ Emma is the manager of Berlin Foodsharing. Emma and Heidi open a trustline betwe
 
 ## 6. Peer-to-Peer Transactions: The Network Effect
 
-As described in the Decentralized Timebank ([Scenario 1](#1-decentralized-timebank-1)), individual community members may choose to accept time credits from other individuals, outside the constraints of a registered business. Depending on how these individuals are connected to the rest of the community, they may be able to ripple their time credits through different groups in order to make a payment to another individual or supportive business accepting time credits.
+As described in the Decentralized Timebank ([Scenario 1](#1-decentralized-timebank), individual community members may choose to accept time credits from other individuals, outside the constraints of a registered business. Depending on how these individuals are connected to the rest of the community, they may be able to ripple their time credits through different groups in order to make a payment to another individual or supportive business accepting time credits.
 
 ### 6.1. Encouraging reciprocity in community groups
 

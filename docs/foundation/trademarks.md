@@ -39,7 +39,7 @@ If you want to use the Trustlines trademarks, you don't require Trustlines Found
 
 !!! info "2.1.1 - Rule #1 The ecosystem rule"
 
-    Refer to Trustlines or use the trademark and logo only when promoting products, projects, or events based on or about the [Trustlines Protocol](https://trustlines.network/#protocol) and in accordance with the disclaimer below. Use of the Trustlines trademarks when referring to _other software or technologies_, would be misleading to the audience, as well as damaging to the Trustlines brand and ecosystem. Therefore, Trustlines trademarks must not be used when referring to software based on protocols by other entities or in another misleading or unfair manner. Any use of the trademarks in these contexts could potentially subject you to liability for trademark infringement, false advertising, and unfair competition.
+    Refer to Trustlines or use the trademark and logo only when promoting products, projects, or events based on or about the [Trustlines Protocol](https://trustlines.foundation/protocol) and in accordance with the disclaimer below. Use of the Trustlines trademarks when referring to _other software or technologies_, would be misleading to the audience, as well as damaging to the Trustlines brand and ecosystem. Therefore, Trustlines trademarks must not be used when referring to software based on protocols by other entities or in another misleading or unfair manner. Any use of the trademarks in these contexts could potentially subject you to liability for trademark infringement, false advertising, and unfair competition.
 
 !!! info "2.1.2 - Rule #2 Use your brand and add Trustlines as an ingredient brand"
 
@@ -47,7 +47,7 @@ If you want to use the Trustlines trademarks, you don't require Trustlines Found
 
 !!! info "2.1.3 - Rule #3 Use Trustlines trademarks according to our brand guidelines"
 
-    Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../brand/brand_resources), usage follows the [Brand Guidelines](../brand/brand_guidelines).
+    Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../../brand/brand_resources), usage follows the [Brand Guidelines](../../brand/brand_guidelines).
 
 !!! info "2.1.4 - Rule #4 Use the trademark as an adjective"
 

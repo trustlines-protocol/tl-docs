@@ -46,13 +46,13 @@ The Trustlines Foundation is supporting research, development, deployment, gover
 
     - Support the adoption of the Trustlines Protocol even in specific use cases to the extent that these do not conflict with its charitable purpose
 
-      - To that end, it's specifically organizing and promoting open-source development around the Trustlines Protocol and maintaining respective Github repositories
+        - To that end, it's specifically organizing and promoting open-source development around the Trustlines Protocol and maintaining respective Github repositories
 
     - Incentivising and supporting developers or other entities that want to build on top of the Trustlines Protocol
 
-      - For example, for the use case, people powered money: community currency projects
+        - For example, for the use case, people powered money: community currency projects
 
-      - The Foundation does this in a purely educational, non-profit way
+        - The Foundation does this in a purely educational, non-profit way
 
     - Owning and managing the "Trustlines" and "Trustlines Network" names/trademarks and related domains
 
@@ -76,10 +76,14 @@ Examples of capitalizing brand names would be Trustlines **N**etwork, Trustlines
 
 #### Links to resources
 
+<center>
+
 | | |
 |:-:|:-:|
-| <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
-| <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
+| <a class="comms_guide_res_table" href="../../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="../presentations/presentation_slides">**Presentation Slides**</a> |
+| <a class="comms_guide_res_table" href="../../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../../foundation/trademarks">**Trademark Guidelines**</a> |
+
+</center>
 
 ## 3. Arranging an event
 
@@ -93,7 +97,7 @@ Anyone is free to arrange an event or a meetup related to the Trustlines Network
 
     - You can send an email to the Trustlines Foundation to check if it can help find a speaker for an event or a meetup
 
-    - You can check the Trustlines Foundation's [Twitter account](https://twitter.com/trustlinesfound) and the [Events section](https://forum.trustlines.network/c/network/events/13) of [Trustlines Forum](https://forum.trustlines.network/) to see upcoming and past events
+    - You can check the Trustlines Foundation's [Twitter account](https://twitter.com/TrustlinesFound) and the [Events section](https://forum.trustlines.network/c/network/events/13) of [Trustlines Forum](https://forum.trustlines.network/) to see upcoming and past events
 
 !!! abstract "Topic ideas"
 
@@ -117,7 +121,7 @@ Currently, one of the more established and well-developed use cases is people-po
 
 ### People Powered Money (PPM)
 
-The term "People Powered Money" is based on the EU Funded Community Currencies in Action (CCIA) research paper "[People Powered Money](https://neweconomics.org/uploads/files/0dba46d13aa81f0fe3_zhm62ipns.pdf)." The term is colloquially used to categorize various complementary currency initiatives throughout Europe and is therefore an umbrella term for multiple use cases. Though they vary in design, the currencies are all local, grassroots economic initiatives. Such initiatives belong to a distributed, world-wide group of projects and are also documented by economists such as [Bernard Lietaer](https://en.wikipedia.org/wiki/Bernard_Lietaer) in the book "[People Money](http://www.lietaer.com/writings/books/people-money/)." Complementary/community/alternative currencies are "people money." They are not necessarily a replacement for commercial bank money or government money. Instead, they are an entirely different type of money that can act in parallel to commercial and government money and may provide economic resilience when these systems fail.
+The term "People Powered Money" is based on the EU Funded Community Currencies in Action (CCIA) research paper "[People Powered Money](https://neweconomics.org/uploads/files/0dba46d13aa81f0fe3_zhm62ipns.pdf)." The term is colloquially used to categorize various complementary currency initiatives throughout Europe and is therefore an umbrella term for multiple use cases. Though they vary in design, the currencies are all local, grassroots economic initiatives. Such initiatives belong to a distributed, world-wide group of projects and are also documented by economists such as [Bernard Lietaer](https://en.wikipedia.org/wiki/Bernard_Lietaer) in the book "[People Money](https://www.lietaer.com/2021/01/people-money/)." Complementary/community/alternative currencies are "people money." They are not necessarily a replacement for commercial bank money or government money. Instead, they are an entirely different type of money that can act in parallel to commercial and government money and may provide economic resilience when these systems fail.
 
 !!! quote ""
     <center><div class="lightgallery"><a data-sub-html="" href="../../assets/images/ppm_ss01.png"><img src="../../assets/images/ppm_ss01.png" style="max-width:50%;"></a></div></center>
@@ -127,9 +131,9 @@ Mutual credit is a type of People Powered Money. It is a money creation method a
 
 Mutual credit requires only a creditor and a debtor to exist. The creditor agrees to lend the debtor a number of resources, and at a future point in time, the debtor repays the amount owed. The denomination of the credited amount can be whatever the parties decide upon. Mutual credit is found throughout the ages and can even be traced back to the origins of [civilizations (page 22)](https://libcom.org/files/__Debt__The_First_5_000_Years.pdf). While mutual credit is easy to issue, it does not scale beyond small communities since creditors and debtors need to trust each other. It is, therefore, not conceivable to make a global mutual credit network since no one trusts everyone.
 
-[Ripple Pay](https://classic.ripplepay.com/) is a money system based on 'friendly obligations' intended to make mutual credit work as a [payment system](https://wiki.p2pfoundation.net/Ripple_Pay). Users specify how much they can lend and borrow from their friends, and the protocol lets strangers (untrusting parties) pay each other through a path of (trusted) connected friends. RipplePay later became [Ripple Labs](https://en.wikipedia.org/wiki/Ripple_Labs) and abandoned the idea. In 2016, Trustlines took the same idea and implemented it on the Ethereum blockchain.
+[Ripple Pay](https://web.archive.org/web/20200826113001/https://classic.ripplepay.com/) is a money system based on 'friendly obligations' intended to make mutual credit work as a [payment system](https://wiki.p2pfoundation.net/Ripple_Pay). Users specify how much they can lend and borrow from their friends, and the protocol lets strangers (untrusting parties) pay each other through a path of (trusted) connected friends. RipplePay later became [Ripple Labs](https://en.wikipedia.org/wiki/Ripple_Labs) and abandoned the idea. In 2016, Trustlines took the same idea and implemented it on the Ethereum blockchain.
 
-<u>The thought process was that the Ripple idea could benefit from using a blockchain since that would remove the single point of failure that RipplePay had, which used a centralized server. In other words, a successful RipplePay would also fail to scale beyond a certain point where people would ask if the company was acting in everyone's interest, or if a government decided that Ripple was illegal. Using a blockchain solves these issues by introducing tamper-proof and unstoppable accounting</u>.
+**The thought process was that the Ripple idea could benefit from using a blockchain since that would remove the single point of failure that RipplePay had, which used a centralized server. In other words, a successful RipplePay would also fail to scale beyond a certain point where people would ask if the company was acting in everyone's interest, or if a government decided that Ripple was illegal. Using a blockchain solves these issues by introducing tamper-proof and unstoppable accounting**.
 
 The Trustlines Network ecosystem sees the original Ripple idea as a type of People Powered Money. It uses the term " Trustlines People Powered Money" to describe any form of peer-to-peer mutual credit use case built on the Trustlines Protocol.
 
@@ -137,7 +141,7 @@ You can read more about this in the [People Powered Money on the Trustlines Prot
 
 ## 5. Trademarks and licensing
 
-"Trustlines" and "Trustlines Network" are registered trademarks that are owned by the Trustlines Foundation. The purpose of the registration is to protect the usage of the terms "Trustlines" and "Trustlines Network" from inappropriate or malicious use. [Trustlines Trademark Guidelines](../foundation/trademarks) are publically available on how a party may use the "Trustlines" and "Trustlines Network" trademarks.
+"Trustlines" and "Trustlines Network" are registered trademarks that are owned by the Trustlines Foundation. The purpose of the registration is to protect the usage of the terms "Trustlines" and "Trustlines Network" from inappropriate or malicious use. [Trustlines Trademark Guidelines](../../foundation/trademarks) are publically available on how a party may use the "Trustlines" and "Trustlines Network" trademarks.
 
 ## 6. Communication and Trustlines Network Channels
 

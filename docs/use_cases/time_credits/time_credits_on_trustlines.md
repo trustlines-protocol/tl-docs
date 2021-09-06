@@ -9,7 +9,7 @@ This article dives into the philosophy of time credits. It shows that emphasis o
 
 Why is this possible? Economic networks on Trustlines are based on existing trusted relationships, so natural economic borders emerge between communities where there are fewer trusted relationships. However, these communities remain connected at the edges---wherever they are naturally interconnected by individual friends and families.
 
-To help visualize unique ways to implement time credits in your community, you can check out [Time Credits - User Stories](time_credits_user_stories).
+To help visualize unique ways to implement time credits in your community, you can check out [Time Credits - User Stories](../time_credits_user_stories).
 
 !!! tip "Top 7 reasons to use Trustlines for time credits"
 
@@ -25,7 +25,7 @@ To help visualize unique ways to implement time credits in your community, you c
 
 In the non-profit sector, there is an often-overlooked but important distinction between charity work and **solidarity work**. Using the term "solidarity" usually indicates a belief that community work is a reciprocal or circular activity. Proponents emphasize that we each have something to both contribute and to gain from our neighbors, that no person is an island.
 
-This philosophy is apparent in most time credit systems. Time credits (also referred to as time dollars or timebanking) are a form of alternative currency in which the unit of account is "time." In other words, they receive a number of credits corresponding to the number of hours worked. See _"[Top 3 reasons to use time credits for community work](#top-3-reasons-to-use-time-credits-for-community-work)"_ for some benefits of time credits.
+This philosophy is apparent in most time credit systems. Time credits (also referred to as time dollars or timebanking) are a form of alternative currency in which the unit of account is "time." In other words, they receive a number of credits corresponding to the number of hours worked. See **Top 3 reasons to use time credits for community work** for some benefits of time credits.
 
 Within most time credit systems, it is generally accepted that everybody's time should be valued equally. This may be due to an egalitarian philosophy, but also related to the specific type of work being done. "Care work" is an example of a specific type of work that is not typically valued by the market economy, but it can be a good fit for time credits.
 
@@ -52,4 +52,4 @@ Because of the trust involved in creating an alternative economy, it is difficul
 * People are more trusting when the community consists of friends or friends-of-friends, so members can hold each other accountable.
 * In a large community, people may lose faith that others will honor the value of their credits.
 
-These problems of scalability are easily avoided when using Trustlines. But Trustlines still preserves all the advantages of centralized systems. Similar centralized configurations can be created using Trustlines. For further details about the advantages of using Trustlines, please see _"[Top 7 reasons to use Trustlines for time credits](#top-7-reasons-to-use-trustlines-for-time-credits)"_. Otherwise, please continue to [Time Credits - User Stories](time_credits_user_stories) to help visualize different ways to use Trustlines for time credits.
+These problems of scalability are easily avoided when using Trustlines. But Trustlines still preserves all the advantages of centralized systems. Similar centralized configurations can be created using Trustlines. For further details about the advantages of using Trustlines, please see _"[Top 7 reasons to use Trustlines for time credits](#why-use-trustlines-for-time-credits)"_. Otherwise, please continue to [Time Credits - User Stories](../time_credits_user_stories) to help visualize different ways to use Trustlines for time credits.

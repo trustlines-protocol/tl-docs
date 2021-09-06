@@ -29,7 +29,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
     The two people who share a trustline control the flow of that trustline. When one person sends a payment request to another person, it is up to the receiver to accept or reject that credit.
 
-    Your trustline credit balance can also change as a result of a [multi-hop payment](https://docs.trustlines.network/docs/resources/wp_content/how_trustlines_works.html#24-multi-hop-payment). This can happen if payments get rippled through you. This can not exceed a credit limit you have set for a trustline.
+    Your trustline credit balance can also change as a result of a [multi-hop payment](../wp_content/how_trustlines_works/#24-multi-hop-payment). This can happen if payments get rippled through you. This can not exceed a credit limit you have set for a trustline.
 
 !!! question "What is a balance?"
 
@@ -86,7 +86,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
 !!! question "Can I leave currency networks?"
 
-    Yes. To leave, you need to close (see close) all your trustlines.
+    Yes. To leave, you need to close all your trustlines in a given currency network.
 
 ## General
 
@@ -98,7 +98,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
     The Trustlines Network aims to promote the financial and economic inclusion of all people through decentralized and open-source systems. It consists of all the people, organizations, and other entities, participating in creating and using the Trustlines Network ecosystem.
 
-    The Trustlines Protocol represents a set of rules, processes, and definitions forged into deployable code, enabling the mapping of trust-based relationships onto trustless infrastructure. Read more about the protocol [here](wp_content/how_trustlines_works.md#4-trustlines-protocol-technology-stack-1).
+    The Trustlines Protocol represents a set of rules, processes, and definitions forged into deployable code, enabling the mapping of trust-based relationships onto trustless infrastructure. Read more about the protocol [here](wp_content/how_trustlines_works.md#4-trustlines-protocol-technology-stack).
 
 !!! question "What problem are you solving?"
 
@@ -110,7 +110,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
 !!! question "Do you have a whitepaper?"
 
-    We have some [whitepaper content](wp_content/abstract) here at the Trustlines Docs.
+    We have the [whitepaper](../wp_content/abstract) here at the Trustlines Docs.
 
 !!! question "When will all of this be live?"
 
@@ -190,7 +190,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
 !!! question "How does the sidechain work?"
 
-    The Trustlines Blockchain will be a minimal viable Proof-of-Stake (mPoS) [Ethereum](https://ethereum.org/) sidechain based on [Parity's Aura consensus algorithm](https://wiki.parity.io/Aura). Aura (known from Kovan, poa.network, xDAI, and others) is usually used in Proof of Authority chains. We added the following features:
+    The Trustlines Blockchain is a Proof-of-Stake (PoS) [Ethereum](https://ethereum.org/) sidechain based on [Parity's Aura consensus algorithm](https://openethereum.github.io/Aura). Aura (known from Kovan, poa.network, xDAI, and others) is usually used in Proof of Authority chains. We added the following features:
 
     1.  Anonymous validators
     2.  Staking and slashing mechanisms to combat equivocation
@@ -235,10 +235,8 @@ title: Frequently Asked Questions about the Trustlines Network
 
 !!! question "I won a slot at the auction, and I'm a Trustlines validator. What now?"
 
-    -   Run a validator node\\
-        Now you need to launch a Trustlines validator node. If you're unsure how to do this, start by familiarizing yourself with the process by watching the [How to Install a Trustlines Node for Laika Testnet video](https://youtu.be/ozB--QRiPvw). You can find the full [documentation](https://dev.trustlines.network/docs/blockchain/tlbc.html#setup-with-the-quickstart-script) at the [Trustlines Developer Docs](https://dev.trustlines.network).
-    -   Participate in governance\\
-        The Trustlines Foundation currently announces proposed forks on [the Trustlines Forum](https://forum.trustlines.network/), which you will need to familiarize yourself with. You can discuss the proposed forks and other governance topics on the Trustlines subreddit or any other forum that validators wish to use.
+    - Now you need to launch a Trustlines validator node. If you're unsure   how to do this, start by familiarizing yourself with the process by watching the [How to Install a Trustlines Node for Laika Testnet video](https://youtu.be/ozB--QRiPvw). You can find the full [documentation](https://dev.trustlines.network/blockchain/tlbc#setup-with-the-quickstart-script) at the [Trustlines Developer Docs](https://dev.trustlines.network).
+    - The Trustlines Foundation currently announces proposed forks on [the Trustlines Forum](https://forum.trustlines.network/), which you will need to familiarize yourself with. You can discuss the proposed forks and other governance topics on the Trustlines subreddit or any other forum that validators wish to use.
 
 !!! question "What happens after nine months?"
 
@@ -276,7 +274,7 @@ title: Frequently Asked Questions about the Trustlines Network
 
     Offline: To sign up offline, meet the Trustlines team in person at a meetup or conference. Follow us on [Twitter](https://twitter.com/TrustlinesFound) to see when and where the next possibilities to sign up occur.
 
-    Online: Use [Proof-of-Sociability](https://blog.trustlines.network/become-a-trustlines-validator-candidate-using-proof-of-sociality). Send a DM with your email address to [@tl_validator](https://twitter.com/tl_validator) on Twitter.
+    Online: Use [Proof-of-Sociality](https://blog.trustlines.network/become-a-trustlines-validator-candidate-using-proof-of-sociality). Send a DM with your email address to [@tl_validator](https://twitter.com/tl_validator) on Twitter.
 
 !!! question "Why should I be a Trustlines validator?"
 

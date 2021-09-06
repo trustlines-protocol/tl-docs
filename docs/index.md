@@ -40,7 +40,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="use_cases/time_credits/time_credits_on_trustlines">
+    <a href="guides/tl_app_user_guide">
       <div class="index_card_img"><img src="assets/images/card_guides.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Guides</p>
@@ -84,7 +84,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
 <div class="index_cards_row">
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="foundation/trademarks">
       <div class="index_card_img"><img src="assets/images/card_legal.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Legal</p>
@@ -159,7 +159,7 @@ ___
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="https://blog.trustlines.network/" target="_blank" rel="noopener">
       <div class="index_card_img"><img src="assets/images/tl_blog_card.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines Blog</p>
@@ -169,7 +169,7 @@ ___
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="https://forum.trustlines.network/" target="_blank" rel="noopener">
       <div class="index_card_img"><img src="assets/images/tl_forum_card.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines Forum</p>
@@ -181,7 +181,7 @@ ___
 
 <div class="index_cards_row">
   <div class="index_cards">
-    <a href="https://twitter.com/TrustlinesFound" target="_blank">
+    <a href="https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA" target="_blank" rel="noopener">
       <div class="index_card_img"><img src="assets/images/tf_youtube_card.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines Foundation YouTube channel</p>
@@ -191,7 +191,7 @@ ___
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="https://twitter.com/trustlines_app" target="_blank" rel="noopener">
       <div class="index_card_img"><img src="assets/images/tla_twitter_card.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines App at Twitter</p>
@@ -201,7 +201,7 @@ ___
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="https://t.me/trustlines_network" target="_blank" rel="noopener">
       <div class="index_card_img"><img src="assets/images/tl_telegram_card.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines Network Community Telegram group</p>

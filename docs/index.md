@@ -72,7 +72,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="foundation/trademarks">
+    <a href="resources/glossary/">
       <div class="index_card_img"><img src="assets/images/card_community.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Community</p>

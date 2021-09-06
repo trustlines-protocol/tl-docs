@@ -989,7 +989,8 @@ input.md-search__input {
   }
 
   .md-footer-social {
-    margin: 0 0 0 4rem !important;
+    margin: 0 1em 0 4rem !important;
+    align-items: flex-end !important;
   }
 
   .md-footer-social__link svg {

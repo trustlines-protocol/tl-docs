@@ -42,27 +42,15 @@ extra_javascript:
 
 extra:
   social:
-    - icon: material/comment
-      link: https://blog.trustlines.network/
-      name: Trustlines Blog
-    - icon: fontawesome/brands/discourse
-      link: https://forum.trustlines.network/
-      name: Trustlines Forum
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/TrustlinesFound
       name: Trustlines Foundation on Twitter
     - icon: fontawesome/brands/twitter-square
       link: https://twitter.com/trustlines_app
       name: Trustlines App on Twitter
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/trustlines_network
-      name: Trustlines Network community on Telegram
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/trustlinesnetwork/
       name: Trustlines Network on LinkedIn
-    - icon: fontawesome/brands/github
-      link: https://github.com/trustlines-protocol
-      name: Trustlines Protocol on GitHub
   homepage: https://trustlines.network/
   alternate:
     - name: English

@@ -462,10 +462,10 @@ p.presentation_images {
 }
 
 .md-top {
-  background-color: var(--white-alt);
+  background-color: var(--purple-tertiary);
   border-radius: 1.6rem;
   box-shadow: 0 0.2rem 0.5rem rgb(123 85 255 / 15%), 0 0 0.05rem rgb(123 85 255 / 35%);
-  color: var(--purple-tertiary);
+  color: var(--white-alt);
   font-size: .7rem;
   margin-left: 50%;
   outline: none;
@@ -480,7 +480,7 @@ p.presentation_images {
 }
 
 .md-top .md-icon svg {
-  fill: var(--purple-tertiary);
+  fill: var(--white-alt);
 }
 
 .md-tabs__link {
@@ -989,7 +989,8 @@ input.md-search__input {
   }
 
   .md-footer-social {
-    margin: 0 0 0 4rem !important;
+    margin: 0 1em 0 4rem !important;
+    align-items: flex-end !important;
   }
 
   .md-footer-social__link svg {

@@ -1279,3 +1279,9 @@ p a em {
 .md-footer__link {
   padding-top: .1rem;
 }
+
+.wp_cover {
+  height: 250px !important;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1em;
+}

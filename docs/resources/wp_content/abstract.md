@@ -5,6 +5,14 @@ subtitle: Whitepaper content
 
 # Trustlines Network Whitepaper
 
+!!! quote ""
+
+    <center>
+    <a href="../../../assets/pdf/Trustlines_Network_Whitepaper_2021.pdf">
+    <img class="wp_cover" src="../../../assets/images/wp_content/wp_2021_cover.png" /><br>
+    Download as PDF</a>
+    </center>
+
 ## Abstract
 
 Currently there are multiple issues limiting broad adoption of cryptocurrencies. They do not fit into the current economic reality where money is mainly created as debt by banks and the capital cost incurred when people provisioning cryptocurrencies is prohibitive. Moreover, the requirement of upfront deposit money, having a bank account, dependency on centralized, often non-regulated, cryptocurrency exchanges, lack of user-friendly user experience and the necessity to deal with cryptocurrency transfers are hindering adoption. 

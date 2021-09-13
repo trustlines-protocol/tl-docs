@@ -2,7 +2,7 @@ site_name: Trustlines Docs
 site_url: https://docs.trustlines.network/
 repo_name: tl-docs
 repo_url: https://github.com/trustlines-protocol/tl-docs
-site_description: Docs for the Trustlines Network
+site_description: Documentation related to the Trustlines Network.
 theme:
   name: material
   logo: assets/images/brand/General/SVG/trustlines-mark-logo-white.svg
